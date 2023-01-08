@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/31337","type":"Person","_label":"Joseph Y. Fujikawa","identified_by":[{"type":"Name","_label":"DisplayName","content":"Joseph Y. Fujikawa"},{"type":"Name","_label":"AlphaSortName","content":"Fujikawa Joseph Y."}],"equivalent":[{"id":"http://viaf.org/viaf/172642691","type":"Person"}]}

@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/70153","type":"Person","_label":"Annette Lawrence","identified_by":[{"type":"Name","_label":"DisplayName","content":"Annette Lawrence"},{"type":"Name","_label":"AlphaSortName","content":"Lawrence Annette"}],"equivalent":[{"id":"http://vocab.getty.edu/ulan/500114721","type":"Person"}]}

@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/32701","type":"Person","_label":"Susan Ginsburg","identified_by":[{"type":"Name","_label":"DisplayName","content":"Susan Ginsburg"},{"type":"Name","_label":"AlphaSortName","content":"Ginsburg Susan"}],"equivalent":[{"id":"http://viaf.org/viaf/12092602","type":"Person"}]}

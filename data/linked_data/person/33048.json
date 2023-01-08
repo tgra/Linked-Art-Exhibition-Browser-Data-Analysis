@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/33048","type":"Person","_label":"Kent Floeter","identified_by":[{"type":"Name","_label":"DisplayName","content":"Kent Floeter"},{"type":"Name","_label":"AlphaSortName","content":"Floeter Kent"}],"equivalent":[{"id":"http://viaf.org/viaf/59036383","type":"Person"}]}

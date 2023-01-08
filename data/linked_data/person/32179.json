@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/32179","type":"Person","_label":"Allan McNab","identified_by":[{"type":"Name","_label":"DisplayName","content":"Allan McNab"},{"type":"Name","_label":"AlphaSortName","content":"McNab Allan"}],"equivalent":[{"id":"http://viaf.org/viaf/95836813","type":"Person"}]}

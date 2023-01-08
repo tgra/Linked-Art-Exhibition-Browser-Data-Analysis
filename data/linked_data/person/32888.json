@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/32888","type":"Person","_label":"Peggy Gale","identified_by":[{"type":"Name","_label":"DisplayName","content":"Peggy Gale"},{"type":"Name","_label":"AlphaSortName","content":"Gale Peggy"}],"equivalent":[{"id":"http://viaf.org/viaf/94295778","type":"Person"}]}

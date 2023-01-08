@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/33105","type":"Person","_label":"Robert Warrens","identified_by":[{"type":"Name","_label":"DisplayName","content":"Robert Warrens"},{"type":"Name","_label":"AlphaSortName","content":"Warrens Robert"}],"equivalent":[{"id":"http://viaf.org/viaf/305191668","type":"Person"}]}

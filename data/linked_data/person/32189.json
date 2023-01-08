@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/32189","type":"Person","_label":"Walter Baermann","identified_by":[{"type":"Name","_label":"DisplayName","content":"Walter Baermann"},{"type":"Name","_label":"AlphaSortName","content":"Baermann Walter"}],"equivalent":[{"id":"http://viaf.org/viaf/61452568","type":"Person"}]}

@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/31512","type":"Person","_label":"Vincent Korda","identified_by":[{"type":"Name","_label":"DisplayName","content":"Vincent Korda"},{"type":"Name","_label":"AlphaSortName","content":"Korda Vincent"}],"equivalent":[{"id":"http://viaf.org/viaf/86497741","type":"Person"}]}

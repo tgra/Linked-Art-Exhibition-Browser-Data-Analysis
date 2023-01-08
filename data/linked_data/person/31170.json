@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/31170","type":"Person","_label":"John C. Harkness","identified_by":[{"type":"Name","_label":"DisplayName","content":"John C. Harkness"},{"type":"Name","_label":"AlphaSortName","content":"Harkness John C."}],"equivalent":[{"id":"http://viaf.org/viaf/56684450","type":"Person"}]}

@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/32739","type":"Person","_label":"William Ewing","identified_by":[{"type":"Name","_label":"DisplayName","content":"William Ewing"},{"type":"Name","_label":"AlphaSortName","content":"Ewing William"}],"equivalent":[{"id":"http://viaf.org/viaf/88239539","type":"Person"}]}

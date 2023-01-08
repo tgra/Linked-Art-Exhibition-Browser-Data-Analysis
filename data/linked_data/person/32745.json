@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/32745","type":"Person","_label":"David Brownlee","identified_by":[{"type":"Name","_label":"DisplayName","content":"David Brownlee"},{"type":"Name","_label":"AlphaSortName","content":"Brownlee David"}],"equivalent":[{"id":"http://viaf.org/viaf/14820085","type":"Person"}]}

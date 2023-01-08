@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/27854","type":"Person","_label":"Tom Nash","identified_by":[{"type":"Name","_label":"DisplayName","content":"Tom Nash"},{"type":"Name","_label":"AlphaSortName","content":"Nash Tom"}],"equivalent":[{"id":"http://viaf.org/viaf/60727280","type":"Person"}]}

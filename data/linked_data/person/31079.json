@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/31079","type":"Person","_label":"Otto Fuhrmann","identified_by":[{"type":"Name","_label":"DisplayName","content":"Otto Fuhrmann"},{"type":"Name","_label":"AlphaSortName","content":"Fuhrmann Otto"}],"equivalent":[{"id":"http://viaf.org/viaf/64476118","type":"Person"}]}

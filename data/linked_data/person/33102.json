@@ -1,0 +1,1 @@
+{"@context":"https://linked.art/ns/v1/linked-art.json","id":"https://www.moma.org/data/person/33102","type":"Person","_label":"George Staempfli","identified_by":[{"type":"Name","_label":"DisplayName","content":"George Staempfli"},{"type":"Name","_label":"AlphaSortName","content":"Staempfli George"}],"equivalent":[{"id":"http://viaf.org/viaf/96406023","type":"Person"}]}
