@@ -1,0 +1,4006 @@
+{
+  "counter": {
+    "1962": 19,
+    "1953": 28,
+    "1956": 22,
+    "1959": 37,
+    "1961": 28,
+    "1955": 18,
+    "1960": 35,
+    "1963": 11,
+    "1965": 7,
+    "1958": 30,
+    "1954": 26,
+    "1957": 27,
+    "1952": 11,
+    "1964": 11
+  },
+  "events": {
+    "1962": {
+      "06": [
+        {
+          "id": "https://www.moma.org/data/Activity/7298",
+          "_label": "The Best of the Hall of Issues",
+          "start": "1962-06-07",
+          "end": "1962-07-01",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "The Best of the Hall of Issues"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3947",
+          "_label": "Group Show",
+          "start": "1962-06-12",
+          "end": "1962-07-21",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Group Show"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/7164",
+          "_label": "Last Show",
+          "start": "1962-05-25",
+          "end": "1962-06-14",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Last Show"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7197",
+          "_label": "Lois Dodd",
+          "start": "1962-05-04",
+          "end": "1962-05-24",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lois Dodd"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3946",
+          "_label": "George Segal: Recent Paintings and Sculpture",
+          "start": "1962-05-08",
+          "end": "1962-06-02",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "George Segal: Recent Paintings and Sculpture"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3941",
+          "_label": "James Rosenquist",
+          "start": "1962-01-30",
+          "end": "1962-02-17",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "James Rosenquist"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3940",
+          "_label": "Joan Jacobs",
+          "start": "1962-01-09",
+          "end": "1962-01-27",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Joan Jacobs"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7192",
+          "_label": "Work by Hazelet, Ippolito, Pearlstein, Dodd, Katz, Geist, Sirugo, Fine, Wesselmann",
+          "start": "1962-01-19",
+          "end": "1962-02-09",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Hazelet, Ippolito, Pearlstein, Dodd, Katz, Geist, Sirugo, Fine, Wesselmann"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/3951",
+          "_label": "Wesselmann: Collages/Great American Nude & Still Life",
+          "start": "1962-11-13",
+          "end": "1962-12-01",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Wesselmann: Collages/Great American Nude & Still Life"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/7196",
+          "_label": "Morton Lucks",
+          "start": "1962-04-13",
+          "end": "1962-05-03",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Morton Lucks"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3945",
+          "_label": "Contemporary Painting and Sculpture",
+          "start": "1962-04-10",
+          "end": "1962-04-27",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Contemporary Painting and Sculpture"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/3950",
+          "_label": "Philip Wofford",
+          "start": "1962-10-23",
+          "end": "1962-11-10",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Philip Wofford"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/7195",
+          "_label": "Group of 45, Painting and Sculpture",
+          "start": "1962-03-23",
+          "end": "1962-04-12",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Group of 45, Painting and Sculpture"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3944",
+          "_label": "Sally Hazelet Drummond",
+          "start": "1962-03-13",
+          "end": "1962-04-07",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Sally Hazelet Drummond"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7194",
+          "_label": "Lennert Anderson",
+          "start": "1962-03-02",
+          "end": "1962-03-22",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lennert Anderson"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/3948",
+          "_label": "Claes Oldenburg",
+          "start": "1962-09-18",
+          "end": "1962-10-20",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Claes Oldenburg"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/3952",
+          "_label": "Ronald Bladen",
+          "start": "1962-12-11",
+          "end": "1963-01-05",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Ronald Bladen"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/7193",
+          "_label": "Alex Katz: Cutouts",
+          "start": "1962-02-09",
+          "end": "1962-06-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Alex Katz: Cutouts"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3943",
+          "_label": "Tadaaki Kuwayama",
+          "start": "1962-02-20",
+          "end": "1962-03-10",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Tadaaki Kuwayama"
+        }
+      ]
+    },
+    "1953": {
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3849",
+          "_label": "Contemporary Americans",
+          "start": "1953-01-01",
+          "end": "1953-01-31",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Americans"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4418",
+          "_label": "Prints by 17 Artists",
+          "start": "1953-01-04",
+          "end": "1953-02-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Prints by 17 Artists"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3850",
+          "_label": "Felix Pasilis",
+          "start": "1953-01-01",
+          "end": "1953-02-07",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Felix Pasilis"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/4420",
+          "_label": "John Grillo: Paintings",
+          "start": "1953-02-03",
+          "end": "1953-02-22",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "John Grillo: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4421",
+          "_label": "Paintings by Groell, Ippolito; Sculpture by Terris",
+          "start": "1953-02-24",
+          "end": "1953-03-15",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Groell, Ippolito; Sculpture by Terris"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7087",
+          "_label": "Jean Follett: An Exhibition of Retrospective and Recent Paintings",
+          "start": "1953-02-09",
+          "end": "1953-02-28",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jean Follett: An Exhibition of Retrospective and Recent Paintings"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/3853",
+          "_label": "Jan M\u00fcller: Paintings",
+          "start": "1953-03-16",
+          "end": "1953-04-04",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jan M\u00fcller: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3852",
+          "_label": "Miles Forst: Paintings Drawings",
+          "start": "1953-03-02",
+          "end": "1953-03-14",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Miles Forst: Paintings Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4422",
+          "_label": "Paintings by Asher, De Groot, Isquith, Jones, Kanovitz, Ortman, Park, Resnick",
+          "start": "1953-03-17",
+          "end": "1953-04-07",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Asher, De Groot, Isquith, Jones, Kanovitz, Ortman, Park, Resnick"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/3855",
+          "_label": "Jacques Beckwith: Paintings",
+          "start": "1953-04-16",
+          "end": "1953-04-30",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jacques Beckwith: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7092",
+          "_label": "Guest Exhibition",
+          "start": "1953-04-03",
+          "end": "1953-04-15",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Guest Exhibition"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7091",
+          "_label": "Wallace Fowlie: Proust & the Art of Painting",
+          "start": "1953-04-02",
+          "end": "1953-04-02",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Wallace Fowlie: Proust & the Art of Painting"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4423",
+          "_label": "Paintings by Beauchamp, Berger, Cajori, Frelinghuysen, Goldberg, Jackson, Klavun, Petersen, Schapiro, Rivers, Stillman, Tworkov, Vicente",
+          "start": "1953-04-17",
+          "end": "1953-05-06",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Beauchamp, Berger, Cajori, Frelinghuysen, Goldberg, Jackson, Klavun, Petersen, Schapiro, Rivers, Stillman, Tworkov, Vicente"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/3984",
+          "_label": "Wolf Kahn: Paintings-Drawings-Pastels",
+          "start": "1953-10-27",
+          "end": "1953-11-01",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Wolf Kahn: Paintings-Drawings-Pastels"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3859",
+          "_label": "Jane Wilson",
+          "start": "1953-10-13",
+          "end": "1953-10-26",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jane Wilson"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4426",
+          "_label": "Joseph Groell: Paintings",
+          "start": "1953-10-09",
+          "end": "1953-10-30",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Joseph Groell: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4428",
+          "_label": "Elise Asher: Paintings",
+          "start": "1953-10-30",
+          "end": "1953-11-20",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Elise Asher: Paintings"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/3862",
+          "_label": "Felix Pasilis",
+          "start": "1953-12-08",
+          "end": "1953-12-24",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Felix Pasilis"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4205",
+          "_label": "Christmas Show: Works by 68 Artists",
+          "start": "1953-12-14",
+          "end": "1954-01-10",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Christmas Show: Works by 68 Artists"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/4427",
+          "_label": "Paintings by Asher, Beauchamp, Grillo, Goldberg, Ippolito, Isquith, Repke, Ortman, Parker, Pearlstein, Resnick",
+          "start": "1953-09-18",
+          "end": "1953-10-07",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Asher, Beauchamp, Grillo, Goldberg, Ippolito, Isquith, Repke, Ortman, Parker, Pearlstein, Resnick"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3858",
+          "_label": "Contemporary Americans",
+          "start": "1953-09-29",
+          "end": "1953-10-10",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Americans"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3857",
+          "_label": "Arnold Singer",
+          "start": "1953-05-18",
+          "end": "1953-06-01",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Arnold Singer"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4425",
+          "_label": "Lois Dodd and Alex Katz: Paintings",
+          "start": "1953-05-08",
+          "end": "1953-05-30",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lois Dodd and Alex Katz: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3856",
+          "_label": "Allan Kaprow: Paintings Drawings",
+          "start": "1953-05-04",
+          "end": "1953-05-18",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Allan Kaprow: Paintings Drawings"
+        }
+      ],
+      "06": [
+        {
+          "id": "https://www.moma.org/data/Activity/4424",
+          "_label": "Fred Mitchell: Paintings",
+          "start": "1953-06-01",
+          "end": "1953-06-20",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Fred Mitchell: Paintings"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/3860",
+          "_label": "Barbara Forst",
+          "start": "1953-11-01",
+          "end": "1953-11-30",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Barbara Forst"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7100",
+          "_label": "Richard Stankiewicz: Works of 1953",
+          "start": "1953-11-01",
+          "end": "1953-12-07",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Richard Stankiewicz: Works of 1953"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4429",
+          "_label": "George Ortman: Paintings",
+          "start": "1953-11-20",
+          "end": "1953-12-10",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "George Ortman: Paintings"
+        }
+      ]
+    },
+    "1956": {
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/4230",
+          "_label": "Paintings by Dodd, Cohen, Huffman, Park, Asher, Lucks, Ortman; Sculpture by Geist, Rosati, Arnold, White, Levitan",
+          "start": "1956-11-09",
+          "end": "1956-11-29",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Dodd, Cohen, Huffman, Park, Asher, Lucks, Ortman; Sculpture by Geist, Rosati, Arnold, White, Levitan"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3891",
+          "_label": "Dan Haugard",
+          "start": "1956-11-01",
+          "end": "1956-11-17",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Dan Haugard"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4231",
+          "_label": "Theophil Repke: Paintings",
+          "start": "1956-11-30",
+          "end": "1956-12-20",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Theophil Repke: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3892",
+          "_label": "Fay Lansner",
+          "start": "1956-11-19",
+          "end": "1956-12-08",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Fay Lansner"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/4226",
+          "_label": "Charles Cajori: Paintings",
+          "start": "1956-03-09",
+          "end": "1956-03-29",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Charles Cajori: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3886",
+          "_label": "Andrew Martin",
+          "start": "1956-03-05",
+          "end": "1956-03-24",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Andrew Martin"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7128",
+          "_label": "Jean Follett, Paintings and Constructions",
+          "start": "1956-03-30",
+          "end": "1956-04-14",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jean Follett, Paintings and Constructions"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4227",
+          "_label": "Ben Isquith: Paintings",
+          "start": "1956-03-30",
+          "end": "1956-04-19",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Ben Isquith: Paintings"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/3890",
+          "_label": "Contemporary Americans",
+          "start": "1956-10-01",
+          "end": "1956-10-31",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Americans"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4229",
+          "_label": "Yvonne Thomas: Paintings",
+          "start": "1956-10-19",
+          "end": "1956-11-08",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Yvonne Thomas: Paintings"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3882",
+          "_label": "Richard Stankiewicz: An Exhibition of Steel and Iron Sculpture, Works of 1956",
+          "start": "1956-01-02",
+          "end": "1956-01-18",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Richard Stankiewicz: An Exhibition of Steel and Iron Sculpture, Works of 1956"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3883",
+          "_label": "Arnold Singer",
+          "start": "1956-01-19",
+          "end": "1956-02-03",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Arnold Singer"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4224",
+          "_label": "Paintings by Cajori, De Groot, Dodd, Fine, Groell, Hazelet, Ippolito, Isquith, F. Mitchell, Pearlstein, Ortman; Sculpture by King, Rocklin",
+          "start": "1956-01-27",
+          "end": "1965-02-16",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Cajori, De Groot, Dodd, Fine, Groell, Hazelet, Ippolito, Isquith, F. Mitchell, Pearlstein, Ortman; Sculpture by King, Rocklin"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/4223",
+          "_label": "23 Sculptors",
+          "start": "1956-12-23",
+          "end": "1956-01-19",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "23 Sculptors"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4232",
+          "_label": "Painters and Sculptors on 10th Street",
+          "start": "1956-12-21",
+          "end": "1957-01-23",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Painters and Sculptors on 10th Street"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3893",
+          "_label": "Richard Stankiewicz",
+          "start": "1956-12-10",
+          "end": "1956-10-29",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Richard Stankiewicz"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/3888",
+          "_label": "Brassa\u00ef",
+          "start": "1956-04-16",
+          "end": "1956-05-02",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Brassa\u00ef"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4228",
+          "_label": "15 Painters",
+          "start": "1956-04-20",
+          "end": "1956-05-20",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "15 Painters"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/3884",
+          "_label": "Jan M\u00fcller",
+          "start": "1956-02-06",
+          "end": "1956-02-22",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jan M\u00fcller"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3885",
+          "_label": "George Segal: Paintings",
+          "start": "1956-02-23",
+          "end": "1956-03-10",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "George Segal: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4225",
+          "_label": "Raymond Rocklin: Sculpture",
+          "start": "1956-02-17",
+          "end": "1956-03-08",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Raymond Rocklin: Sculpture"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3889",
+          "_label": "Alfred Leslie, Paul Dieu, Robert Beauchamp",
+          "start": "1956-05-07",
+          "end": "1956-05-23",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Alfred Leslie, Paul Dieu, Robert Beauchamp"
+        }
+      ]
+    },
+    "1959": {
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/7236",
+          "_label": "East & West Gallery Show",
+          "start": "1959-01-13",
+          "end": "1959-02-13",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "East & West Gallery Show"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4254",
+          "_label": "Alex Katz: Paintings",
+          "start": "1959-01-16",
+          "end": "1959-02-05",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Alex Katz: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3918",
+          "_label": "Robert Whitman: An Exhibition of Works at the Hansa Gallery",
+          "start": "1959-01-12",
+          "end": "1959-01-31",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Robert Whitman: An Exhibition of Works at the Hansa Gallery"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/3920",
+          "_label": "Jacques Beckwith",
+          "start": "1959-02-24",
+          "end": "1959-03-14",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jacques Beckwith"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7294",
+          "_label": "Jim Dine, Marcus Ratliff, Tom Wesselmann: Drawings, Paintings, Collages",
+          "start": "1959-02-13",
+          "end": "1959-03-07",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Jim Dine, Marcus Ratliff, Tom Wesselmann: Drawings, Paintings, Collages"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4256",
+          "_label": "Remnants of Nature Departed",
+          "start": "1959-02-26",
+          "end": "1959-03-19",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Remnants of Nature Departed"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7341",
+          "_label": "Max Spoerri",
+          "start": "1959-02-22",
+          "end": "1959-03-19",
+          "location": "City Gallery",
+          "org": "The City Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst76",
+          "influenced_by": [],
+          "label": "Max Spoerri"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7245",
+          "_label": "Takeshi Asada, Bob Kobayashi, Nicholas Krushenick",
+          "start": "1959-02-13",
+          "end": "1959-03-11",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Takeshi Asada, Bob Kobayashi, Nicholas Krushenick"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4255",
+          "_label": "Mercedes Matter: Drawings",
+          "start": "1959-02-06",
+          "end": "1959-02-26",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Mercedes Matter: Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7340",
+          "_label": "The Black City, The Red People: Red Grooms and Jay Milder",
+          "start": "1959-02-06",
+          "end": "1959-02-21",
+          "location": "City Gallery",
+          "org": "The City Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst76",
+          "influenced_by": [],
+          "label": "The Black City, The Red People: Red Grooms and Jay Milder"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3919",
+          "_label": "George Segal",
+          "start": "1959-02-02",
+          "end": "1959-02-21",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "George Segal"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/7168",
+          "_label": "Work by Blaine, Bourgeois, Chamberlain, Grampton, Follett, Porter, Stefanelli, Stout, Terris",
+          "start": "1959-12-18",
+          "end": "1960-01-08",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Blaine, Bourgeois, Chamberlain, Grampton, Follett, Porter, Stefanelli, Stout, Terris"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7288",
+          "_label": "Panel on the Human Image in Art",
+          "start": "1959-12-02",
+          "end": "1959-12-02",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Panel on the Human Image in Art"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7310",
+          "_label": "Below Zero 1960",
+          "start": "1959-12-18",
+          "end": "1960-01-05",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Below Zero 1960"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/7312",
+          "_label": "Lucas Samaras: Oils, Pastels",
+          "start": "1959-11-06",
+          "end": "1959-11-26",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Lucas Samaras: Oils, Pastels"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7313",
+          "_label": "Robert Whitman: Constructions, Drawings, Pastels, Paintings, Floor and Hanging Pieces",
+          "start": "1959-11-27",
+          "end": "1959-12-16",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Robert Whitman: Constructions, Drawings, Pastels, Paintings, Floor and Hanging Pieces"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7287",
+          "_label": "Jim Dine and Claes Oldenburg: Two Man Show",
+          "start": "1959-11-13",
+          "end": "1959-12-03",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Jim Dine and Claes Oldenburg: Two Man Show"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7166",
+          "_label": "Albert Kotin",
+          "start": "1959-11-06",
+          "end": "1959-11-26",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Albert Kotin"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7167",
+          "_label": "Philip Pearlstein: Drawings",
+          "start": "1959-11-27",
+          "end": "1959-12-17",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Philip Pearlstein: Drawings"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/7344",
+          "_label": "Michaela Weisselberg: Paintings and Drawings",
+          "start": "1959-05-01",
+          "end": "1959-05-13",
+          "location": "City Gallery",
+          "org": "The City Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst76",
+          "influenced_by": [],
+          "label": "Michaela Weisselberg: Paintings and Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7295",
+          "_label": "Claes Oldenburg: Drawings, Sculpture, Poems",
+          "start": "1959-05-22",
+          "end": "1959-06-10",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Claes Oldenburg: Drawings, Sculpture, Poems"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7163",
+          "_label": "Beauchamp, Chamberlain, Follett, Forst, Lansner, Pasilis, Pritchard, Stout, Samaras, Stankiewicz",
+          "start": "1959-05-18",
+          "end": "1959-06-06",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Beauchamp, Chamberlain, Follett, Forst, Lansner, Pasilis, Pritchard, Stout, Samaras, Stankiewicz"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4259",
+          "_label": "Francesco di Cocco: Paintings",
+          "start": "1959-05-01",
+          "end": "1959-05-21",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Francesco di Cocco: Paintings"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/4250",
+          "_label": "Paintings by Dodd, Fine, Hazelet, Katz, Ippolito, Johnson, Pearlstein; Sculpture by Geist, Rocklin",
+          "start": "1959-10-16",
+          "end": "1959-11-05",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Dodd, Fine, Hazelet, Katz, Ippolito, Johnson, Pearlstein; Sculpture by Geist, Rocklin"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7165",
+          "_label": "Work by Dodd, Fine, Geist, Hazelet, Ippolito, Katz, Marsicano, Pearlstein, Rocklin",
+          "start": "1959-10-16",
+          "end": "1959-11-05",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Dodd, Fine, Geist, Hazelet, Ippolito, Katz, Marsicano, Pearlstein, Rocklin"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7249",
+          "_label": "George Koras",
+          "start": "1959-10-01",
+          "end": "1959-11-01",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "George Koras"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7321",
+          "_label": "Allan Kaprow: 18 Happenings in 6 Parts",
+          "start": "1959-10-02",
+          "end": "1959-10-11",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Allan Kaprow: 18 Happenings in 6 Parts"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7296",
+          "_label": "Phyllis Yampolsky: Paintings and Drawings",
+          "start": "1959-10-23",
+          "end": "1959-11-12",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Phyllis Yampolsky: Paintings and Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7311",
+          "_label": "George Brecht",
+          "start": "1959-10-16",
+          "end": "1959-11-05",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "George Brecht"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/3921",
+          "_label": "Dody M\u00fcller",
+          "start": "1959-03-16",
+          "end": "1959-04-04",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Dody M\u00fcller"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7342",
+          "_label": "Lester Johnson: Early Paintings",
+          "start": "1959-03-20",
+          "end": "1959-04-10",
+          "location": "City Gallery",
+          "org": "The City Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst76",
+          "influenced_by": [],
+          "label": "Lester Johnson: Early Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4217",
+          "_label": "Perle Fine: Paintings",
+          "start": "1959-03-20",
+          "end": "1959-04-09",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Perle Fine: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7278",
+          "_label": "Drawings",
+          "start": "1959-03-14",
+          "end": "1959-04-04",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Drawings"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/7343",
+          "_label": "Peter Passuntino: Drawings and Paintings",
+          "start": "1959-04-10",
+          "end": "1959-05-01",
+          "location": "City Gallery",
+          "org": "The City Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst76",
+          "influenced_by": [],
+          "label": "Peter Passuntino: Drawings and Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4258",
+          "_label": "Morton Lucks: Paintings",
+          "start": "1959-04-10",
+          "end": "1959-04-30",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Morton Lucks: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3922",
+          "_label": "Lilly Brody",
+          "start": "1959-04-07",
+          "end": "1959-04-25",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Lilly Brody"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3923",
+          "_label": "Alice Trumbull Mason",
+          "start": "1959-04-01",
+          "end": "1959-05-16",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Alice Trumbull Mason"
+        }
+      ]
+    },
+    "1961": {
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/7324",
+          "_label": "Oldenburg: Circus (Ironworks/Fotodeath)",
+          "start": "1961-02-21",
+          "end": "1961-02-26",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Oldenburg: Circus (Ironworks/Fotodeath)"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7282",
+          "_label": "Gloria Graves",
+          "start": "1961-02-08",
+          "end": "1961-02-28",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Gloria Graves"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7181",
+          "_label": "Lynne Drexler",
+          "start": "1961-02-03",
+          "end": "1961-02-23",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lynne Drexler"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3928",
+          "_label": "Felix Pasilis",
+          "start": "1961-02-07",
+          "end": "1961-03-04",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Felix Pasilis"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7182",
+          "_label": "Work by Campbell, Laderman, Schloss",
+          "start": "1961-02-24",
+          "end": "1961-03-16",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Campbell, Laderman, Schloss"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/7187",
+          "_label": "The Private Myth",
+          "start": "1961-10-06",
+          "end": "1961-10-26",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "The Private Myth"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3934",
+          "_label": "Robert Beauchamp",
+          "start": "1961-10-27",
+          "end": "1961-11-11",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Robert Beauchamp"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7188",
+          "_label": "Kenneth Kilstrom",
+          "start": "1961-10-27",
+          "end": "1961-11-16",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Kenneth Kilstrom"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/7191",
+          "_label": "Angelo Ippolito: Collages",
+          "start": "1961-12-29",
+          "end": "1962-01-18",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Angelo Ippolito: Collages"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7190",
+          "_label": "Tom Wesselmann: Collages",
+          "start": "1961-12-08",
+          "end": "1961-12-28",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Tom Wesselmann: Collages"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3937",
+          "_label": "Lucas Samaras: dinners, liquid aluminum pieces, pastels, and plasters",
+          "start": "1961-12-05",
+          "end": "1961-12-23",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Lucas Samaras: dinners, liquid aluminum pieces, pastels, and plasters"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3938",
+          "_label": "Ball",
+          "start": "1961-12-29",
+          "end": "1961-12-29",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Ball"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7297",
+          "_label": "Hall of Issues",
+          "start": "1961-12-31",
+          "end": "1962-05-01",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Hall of Issues"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/7186",
+          "_label": "Work by Bloom, Button, R. Drexler, Lucks, Kilstrom, McLean, Raleigh, Sirugo, Wesselmann",
+          "start": "1961-05-19",
+          "end": "1961-06-08",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Bloom, Button, R. Drexler, Lucks, Kilstrom, McLean, Raleigh, Sirugo, Wesselmann"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3931",
+          "_label": "Ronald Bladen - Mark di Suvero",
+          "start": "1961-05-02",
+          "end": "1961-05-27",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Ronald Bladen - Mark di Suvero"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3932",
+          "_label": "Gallery Group Show",
+          "start": "1961-05-30",
+          "end": "1961-06-25",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Gallery Group Show"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/7283",
+          "_label": "Martha Edelheidt",
+          "start": "1961-04-14",
+          "end": "1961-05-05",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Martha Edelheidt"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3930",
+          "_label": "Richard Smith",
+          "start": "1961-04-04",
+          "end": "1961-04-29",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Richard Smith"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7185",
+          "_label": "Stout",
+          "start": "1961-04-28",
+          "end": "1961-05-18",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Stout"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7184",
+          "_label": "Lois Dodd",
+          "start": "1961-04-07",
+          "end": "1961-04-27",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lois Dodd"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/7325",
+          "_label": "Allan Kaprow: Spring Happening",
+          "start": "1961-03-22",
+          "end": "1961-03-27",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Allan Kaprow: Spring Happening"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7183",
+          "_label": "Charles Cajori: Drawings",
+          "start": "1961-03-17",
+          "end": "1961-04-06",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Charles Cajori: Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3929",
+          "_label": "Patricia Passlof",
+          "start": "1961-03-07",
+          "end": "1961-04-01",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Patricia Passlof"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3927",
+          "_label": "Tadaaki Kuwayama",
+          "start": "1961-01-10",
+          "end": "1961-02-04",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Tadaaki Kuwayama"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7180",
+          "_label": "Work by Ippolito, Katz, Pearlstein, Dodd, Geist, Fine, Hazelet",
+          "start": "1961-01-13",
+          "end": "1961-02-02",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Ippolito, Katz, Pearlstein, Dodd, Geist, Fine, Hazelet"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/3933",
+          "_label": "Jean Follett, Charles Ginnever, Claes Oldenburg, Lucas Samaras, Myron Stout, Mark di Suvero",
+          "start": "1961-09-19",
+          "end": "1961-10-14",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Jean Follett, Charles Ginnever, Claes Oldenburg, Lucas Samaras, Myron Stout, Mark di Suvero"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/7189",
+          "_label": "Sal Sirugo",
+          "start": "1961-11-17",
+          "end": "1961-12-07",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sal Sirugo"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3935",
+          "_label": "Milet Andreyevich: Paintings",
+          "start": "1961-11-14",
+          "end": "1961-12-02",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Milet Andreyevich: Paintings"
+        }
+      ]
+    },
+    "1955": {
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3873",
+          "_label": "Ida E. Fischer",
+          "start": "1955-01-17",
+          "end": "1955-02-06",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Ida E. Fischer"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4215",
+          "_label": "Philip Pearlstein: Paintings",
+          "start": "1955-01-21",
+          "end": "1955-02-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Philip Pearlstein: Paintings"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/3843",
+          "_label": "6 Exemplary Paintings and 1 Sculpture",
+          "start": "1955-10-14",
+          "end": "1955-11-02",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "6 Exemplary Paintings and 1 Sculpture"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4220",
+          "_label": "Alfred Jensen: Paintings",
+          "start": "1955-10-21",
+          "end": "1955-11-10",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Alfred Jensen: Paintings"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/3879",
+          "_label": "Jane Wilson",
+          "start": "1955-11-12",
+          "end": "1955-11-12",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jane Wilson"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3880",
+          "_label": "Miles Forst",
+          "start": "1955-11-14",
+          "end": "1955-12-03",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Miles Forst"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4221",
+          "_label": "Paintings by Ortman, Isquith, Cantor, Stefanelli, Flack, Goldberg, Park, Repke, Groell, Kanovitz, Lund",
+          "start": "1955-11-11",
+          "end": "1955-12-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Ortman, Isquith, Cantor, Stefanelli, Flack, Goldberg, Park, Repke, Groell, Kanovitz, Lund"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/4257",
+          "_label": "Perle Fine: Collages",
+          "start": "1955-03-11",
+          "end": "1955-03-31",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Perle Fine: Collages"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3875",
+          "_label": "Contemporary Americans",
+          "start": "1955-03-01",
+          "end": "1955-03-31",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Americans"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/4216",
+          "_label": "Sculpture by Levitan, Messina, Rocklin",
+          "start": "1955-02-11",
+          "end": "1955-03-10",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sculpture by Levitan, Messina, Rocklin"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3874",
+          "_label": "Wolf Kahn",
+          "start": "1955-02-07",
+          "end": "1955-02-26",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Wolf Kahn"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/3881",
+          "_label": "Xmas Group Show",
+          "start": "1955-12-05",
+          "end": "1955-12-24",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Xmas Group Show"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4222",
+          "_label": "Saul Leiter: Watercolors",
+          "start": "1955-12-02",
+          "end": "1955-12-22",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Saul Leiter: Watercolors"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3878",
+          "_label": "Fay Lansner",
+          "start": "1955-05-03",
+          "end": "1955-05-22",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Fay Lansner"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/4218",
+          "_label": "Charles Huffman: Paintings",
+          "start": "1955-04-01",
+          "end": "1955-04-21",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Charles Huffman: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3877",
+          "_label": "Jacques Beckwith",
+          "start": "1955-04-12",
+          "end": "1955-05-01",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jacques Beckwith"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3876",
+          "_label": "Leland Bell",
+          "start": "1955-04-01",
+          "end": "1955-04-10",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Leland Bell"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4219",
+          "_label": "Robert Beauchamp: Paintings",
+          "start": "1955-04-22",
+          "end": "1955-05-12",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Robert Beauchamp: Paintings"
+        }
+      ]
+    },
+    "1960": {
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/7308",
+          "_label": "Varieties: Jim Dine (A Shining Bed), Simone Morris (See Saw), Claes Oldenburg: (Chimneyfire and Erasers)",
+          "start": "1960-12-16",
+          "end": "1960-12-18",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Varieties: Jim Dine (A Shining Bed), Simone Morris (See Saw), Claes Oldenburg: (Chimneyfire and Erasers)"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3926",
+          "_label": "Gallery Group Show: Paintings, Sculpture and Drawings",
+          "start": "1960-12-13",
+          "end": "1961-01-07",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Gallery Group Show: Paintings, Sculpture and Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7179",
+          "_label": "Christmas Show",
+          "start": "1960-12-17",
+          "end": "1961-01-12",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Christmas Show"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/7172",
+          "_label": "Perle Fine",
+          "start": "1960-03-11",
+          "end": "1960-04-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Perle Fine"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7251",
+          "_label": "Ronald Bladen",
+          "start": "1960-03-11",
+          "end": "1960-03-31",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Ronald Bladen"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7316",
+          "_label": "Herb Brown",
+          "start": "1960-03-11",
+          "end": "1960-03-31",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Herb Brown"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7290",
+          "_label": "Richard O. Tyler",
+          "start": "1960-03-25",
+          "end": "1960-04-14",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Richard O. Tyler"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/7169",
+          "_label": "John Grillo: Collages",
+          "start": "1960-01-08",
+          "end": "1960-01-28",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "John Grillo: Collages"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7309",
+          "_label": "Happenings Series: Magic Train Ride, The Big Laugh, Small Cannon",
+          "start": "1960-01-08",
+          "end": "1960-01-11",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Happenings Series: Magic Train Ride, The Big Laugh, Small Cannon"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7314",
+          "_label": "Grooms: Red",
+          "start": "1960-01-09",
+          "end": "1960-01-28",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Grooms: Red"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7289",
+          "_label": "Dine \u201cThe House\u201d Oldenburg: The Street",
+          "start": "1960-01-01",
+          "end": "1960-03-02",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Dine \u201cThe House\u201d Oldenburg: The Street"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7170",
+          "_label": "Work by Button, Kriesberg, Meade, Crose, Shahly",
+          "start": "1960-01-29",
+          "end": "1960-02-19",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Button, Kriesberg, Meade, Crose, Shahly"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7307",
+          "_label": "Group Show",
+          "start": "1960-01-29",
+          "end": "1960-02-18",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Group Show"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/7173",
+          "_label": "Sally Hazelet",
+          "start": "1960-04-01",
+          "end": "1960-04-21",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sally Hazelet"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7292",
+          "_label": "Dorothea Baer",
+          "start": "1960-04-15",
+          "end": "1960-05-05",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Dorothea Baer"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7318",
+          "_label": "Ren\u00e9e Rubin Miller",
+          "start": "1960-04-15",
+          "end": "1960-05-05",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Ren\u00e9e Rubin Miller"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7174",
+          "_label": "Sidney Geist",
+          "start": "1960-04-01",
+          "end": "1960-04-21",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sidney Geist"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7253",
+          "_label": "Sal Romano",
+          "start": "1960-04-01",
+          "end": "1960-05-01",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Sal Romano"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7291",
+          "_label": "Performance: Richard O. Tyler and his Alchemical Players",
+          "start": "1960-04-01",
+          "end": "1960-04-01",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Performance: Richard O. Tyler and his Alchemical Players"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7317",
+          "_label": "Jim Dine",
+          "start": "1960-04-01",
+          "end": "1960-04-14",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Jim Dine"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/7178",
+          "_label": "Sidney Geist",
+          "start": "1960-11-25",
+          "end": "1960-12-15",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sidney Geist"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7322",
+          "_label": "Jim Dine: Car Crash",
+          "start": "1960-11-01",
+          "end": "1960-11-06",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Jim Dine: Car Crash"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7323",
+          "_label": "Robert Whitman: The American Moon",
+          "start": "1960-11-29",
+          "end": "1960-12-04",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Robert Whitman: The American Moon"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7177",
+          "_label": "Anne Arnold",
+          "start": "1960-11-05",
+          "end": "1960-11-23",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Anne Arnold"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3925",
+          "_label": "George Segal",
+          "start": "1960-11-15",
+          "end": "1960-12-10",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "George Segal"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7281",
+          "_label": "Allan Kaprow: An Apple Shrine",
+          "start": "1960-11-30",
+          "end": "1960-12-24",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Allan Kaprow: An Apple Shrine"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/7175",
+          "_label": "Founding Five",
+          "start": "1960-05-13",
+          "end": "1960-06-03",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Founding Five"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7319",
+          "_label": "Claes Oldenburg: The Street",
+          "start": "1960-05-06",
+          "end": "1960-05-19",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Claes Oldenburg: The Street"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7293",
+          "_label": "Marcus Ratliff and Tom Wesselmann",
+          "start": "1960-05-07",
+          "end": "1960-06-01",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Marcus Ratliff and Tom Wesselmann"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7320",
+          "_label": "Martha Edelheit",
+          "start": "1960-05-20",
+          "end": "1960-06-09",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Martha Edelheit"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/7315",
+          "_label": "Rosalyn Drexler: Sculptures",
+          "start": "1960-02-19",
+          "end": "1960-03-10",
+          "location": "Reuben Gallery",
+          "org": "Reuben Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst43",
+          "influenced_by": [],
+          "label": "Rosalyn Drexler: Sculptures"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7279",
+          "_label": "Ray Gun Spex",
+          "start": "1960-02-01",
+          "end": "1960-03-02",
+          "location": "Judson Memorial Church",
+          "org": "Judson Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst42",
+          "influenced_by": [],
+          "label": "Ray Gun Spex"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7171",
+          "_label": "Work by Freilicher, E. De Kooning, Katz",
+          "start": "1960-02-19",
+          "end": "1960-03-11",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Work by Freilicher, E. De Kooning, Katz"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/7176",
+          "_label": "William McLean",
+          "start": "1960-10-15",
+          "end": "1960-11-04",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "William McLean"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4100",
+          "_label": "Mark di Suvero: Sculpture",
+          "start": "1960-10-18",
+          "end": "1960-11-16",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Mark di Suvero: Sculpture"
+        }
+      ]
+    },
+    "1963": {
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/3961",
+          "_label": "Robert Morris",
+          "start": "1963-10-15",
+          "end": "1963-11-02",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Robert Morris"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/3957",
+          "_label": "James Rosenquist",
+          "start": "1963-04-15",
+          "end": "1963-05-25",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "James Rosenquist"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/3956",
+          "_label": "Milet Andrejevic: Paintings",
+          "start": "1963-03-19",
+          "end": "1963-04-13",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Milet Andrejevic: Paintings"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3953",
+          "_label": "New Work: Part I",
+          "start": "1963-01-08",
+          "end": "1963-02-02",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "New Work: Part I"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/3964",
+          "_label": "Don Judd",
+          "start": "1963-12-17",
+          "end": "1964-01-11",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Don Judd"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/3963",
+          "_label": "Robert Beauchamp",
+          "start": "1963-11-26",
+          "end": "1963-12-14",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Robert Beauchamp"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3962",
+          "_label": "Larry Poons",
+          "start": "1963-11-05",
+          "end": "1963-11-23",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Larry Poons"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/3959",
+          "_label": "Group Show",
+          "start": "1963-09-24",
+          "end": "1963-10-15",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Group Show"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/3955",
+          "_label": "Richard Smith: Paintings",
+          "start": "1963-02-19",
+          "end": "1963-03-16",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Richard Smith: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3954",
+          "_label": "Benefit Exhibition",
+          "start": "1963-02-02",
+          "end": "1963-02-16",
+          "location": "Bird S. Coler Hospital (now NYC Health + Hospitals/Coler)",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Benefit Exhibition"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3958",
+          "_label": "Contemporary American Group Show [New Work Part III]",
+          "start": "1963-05-01",
+          "end": "1963-06-15",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Contemporary American Group Show [New Work Part III]"
+        }
+      ]
+    },
+    "1965": {
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/3977",
+          "_label": "Larry Poons",
+          "start": "1965-02-10",
+          "end": "1965-03-06",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Larry Poons"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3982",
+          "_label": "Flavin, Judd, Morris, Williams",
+          "start": "1965-05-26",
+          "end": "1965-06-12",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Flavin, Judd, Morris, Williams"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3981",
+          "_label": "Ralph Humphrey",
+          "start": "1965-05-05",
+          "end": "1965-05-29",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Ralph Humphrey"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3976",
+          "_label": "Tom Wesselmann",
+          "start": "1965-01-13",
+          "end": "1965-02-06",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Tom Wesselmann"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/3979",
+          "_label": "Robert Morris: Sculpture (part two)",
+          "start": "1965-03-10",
+          "end": "1965-04-03",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Robert Morris: Sculpture (part two)"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3978",
+          "_label": "Daniel Spoerri, Room 631",
+          "start": "1965-03-03",
+          "end": "1965-03-15",
+          "location": "Chelsea Hotel",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Daniel Spoerri, Room 631"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/3980",
+          "_label": "Richard Smith",
+          "start": "1965-04-07",
+          "end": "1965-05-01",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Richard Smith"
+        }
+      ]
+    },
+    "1958": {
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/7152",
+          "_label": "Contemporary Americans",
+          "start": "1958-09-29",
+          "end": "1958-10-17",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Americans"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/3916",
+          "_label": "Allan Kaprow: An Exhibition",
+          "start": "1958-11-25",
+          "end": "1958-12-13",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Allan Kaprow: An Exhibition"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4251",
+          "_label": "Lois Dodd: Paintings",
+          "start": "1958-11-07",
+          "end": "1958-11-27",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lois Dodd: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7230",
+          "_label": "Modern Japanese Painting",
+          "start": "1958-11-14",
+          "end": "1958-12-05",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Modern Japanese Painting"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7339",
+          "_label": "Five Painters: Epstein, Grooms, Milder, Passuntino, and Weisselberg",
+          "start": "1958-11-28",
+          "end": "1958-12-17",
+          "location": "City Gallery",
+          "org": "The City Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst76",
+          "influenced_by": [],
+          "label": "Five Painters: Epstein, Grooms, Milder, Passuntino, and Weisselberg"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3915",
+          "_label": "24",
+          "start": "1958-11-03",
+          "end": "1958-11-22",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "24"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4252",
+          "_label": "Jean Cohen: Paintings",
+          "start": "1958-11-28",
+          "end": "1958-12-18",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Jean Cohen: Paintings"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/7241",
+          "_label": "Nanae Momiyama",
+          "start": "1958-04-18",
+          "end": "1958-05-08",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Nanae Momiyama"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3911",
+          "_label": "Fay Lansner",
+          "start": "1958-04-21",
+          "end": "1958-05-10",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Fay Lansner"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4248",
+          "_label": "Gabriel Kohn: Sculpture",
+          "start": "1958-04-11",
+          "end": "1958-05-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Gabriel Kohn: Sculpture"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/4247",
+          "_label": "Marjorie di Lascia: Paintings",
+          "start": "1958-03-21",
+          "end": "1958-04-10",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Marjorie di Lascia: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7240",
+          "_label": "George Sugarman, Bernice D\u2019Vorzon, Sal Romano",
+          "start": "1958-03-28",
+          "end": "1958-04-17",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "George Sugarman, Bernice D\u2019Vorzon, Sal Romano"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3910",
+          "_label": "Edward Avedisian",
+          "start": "1958-03-31",
+          "end": "1958-04-19",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Edward Avedisian"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3909",
+          "_label": "Allan Kaprow: An Environment",
+          "start": "1958-03-10",
+          "end": "1958-03-29",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Allan Kaprow: An Environment"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7239",
+          "_label": "Ed Clark",
+          "start": "1958-03-07",
+          "end": "1958-03-27",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Ed Clark"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/4246",
+          "_label": "Perle Fine: Paintings",
+          "start": "1958-02-28",
+          "end": "1958-03-21",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Perle Fine: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3908",
+          "_label": "George Segal",
+          "start": "1958-02-17",
+          "end": "1958-03-08",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "George Segal"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/3917",
+          "_label": "Jan M\u00fcller",
+          "start": "1958-12-16",
+          "end": "1959-01-09",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jan M\u00fcller"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7337",
+          "_label": "Drawings",
+          "start": "1958-12-19",
+          "end": "1959-01-06",
+          "location": "City Gallery",
+          "org": "The City Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst76",
+          "influenced_by": [],
+          "label": "Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4253",
+          "_label": "Christmas Show: Works by 90 Artists",
+          "start": "1958-12-19",
+          "end": "1959-01-15",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Christmas Show: Works by 90 Artists"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3844",
+          "_label": "Lilly Brody, Jean Follett, Myron Stout: Drawings",
+          "start": "1958-05-12",
+          "end": "1958-05-31",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Lilly Brody, Jean Follett, Myron Stout: Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7237",
+          "_label": "New Sculpture Group",
+          "start": "1958-05-01",
+          "end": "1958-06-01",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "New Sculpture Group"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3912",
+          "_label": "Three Men: Drawings",
+          "start": "1958-05-12",
+          "end": "1958-05-31",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Three Men: Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4249",
+          "_label": "Louisa Matthiasdottir: Paintings",
+          "start": "1958-05-02",
+          "end": "1958-05-22",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Louisa Matthiasdottir: Paintings"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/7153",
+          "_label": "Contemporary Sculpture",
+          "start": "1958-10-13",
+          "end": "1958-11-01",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Sculpture"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3906",
+          "_label": "Jan M\u00fcller",
+          "start": "1958-01-06",
+          "end": "1958-01-25",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jan M\u00fcller"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3907",
+          "_label": "Miles Forst",
+          "start": "1958-01-27",
+          "end": "1958-02-15",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Miles Forst"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4245",
+          "_label": "Charles Duback: Paintings",
+          "start": "1958-01-17",
+          "end": "1958-02-06",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Charles Duback: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7238",
+          "_label": "4 Painters and a Sculptor: Joseph Fiore, Jacob Arnold Rabinowitz, Louis Spindler and Knte Stiles",
+          "start": "1958-01-03",
+          "end": "1958-01-23",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "4 Painters and a Sculptor: Joseph Fiore, Jacob Arnold Rabinowitz, Louis Spindler and Knte Stiles"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4244",
+          "_label": "Herman Cherry: Drawings and Paintings",
+          "start": "1958-01-17",
+          "end": "1958-02-06",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Herman Cherry: Drawings and Paintings"
+        }
+      ]
+    },
+    "1954": {
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/3845",
+          "_label": "Drawings",
+          "start": "1954-10-01",
+          "end": "1954-10-27",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4211",
+          "_label": "Sally Hazelet: Paintings",
+          "start": "1954-10-14",
+          "end": "1954-11-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sally Hazelet: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3985",
+          "_label": "Hedy Fuchs",
+          "start": "1954-10-18",
+          "end": "1954-10-18",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Hedy Fuchs"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3846",
+          "_label": "Small Works",
+          "start": "1954-10-01",
+          "end": "1955-10-27",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Small Works"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/7105",
+          "_label": "Jean Follett, Paintings and Drawings",
+          "start": "1954-03-08",
+          "end": "1954-03-20",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jean Follett, Paintings and Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4208",
+          "_label": "Ben Isquith: Paintings",
+          "start": "1954-03-12",
+          "end": "1954-04-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Ben Isquith: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3866",
+          "_label": "Jan M\u00fcller: Recent Paintings",
+          "start": "1954-03-22",
+          "end": "1954-04-03",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jan M\u00fcller: Recent Paintings"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/7113",
+          "_label": "Richard Stankiewicz",
+          "start": "1954-12-01",
+          "end": "1955-01-01",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Richard Stankiewicz"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7112",
+          "_label": "Inaugural Show in New Space",
+          "start": "1954-12-01",
+          "end": "1954-12-31",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Inaugural Show in New Space"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4214",
+          "_label": "Christmas Show: Works by 81 Artists",
+          "start": "1954-12-20",
+          "end": "1955-01-20",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Christmas Show: Works by 81 Artists"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/4206",
+          "_label": "Angelo Ippolito: Paintings",
+          "start": "1954-01-29",
+          "end": "1954-02-18",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Angelo Ippolito: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3864",
+          "_label": "Leatrice Rose",
+          "start": "1954-01-19",
+          "end": "1954-02-06",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Leatrice Rose"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4430",
+          "_label": "Paintings by Hazelet, Jensen; Sculpture by Becker",
+          "start": "1954-01-11",
+          "end": "1954-01-28",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Hazelet, Jensen; Sculpture by Becker"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7102",
+          "_label": "Drawings, Watercolors, Pastels",
+          "start": "1954-01-05",
+          "end": "1954-01-16",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Drawings, Watercolors, Pastels"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/4210",
+          "_label": "Paintings by Schapiro, Thomas; Sculpture by White",
+          "start": "1954-04-23",
+          "end": "1954-05-13",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Schapiro, Thomas; Sculpture by White"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3868",
+          "_label": "Arnold Singer",
+          "start": "1954-04-20",
+          "end": "1954-05-01",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Arnold Singer"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3867",
+          "_label": "Allan Kaprow: Paintings Drawings",
+          "start": "1954-04-06",
+          "end": "1954-04-17",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Allan Kaprow: Paintings Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4209",
+          "_label": "Sculpture by Becker, Geist, Gordin, King, Rocklin, Terris; Graphics by Bing, Brach, County, Haas, Hoehn, Ortman",
+          "start": "1954-04-02",
+          "end": "1954-04-23",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sculpture by Becker, Geist, Gordin, King, Rocklin, Terris; Graphics by Bing, Brach, County, Haas, Hoehn, Ortman"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3869",
+          "_label": "Miles Forst: Collages and Paintings",
+          "start": "1954-05-03",
+          "end": "1954-05-22",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Miles Forst: Collages and Paintings"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/4207",
+          "_label": "Paintings by Cohen, Pearlstein, Stein, Whidden",
+          "start": "1954-02-19",
+          "end": "1954-03-11",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Cohen, Pearlstein, Stein, Whidden"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7104",
+          "_label": "Contemporary Americans",
+          "start": "1954-02-08",
+          "end": "1954-02-27",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Americans"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3986",
+          "_label": "Paul Beattie",
+          "start": "1954-02-22",
+          "end": "1954-03-06",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Paul Beattie"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/3871",
+          "_label": "Paul Georges",
+          "start": "1954-11-08",
+          "end": "1954-11-27",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Paul Georges"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4212",
+          "_label": "Paintings by Beauchamp, Cajori, Cantor, Ippolito, Isquith, Katz, Kanovitz, Ortman, Parker, Repke, Pearlstein",
+          "start": "1954-11-05",
+          "end": "1954-11-25",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Beauchamp, Cajori, Cantor, Ippolito, Isquith, Katz, Kanovitz, Ortman, Parker, Repke, Pearlstein"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4213",
+          "_label": "Lois Dodd: Paintings",
+          "start": "1954-11-26",
+          "end": "1954-12-17",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lois Dodd: Paintings"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/7110",
+          "_label": "Contemporary Americans",
+          "start": "1954-09-01",
+          "end": "1954-09-30",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Contemporary Americans"
+        }
+      ]
+    },
+    "1957": {
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3900",
+          "_label": "George Segal: Pastels and Paintings",
+          "start": "1957-05-06",
+          "end": "1957-05-25",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "George Segal: Pastels and Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3901",
+          "_label": "Andrew Martin",
+          "start": "1957-05-27",
+          "end": "1957-06-15",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Andrew Martin"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4238",
+          "_label": "Paintings by Held, Gash, Fromboluti, Duback, Young, Silbert, Schapiro, Stout; Sculpture by Frank, Terris, Trajan",
+          "start": "1957-05-10",
+          "end": "1957-06-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Held, Gash, Fromboluti, Duback, Young, Silbert, Schapiro, Stout; Sculpture by Frank, Terris, Trajan"
+        }
+      ],
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/3896",
+          "_label": "Allan Kaprow",
+          "start": "1957-02-11",
+          "end": "1957-03-02",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Allan Kaprow"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4234",
+          "_label": "Lois Dodd: Paintings",
+          "start": "1957-02-15",
+          "end": "1957-03-07",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Lois Dodd: Paintings"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/7139",
+          "_label": "The New Sculpture Group presented by the Hansa Gallery",
+          "start": "1957-09-24",
+          "end": "1957-10-14",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "The New Sculpture Group presented by the Hansa Gallery"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/4241",
+          "_label": "Tom Boutis and Alex Katz: Collages",
+          "start": "1957-11-22",
+          "end": "1957-12-07",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Tom Boutis and Alex Katz: Collages"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4240",
+          "_label": "Charlotte Park: Paintings",
+          "start": "1957-11-02",
+          "end": "1957-11-21",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Charlotte Park: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3904",
+          "_label": "Robert Richenburg",
+          "start": "1957-11-25",
+          "end": "1957-12-14",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Robert Richenburg"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7233",
+          "_label": "Drawings",
+          "start": "1957-11-15",
+          "end": "1957-12-05",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Drawings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7141",
+          "_label": "Old-New",
+          "start": "1957-11-04",
+          "end": "1957-11-23",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Old-New"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/4236",
+          "_label": "Nora Speyer: Paintings",
+          "start": "1957-03-29",
+          "end": "1957-04-19",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Nora Speyer: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3897",
+          "_label": "Myron Stout",
+          "start": "1957-03-04",
+          "end": "1957-03-23",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Myron Stout"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3842",
+          "_label": "Myron Stout: Drawings-Paintings",
+          "start": "1957-03-04",
+          "end": "1957-03-23",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Myron Stout: Drawings-Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3898",
+          "_label": "Lilly Brody",
+          "start": "1957-03-25",
+          "end": "1957-04-14",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Lilly Brody"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4235",
+          "_label": "Sally Hazelet: Paintings",
+          "start": "1957-03-08",
+          "end": "1957-03-28",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sally Hazelet: Paintings"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/4237",
+          "_label": "Drawings by Birmelin, Cantor; Sculpture by Rocklin",
+          "start": "1957-04-19",
+          "end": "1957-05-09",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Drawings by Birmelin, Cantor; Sculpture by Rocklin"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3899",
+          "_label": "Jean Follett",
+          "start": "1957-04-15",
+          "end": "1957-05-04",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jean Follett"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/4243",
+          "_label": "Rudolph Burckhardt: Paintings",
+          "start": "1957-12-27",
+          "end": "1958-01-17",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Rudolph Burckhardt: Paintings"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3905",
+          "_label": "Richard Stankiewicz",
+          "start": "1957-12-16",
+          "end": "1958-01-04",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Richard Stankiewicz"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4242",
+          "_label": "Christmas Show: Drawings",
+          "start": "1957-12-07",
+          "end": "1957-12-26",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Christmas Show: Drawings"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3894",
+          "_label": "Jan M\u00fcller",
+          "start": "1957-01-02",
+          "end": "1957-01-19",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jan M\u00fcller"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3895",
+          "_label": "Jane Wilson",
+          "start": "1957-01-21",
+          "end": "1957-02-09",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Jane Wilson"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4233",
+          "_label": "Sidney Geist: Sculpture",
+          "start": "1957-01-25",
+          "end": "1957-02-14",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Sidney Geist: Sculpture"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/7140",
+          "_label": "Drawings and Small Works",
+          "start": "1957-10-01",
+          "end": "1957-10-27",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Drawings and Small Works"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7232",
+          "_label": "Group Show",
+          "start": "1957-10-25",
+          "end": "1957-11-14",
+          "location": "Brata Gallery",
+          "org": "Brata Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst38",
+          "influenced_by": [],
+          "label": "Group Show"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4239",
+          "_label": "Paintings by Cajori, Pearlstein, Dodd, Hazelet, Katz, Isquith, Ippolito; Sculpture by Geist, Rocklin",
+          "start": "1957-10-11",
+          "end": "1957-10-31",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Cajori, Pearlstein, Dodd, Hazelet, Katz, Isquith, Ippolito; Sculpture by Geist, Rocklin"
+        }
+      ]
+    },
+    "1952": {
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/4416",
+          "_label": "Paintings by Benton, Grillo, Parker, Schapiro, Todd, Wilson",
+          "start": "1952-10-21",
+          "end": "1952-11-09",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Benton, Grillo, Parker, Schapiro, Todd, Wilson"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/7082",
+          "_label": "Hansa Group Show",
+          "start": "1952-12-08",
+          "end": "1953-12-23",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Hansa Group Show"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4419",
+          "_label": "Christmas Show: Works by 50 Artists",
+          "start": "1952-12-02",
+          "end": "1953-01-02",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Christmas Show: Works by 50 Artists"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/4417",
+          "_label": "Paintings by Morris, Cajori; Sculpture by Slivka",
+          "start": "1952-11-11",
+          "end": "1952-12-01",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Morris, Cajori; Sculpture by Slivka"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7081",
+          "_label": "Richard Stankiewicz: Works in Terra Cotta",
+          "start": "1952-11-26",
+          "end": "1952-12-12",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Richard Stankiewicz: Works in Terra Cotta"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/7080",
+          "_label": "Paintings and Sculpture",
+          "start": "1952-11-24",
+          "end": "1952-12-07",
+          "location": "Hansa Gallery",
+          "org": "Hansa Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst24",
+          "influenced_by": [],
+          "label": "Paintings and Sculpture"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/4411",
+          "_label": "Paintings by Beauchamp, Cajori, Cohen, Dodd, Finkelstein, Groell, Ippolito, F. Mitchell, Maxwell, Pasilis, J.Sanders; Sculpture by King",
+          "start": "1952-05-21",
+          "end": "1952-06-08",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Beauchamp, Cajori, Cohen, Dodd, Finkelstein, Groell, Ippolito, F. Mitchell, Maxwell, Pasilis, J.Sanders; Sculpture by King"
+        }
+      ],
+      "06": [
+        {
+          "id": "https://www.moma.org/data/Activity/4412",
+          "_label": "Drawings by Swinden, Morrison, Steubing, Leiter, Brody",
+          "start": "1952-06-17",
+          "end": "1952-07-06",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Drawings by Swinden, Morrison, Steubing, Leiter, Brody"
+        }
+      ],
+      "07": [
+        {
+          "id": "https://www.moma.org/data/Activity/4413",
+          "_label": "Paintings by Cajori, de Kooning, Dodd, Frankenthaler, Freilicher, Hofmann, Ippolito, Kline, Marca-Relli, F. Mitchell; Sculpture by King",
+          "start": "1952-07-08",
+          "end": "1952-08-28",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Cajori, de Kooning, Dodd, Frankenthaler, Freilicher, Hofmann, Ippolito, Kline, Marca-Relli, F. Mitchell; Sculpture by King"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/4414",
+          "_label": "Paintings by Beattie, Isquith, Ortman, Stone",
+          "start": "1952-09-05",
+          "end": "1952-09-28",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Beattie, Isquith, Ortman, Stone"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/4415",
+          "_label": "Paintings by Beauchamp, Groell, Goldberg, J.Mitchell, J.Sanders, Steubing",
+          "start": "1952-09-30",
+          "end": "1952-10-19",
+          "location": "Tanager Gallery",
+          "org": "Tanager Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst21",
+          "influenced_by": [],
+          "label": "Paintings by Beauchamp, Groell, Goldberg, J.Mitchell, J.Sanders, Steubing"
+        }
+      ]
+    },
+    "1964": {
+      "02": [
+        {
+          "id": "https://www.moma.org/data/Activity/3967",
+          "_label": "Tom Wesselmann",
+          "start": "1964-02-11",
+          "end": "1964-03-07",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Tom Wesselmann"
+        }
+      ],
+      "06": [
+        {
+          "id": "https://www.moma.org/data/Activity/3971",
+          "_label": "Group Show",
+          "start": "1964-06-03",
+          "end": "1964-06-26",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Group Show"
+        }
+      ],
+      "05": [
+        {
+          "id": "https://www.moma.org/data/Activity/3970",
+          "_label": "Neil Williams",
+          "start": "1964-05-06",
+          "end": "1964-05-30",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Neil Williams"
+        }
+      ],
+      "01": [
+        {
+          "id": "https://www.moma.org/data/Activity/3966",
+          "_label": "James Rosenquist",
+          "start": "1964-01-15",
+          "end": "1964-02-08",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "James Rosenquist"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3965",
+          "_label": "James Lee Byars, performance",
+          "start": "1964-01-12",
+          "end": "1964-01-13",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "James Lee Byars, performance"
+        }
+      ],
+      "04": [
+        {
+          "id": "https://www.moma.org/data/Activity/3969",
+          "_label": "New Work Part III",
+          "start": "1964-04-08",
+          "end": "1964-05-02",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "New Work Part III"
+        }
+      ],
+      "10": [
+        {
+          "id": "https://www.moma.org/data/Activity/3973",
+          "_label": "New Work (Contemporary American Group Show)",
+          "start": "1964-10-24",
+          "end": "1964-11-14",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "New Work (Contemporary American Group Show)"
+        }
+      ],
+      "09": [
+        {
+          "id": "https://www.moma.org/data/Activity/3972",
+          "_label": "Lucas Samaras",
+          "start": "1964-09-16",
+          "end": "1964-10-10",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Lucas Samaras"
+        }
+      ],
+      "03": [
+        {
+          "id": "https://www.moma.org/data/Activity/3968",
+          "_label": "George Segal",
+          "start": "1964-03-07",
+          "end": "1964-04-04",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "George Segal"
+        }
+      ],
+      "12": [
+        {
+          "id": "https://www.moma.org/data/Activity/3975",
+          "_label": "Robert Morris: Sculpture (part one)",
+          "start": "1964-12-16",
+          "end": "1965-01-09",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Robert Morris: Sculpture (part one)"
+        }
+      ],
+      "11": [
+        {
+          "id": "https://www.moma.org/data/Activity/3974",
+          "_label": "Dan Flavin: fluorescent light",
+          "start": "1964-11-18",
+          "end": "1964-12-12",
+          "location": "Green Gallery",
+          "org": "Green Gallery",
+          "venue": "",
+          "carried_out_by": "https://www.moma.org/data/Group/inst29",
+          "influenced_by": [],
+          "label": "Dan Flavin: fluorescent light"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5917 @@
+{
+  "persons": [
+    {
+      "id": "https://www.moma.org/data/person/67366",
+      "_label": "Kenya (Robinson)",
+      "name": "(Robinson) Kenya",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/63538",
+      "_label": "31 Down",
+      "name": "31 Down",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/73689",
+      "_label": "Antoni  39tapies",
+      "name": "39tapies Antoni",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/54764",
+          "_label": "Selections from the Art Lending Service",
+          "start": "1965-08-02T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/57494",
+      "_label": "Anders A.",
+      "name": "A. Anders",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3638",
+          "_label": "National and International Studio Artists Exhibition",
+          "start": "1985-11-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35596",
+      "_label": "Basel Abbas",
+      "name": "ABBAS Basel",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Greek",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Greek, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/63596",
+      "_label": "AIDS-3D",
+      "name": "AIDS-3D",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/71484",
+      "_label": "Herb Aach",
+      "name": "Aach Herb",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/26693",
+      "_label": "Sijtje Aafjes",
+      "name": "Aafjes Sijtje",
+      "born": "1893-01-01",
+      "died": "1972-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2660",
+          "_label": "Designing Modern Women 1890\u20131990",
+          "start": "2013-10-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2586",
+          "_label": "Century of the Child: Growing by Design, 1900\u20132000",
+          "start": "2012-07-29T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, 1893\u20131972"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34",
+      "_label": "Aino Aalto",
+      "name": "Aalto Aino",
+      "born": "1894-01-01",
+      "died": "1949-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2254",
+          "_label": "Humble Masterpieces",
+          "start": "2004-04-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/311",
+          "_label": "Design for Use",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2660",
+          "_label": "Designing Modern Women 1890\u20131990",
+          "start": "2013-10-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1579",
+          "_label": "Alvar Aalto: Furniture and Glass",
+          "start": "1984-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/521",
+          "_label": "Three Modern Styles",
+          "start": "1950-07-11T00:00:00Z"
+        }
+      ],
+      "gender": "Finnish, 1894\u20131949"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33",
+      "_label": "Alvar Aalto",
+      "name": "Aalto Alvar",
+      "born": "1898-01-01",
+      "died": "1976-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 32,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1989",
+          "_label": "Civic Architecture",
+          "start": "1995-06-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/656",
+          "_label": "Glass from the Museum of Modern Art Collection",
+          "start": "1955-10-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/752",
+          "_label": "Recent Acquisitions",
+          "start": "1960-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/16",
+          "_label": "Modern Architecture: International Exhibition",
+          "start": "1932-02-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2297",
+          "_label": "Architecture and Design: Rotation 2",
+          "start": "2005-12-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/709",
+          "_label": "20th Century Design from the Museum Collection",
+          "start": "1958-12-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/532",
+          "_label": "Good Design",
+          "start": "1950-11-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/498",
+          "_label": "Design Show: Christmas 1949",
+          "start": "1949-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2469",
+          "_label": "Shaping Modernity: Design 1880\u20131980, Part 1",
+          "start": "2009-12-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/114",
+          "_label": "Alvar Aalto: Architecture and Furniture",
+          "start": "1938-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/401",
+          "_label": "Modern Rooms of the Last Fifty Years",
+          "start": "1946-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2182",
+          "_label": "Modern Living II",
+          "start": "2000-04-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2317",
+          "_label": "Artist's Choice: Herzog and De Meuron, Perception Restrained",
+          "start": "2006-06-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/575",
+          "_label": "New Design Trends",
+          "start": "1952-03-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/975",
+          "_label": "Architecture of Museums",
+          "start": "1968-09-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2265",
+          "_label": "Architecture and Design: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/597",
+          "_label": "Built in USA: Post-War Architecture",
+          "start": "1953-01-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/364",
+          "_label": "Useful Objects",
+          "start": "1945-11-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/131",
+          "_label": "Houses and Housing: Industrial Art",
+          "start": "1939-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2092",
+          "_label": "Alvar Aalto: Between Humanism and Materialism",
+          "start": "1998-02-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2572",
+          "_label": "Shaping Modernity: Design 1880\u20131980, Part 2",
+          "start": "2012-03-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/311",
+          "_label": "Design for Use",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2660",
+          "_label": "Designing Modern Women 1890\u20131990",
+          "start": "2013-10-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1579",
+          "_label": "Alvar Aalto: Furniture and Glass",
+          "start": "1984-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2586",
+          "_label": "Century of the Child: Growing by Design, 1900\u20132000",
+          "start": "2012-07-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/521",
+          "_label": "Three Modern Styles",
+          "start": "1950-07-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2329",
+          "_label": "Digitally Mastered: Recent Acquisitions from the Museum's Collection",
+          "start": "2006-11-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/422",
+          "_label": "100 Useful Objects of Fine Design (available under $100)",
+          "start": "1947-09-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/208",
+          "_label": "Useful Objects Under $10",
+          "start": "1941-12-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/822",
+          "_label": "Philip L. Goodwin Galleries of Architecture and Design",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2522",
+          "_label": "Plywood: Material, Process, Form",
+          "start": "2011-02-02T00:00:00Z"
+        }
+      ],
+      "gender": "Finnish, 1898\u20131976"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35",
+      "_label": "Eero Aarnio",
+      "name": "Aarnio Eero",
+      "born": "1932-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2586",
+          "_label": "Century of the Child: Growing by Design, 1900\u20132000",
+          "start": "2012-07-29T00:00:00Z"
+        }
+      ],
+      "gender": "Finnish, born 1932"
+    },
+    {
+      "id": "https://www.moma.org/data/person/71206",
+      "_label": "Jane Aaron",
+      "name": "Aaron Jana",
+      "born": "",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28721",
+      "_label": "George Aarons",
+      "name": "Aarons George",
+      "born": "1916-01-01",
+      "died": "2006-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/271",
+          "_label": "Yank Illustrates the War",
+          "start": "1943-03-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59453",
+      "_label": "Antoni Abad",
+      "name": "Abad Antoni",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3475",
+          "_label": "El real viaje Real/The Real Royal Trip",
+          "start": "2003-10-12T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/71485",
+      "_label": "Fritzie Abadi",
+      "name": "Abadi Fritzie",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/37",
+      "_label": "Magdalena Abakanowicz",
+      "name": "Abakanowicz Magdalena",
+      "born": "1930-01-01",
+      "died": "2017-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 10,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/991",
+          "_label": "Wall Hangings",
+          "start": "1969-02-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1628",
+          "_label": "Contemporary Works from the Collection",
+          "start": "1986-04-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1960",
+          "_label": "Drawing in Black and White: A Selection of Contemporary Works from the Collection",
+          "start": "1994-09-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1691",
+          "_label": "Contemporary Works from the Collection",
+          "start": "1987-12-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2572",
+          "_label": "Shaping Modernity: Design 1880\u20131980, Part 2",
+          "start": "2012-03-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1892",
+          "_label": "Drawing in Black and White: Contemporary Works form the Collection",
+          "start": "1993-02-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2979",
+          "_label": "Magdalena Abakanowicz: War Games",
+          "start": "1993-04-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1569",
+          "_label": "An International Survey of Recent Painting and Sculpture",
+          "start": "1984-05-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1066",
+          "_label": "Recent Acquisitions: Design Collection",
+          "start": "1970-12-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1748",
+          "_label": "Contemporary Works from the Collection",
+          "start": "1989-06-24T00:00:00Z"
+        }
+      ],
+      "gender": "Polish, born 1930"
+    },
+    {
+      "id": "https://www.moma.org/data/person/66110",
+      "_label": "Natalia Abalakova",
+      "name": "Abalakova Natalia",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/19102",
+      "_label": "Martine Aballea",
+      "name": "Aballea Martine",
+      "born": "",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2913",
+          "_label": "The Winter of Love (L'Hiver de l'Amour)",
+          "start": "1994-10-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3031",
+          "_label": "Special Projects (Winter 1978\u20131979)",
+          "start": "1978-12-03T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59366",
+      "_label": "Eduardo Abaroa",
+      "name": "Abaroa Eduardo",
+      "born": "1968-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3451",
+          "_label": "Mexico City: An Exhibition about the Exchange Rates of Bodies and Values",
+          "start": "2002-06-30T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/66090",
+      "_label": "Nadim Abbas",
+      "name": "Abbas Nadim",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/38",
+      "_label": "James Abbe",
+      "name": "Abbe James",
+      "born": "1883-01-01",
+      "died": "1973-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1448",
+          "_label": "In the Twenties: Portraits from the Photography Collection",
+          "start": "1979-11-14T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1883\u20131973"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28573",
+      "_label": "William P. Abbe",
+      "name": "Abbe William P",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/151",
+          "_label": "PM Competition: The Artist as Reporter",
+          "start": "1940-04-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/40",
+      "_label": "Berenice Abbott",
+      "name": "Abbott Berenice",
+      "born": "1898-01-01",
+      "died": "1991-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 65,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/695",
+          "_label": "70 Photographers Look at New York",
+          "start": "1957-11-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2331",
+          "_label": "New York at Night: Photographs from the Collection",
+          "start": "2006-12-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/210",
+          "_label": "American Photographs at $10",
+          "start": "1941-12-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/925",
+          "_label": "Once Invisible",
+          "start": "1967-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/564",
+          "_label": "Christmas Photographs",
+          "start": "1951-11-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1212",
+          "_label": "Public Landscapes",
+          "start": "1974-09-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1880",
+          "_label": "Selections from the Collection",
+          "start": "1992-09-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/17",
+          "_label": "Murals by American Painters and Photographers",
+          "start": "1932-05-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1068",
+          "_label": "Berenice Abbott",
+          "start": "1970-12-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/354",
+          "_label": "The Museum Collection of Photographs",
+          "start": "1945-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/315",
+          "_label": "Photography",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/552",
+          "_label": "12 Photographers",
+          "start": "1951-07-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1434",
+          "_label": "Views over America",
+          "start": "1979-06-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1468",
+          "_label": "Reinstallation of the Collection",
+          "start": "1980-10-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1612",
+          "_label": "Self Portrait: The Photographer's Persona, 1840\u20131985",
+          "start": "1985-11-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/826",
+          "_label": "The Photographer's Eye",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1444",
+          "_label": "People Watching",
+          "start": "1979-10-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/294",
+          "_label": "Portraits",
+          "start": "1943-11-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/943",
+          "_label": "Language of the Body",
+          "start": "1999-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2419",
+          "_label": "Artist's Choice: Vik Muniz, Rebus",
+          "start": "2008-12-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2360",
+          "_label": "Edward Steichen Photography Collection Galleries: Rotation 5",
+          "start": "2007-08-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1448",
+          "_label": "In the Twenties: Portraits from the Photography Collection",
+          "start": "1979-11-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1388",
+          "_label": "New York/New York",
+          "start": "1978-09-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1326",
+          "_label": "Artists by Artists",
+          "start": "1977-04-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2678",
+          "_label": "Towards the \"New\" Museum of Modern Art: A Bid for Space IV",
+          "start": "1963-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1280",
+          "_label": "Photography: Recent Acquisitions, 1974\u20131976",
+          "start": "1976-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1453",
+          "_label": "Edward Steichen Photography Center Reinstallation",
+          "start": "1979-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2051",
+          "_label": "American Photography 1890\u20131965 from the Collection",
+          "start": "1997-02-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/218",
+          "_label": "The Artists' New York",
+          "start": "1942-01-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54748",
+          "_label": "Photographs and Sculpture",
+          "start": "1963-05-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1939",
+          "_label": "American Surrealist Photography from the Collection",
+          "start": "1994-04-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2677",
+          "_label": "Towards the \"New\" Museum of Modern Art: A Bid for Space, Part II",
+          "start": "1960-11-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2270",
+          "_label": "Photography: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1099",
+          "_label": "Photographs of Women",
+          "start": "1971-09-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/311",
+          "_label": "Design for Use",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2226",
+          "_label": "Life of the City",
+          "start": "2002-02-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/215",
+          "_label": "New Acquisitions: Photographs",
+          "start": "1942-01-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54821",
+          "_label": "NewYork/New York",
+          "start": "1978-09-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/448",
+          "_label": "50 Photographs by 50 Photographers",
+          "start": "1948-07-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2178",
+          "_label": "Anatomically Incorrect",
+          "start": "2000-04-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/258",
+          "_label": "Twentieth Century Portraits",
+          "start": "1942-12-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1810",
+          "_label": "Artist's Choice: Chuck Close, Head-On/The Modern Portrait",
+          "start": "1991-01-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/130",
+          "_label": "Seven American Photographers",
+          "start": "1939-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1369",
+          "_label": "Art for Corporations",
+          "start": "1978-04-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/167",
+          "_label": "Sixty Photographs: A Survey of Camera Esthetics",
+          "start": "1940-12-31T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1447",
+          "_label": "Art of the Twenties",
+          "start": "1979-11-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2221",
+          "_label": "Bernice Abbott's New York",
+          "start": "2001-10-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/951",
+          "_label": "Steichen Gallery Reinstallation",
+          "start": "1967-10-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2651",
+          "_label": "American Modern: Hopper to O'Keeffe",
+          "start": "2013-08-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/726",
+          "_label": "30th Anniversary Special Installation - Towards the \"New\" Museum",
+          "start": "1959-11-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2607",
+          "_label": "Artist's Choice: Trisha Donnelly",
+          "start": "2012-11-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/81",
+          "_label": "New Horizons in American Art",
+          "start": "1936-09-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1504",
+          "_label": "Still Life",
+          "start": "1981-10-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2488",
+          "_label": "Pictures by Women: A History of Modern Photography (Part 2)",
+          "start": "2010-05-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2575",
+          "_label": "The Shaping of New Visions: Photograph, Film, Photobook",
+          "start": "2012-04-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/439",
+          "_label": "In and Out of Focus: A Survey of Today's Photography",
+          "start": "1948-04-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1271",
+          "_label": "Photography for Collectors",
+          "start": "1976-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1898\u20131991"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24509",
+      "_label": "Jere Abbott",
+      "name": "Abbott Jere",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/21979",
+      "_label": "Ken Abbott",
+      "name": "Abbott Ken",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/31458",
+      "_label": "Mary Abbott",
+      "name": "Abbott Mary",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/670",
+          "_label": "Recent Drawings U.S.A.",
+          "start": "1956-04-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2991",
+          "_label": "10 Downtown: 10 Years",
+          "start": "1977-09-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28586",
+      "_label": "S.A. Abbott",
+      "name": "Abbott SA",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/151",
+          "_label": "PM Competition: The Artist as Reporter",
+          "start": "1940-04-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/71166",
+      "_label": "Zarouhie Abdalian",
+      "name": "Abdalian Zarouhie",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58622",
+      "_label": "Adel Abdessemed",
+      "name": "Abdessemed Adel",
+      "born": "1971-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2853",
+          "_label": "Adel Abdessemed: Dead or Alive",
+          "start": "2007-10-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3472",
+          "_label": "Uniform: Order and Disorder",
+          "start": "2001-05-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3726",
+          "_label": "National and International Studio Program Exhibition (2000\u20132001): Strangers/\u00c9trangers",
+          "start": "2001-04-26T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/36192",
+      "_label": "Sabet Abdou-Sabet",
+      "name": "Abdou-Sabet Sabet",
+      "born": "1937-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1984",
+          "_label": "Mutant Materials in Contemporary Design",
+          "start": "1995-05-25T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/41",
+      "_label": "Nobuya Abe",
+      "name": "Abe Nobuya",
+      "born": "1913-01-01",
+      "died": "1971-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/897",
+          "_label": "The New Japanese Painting and Sculpture",
+          "start": "1966-10-19T00:00:00Z"
+        }
+      ],
+      "gender": "Japanese, 1913\u20131971"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59849",
+      "_label": "Sachiko Abe",
+      "name": "Abe Sachiko",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3411",
+          "_label": "Visa for Thirteen",
+          "start": "2004-04-25T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/42",
+      "_label": "Abe Shiro (pen Name: Suichiku)",
+      "name": "Abe Shiro (pen Name: Suichiku)",
+      "born": "1900-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/629",
+          "_label": "Japanese Calligraphy",
+          "start": "1954-06-22T00:00:00Z"
+        }
+      ],
+      "gender": "Japanese, born 1900"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59850",
+      "_label": "Michael van den Abeele",
+      "name": "Abeele Michael van den",
+      "born": "1974-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3411",
+          "_label": "Visa for Thirteen",
+          "start": "2004-04-25T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/43",
+      "_label": "Robert Abel",
+      "name": "Abel Robert",
+      "born": "1937-01-01",
+      "died": "2001-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1709",
+          "_label": "The Modern Poster",
+          "start": "1988-06-06T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1937"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25329",
+      "_label": "Michele Abeles",
+      "name": "Abeles Michele",
+      "born": "1977-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2595",
+          "_label": "New Photography",
+          "start": "2012-10-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1977"
+    },
+    {
+      "id": "https://www.moma.org/data/person/71340",
+      "_label": "Ida Abelman",
+      "name": "Abelman Ida",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/71486",
+      "_label": "George Abend",
+      "name": "Abend George",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/7399",
+      "_label": "Gertrude Abercrombie",
+      "name": "Abercrombie Gertrude",
+      "born": "1909-01-01",
+      "died": "1977-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/145",
+          "_label": "Four American Traveling Exhibitions",
+          "start": "1940-04-03T00:00:00Z"
+        }
+      ],
+      "gender": "American"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27970",
+      "_label": "H.A. Abercromby",
+      "name": "Abercromby H.A.",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/555",
+          "_label": "Forgotten Photographers",
+          "start": "1951-08-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28088",
+      "_label": "Harry G. Aberdeen",
+      "name": "Aberdeen Harry G",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/81",
+          "_label": "New Horizons in American Art",
+          "start": "1936-09-14T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/31922",
+      "_label": "David Abernathy",
+      "name": "Abernathy David",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/925",
+          "_label": "Once Invisible",
+          "start": "1967-06-20T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60289",
+      "_label": "Jaishri Abichandani",
+      "name": "Abichandani Jaishri",
+      "born": "1969-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3550",
+          "_label": "Emergency Room",
+          "start": "2007-02-08T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/67234",
+      "_label": "Ziad Abillama",
+      "name": "Abillama Ziad",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/33090",
+      "_label": "Cecile Abish",
+      "name": "Abish Cecile",
+      "born": "1953-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1317",
+          "_label": "Maps",
+          "start": "1977-02-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3279",
+          "_label": "FORTY",
+          "start": "2016-06-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2944",
+          "_label": "Primarily Structural: Minimalist and Post-Minimalist Works on Paper",
+          "start": "1999-02-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2948",
+          "_label": "100 Drawings",
+          "start": "1999-04-18T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1953"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59549",
+      "_label": "Walter Abish",
+      "name": "Abish Walter",
+      "born": "1931-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3796",
+          "_label": "Music & Literature: Thursdays Evenings at The Clocktower",
+          "start": "1984-03-22T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59772",
+      "_label": "Imants Abolins",
+      "name": "Abolins Imants",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3204",
+          "_label": "Artists' Stamps and Stamp Images",
+          "start": "1979-12-09T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35597",
+      "_label": "Rouanne Abou-Rahm",
+      "name": "Abou-Rahm Rouanne",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/63562",
+      "_label": "Abounaddara",
+      "name": "Abounaddara",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/56998",
+      "_label": "Daniel Abraham",
+      "name": "Abraham Daniel",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3178",
+          "_label": "New York/New Wave",
+          "start": "1981-02-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/46",
+      "_label": "Raimund Abraham",
+      "name": "Abraham Raimund",
+      "born": "1933-01-01",
+      "died": "2010-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 13,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2541",
+          "_label": "194X-9/11: American Architects and the Cit",
+          "start": "2011-07-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2193",
+          "_label": "Architecture Hot and Cold",
+          "start": "2000-09-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2310",
+          "_label": "Architecture and Design Drawings: Rotation 3",
+          "start": "2006-04-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/929",
+          "_label": "Architectural Fantasies: Drawings from the Museum Collection",
+          "start": "1967-07-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2259",
+          "_label": "Tall Buildings",
+          "start": "2004-07-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2507",
+          "_label": "Building Collections: Recent Acquisitions of Architecture",
+          "start": "2010-11-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1235",
+          "_label": "Architectural Studies and Projects",
+          "start": "1975-03-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2264",
+          "_label": "Architecture and Design Drawings: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2401",
+          "_label": "Dreamland: Architecture Experiements since the 1970's",
+          "start": "2008-07-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2237",
+          "_label": "The Changing of the Avant Garde: Visionary Architectural Drawings From the Gilman Collection",
+          "start": "2002-10-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2348",
+          "_label": "75 Years of Architecture at MoMA",
+          "start": "2007-04-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2646",
+          "_label": "Cut 'n' Paste: From Architectural Assemblage to Collage City",
+          "start": "2013-07-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1066",
+          "_label": "Recent Acquisitions: Design Collection",
+          "start": "1970-12-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born Austria. 1933\u20132010"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58534",
+      "_label": "Izzy Abrahami",
+      "name": "Abrahami Izzy",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2804",
+          "_label": "Special Projects (Winter 1984)",
+          "start": "1984-01-22T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/48",
+      "_label": "Ivor Abrahams",
+      "name": "Abrahams Ivor",
+      "born": "1935-01-01",
+      "died": "2015-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1369",
+          "_label": "Art for Corporations",
+          "start": "1978-04-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1505",
+          "_label": "Prints: Acquisitions 1977\u20131981",
+          "start": "1981-10-15T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1935"
+    },
+    {
+      "id": "https://www.moma.org/data/person/66893",
+      "_label": "Ted Abramczyk",
+      "name": "Abramczyk Ted",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/16626",
+      "_label": "Marina Abramovic",
+      "name": "Abramovic Marina",
+      "born": "1946-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 18,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3259",
+          "_label": "Summer School 2012: Marina Abramovi\u0107, Steve Paxton, and Genesis Breyer P-Orridge",
+          "start": "2012-09-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1770",
+          "_label": "Video and Myth",
+          "start": "1990-01-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1571",
+          "_label": "Video: Recent Acquisitions",
+          "start": "1984-05-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1741",
+          "_label": "The Arts for Television",
+          "start": "1989-04-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1669",
+          "_label": "Selections from the Video Study Collection: 1968\u20131987",
+          "start": "1987-06-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2287",
+          "_label": "Take Two: Worlds and Views from the Contemporary Collection",
+          "start": "2005-09-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3224",
+          "_label": "Animal.Anima.Animus",
+          "start": "1999-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3209",
+          "_label": "Marina Abramovi\u0107: Chair for Man and His Spirit",
+          "start": "2010-02-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2568",
+          "_label": "MoMA Media Lounge 2012",
+          "start": "2012-02-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3498",
+          "_label": "Video Acts: Single Channel Video Works from the Collections of Pamela and Richard Kramlich and New Art Trust",
+          "start": "2002-11-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3374",
+          "_label": "Reopening: Installations and Projects",
+          "start": "1997-10-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2565",
+          "_label": "Print/Out, in conjunction with the exhibition, Printin'",
+          "start": "2012-02-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1884",
+          "_label": "Video: Two Decades",
+          "start": "1992-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2482",
+          "_label": "Marina Abramovi\u0107: The Artist is Present",
+          "start": "2010-03-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3559",
+          "_label": "Into Me/Out of Me",
+          "start": "2006-06-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1552",
+          "_label": "The Second Link: Viewpoints on Video in the Eighties",
+          "start": "1983-08-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1528",
+          "_label": "Videoart in Germany: 1963\u20131982",
+          "start": "1982-12-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3446",
+          "_label": "Loop",
+          "start": "2001-12-09T00:00:00Z"
+        }
+      ],
+      "gender": "Yugoslav, born 1946"
+    },
+    {
+      "id": "https://www.moma.org/data/person/49",
+      "_label": "Gerald Abramovitz",
+      "name": "Abramovitz Gerald",
+      "born": "1928-01-01",
+      "died": "2011-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/933",
+          "_label": "Recent Acquisitions: Design Collection",
+          "start": "1967-09-27T00:00:00Z"
+        }
+      ],
+      "gender": "British, born South Africa. 1928\u20132011"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31484",
+      "_label": "Max Abramovitz",
+      "name": "Abramovitz Max",
+      "born": "1908-01-01",
+      "died": "2004-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/712",
+          "_label": "Architecture and Imagery: Four New Buildings",
+          "start": "1959-02-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/611",
+          "_label": "Architecture for the State Department",
+          "start": "1953-10-06T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/56659",
+      "_label": "Ira Abramowiz",
+      "name": "Abramowiz Ira",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3178",
+          "_label": "New York/New Wave",
+          "start": "1981-02-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/22536",
+      "_label": "Leonard Abrams",
+      "name": "Abrams Leonard",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2444",
+          "_label": "Looking at Music, Side 2",
+          "start": "2009-06-10T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/58385",
+      "_label": "Muhal Abrams",
+      "name": "Abrams Muhal",
+      "born": "1930-01-01",
+      "died": "2017-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2881",
+          "_label": "Volume: Bed of Sound",
+          "start": "2000-07-02T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/61076",
+      "_label": "Muhal Richard Abrams",
+      "name": "Abrams Muhal Richard",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/19396",
+      "_label": "Rhonda Abrams",
+      "name": "Abrams Rhonda",
+      "born": "1960-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1859",
+          "_label": "Committed Visions",
+          "start": "1992-01-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1770",
+          "_label": "Video and Myth",
+          "start": "1990-01-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2568",
+          "_label": "MoMA Media Lounge 2012",
+          "start": "2012-02-29T00:00:00Z"
+        }
+      ],
+      "gender": "Canadian, born 1960"
+    },
+    {
+      "id": "https://www.moma.org/data/person/57574",
+      "_label": "Charles Abramson",
+      "name": "Abramson Charles",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3189",
+          "_label": "The Shaped Field: Eccentric Formats",
+          "start": "1981-02-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/63563",
+      "_label": "Absalon",
+      "name": "Absalon",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/17587",
+      "_label": "Tomma Abts",
+      "name": "Abts Tomma",
+      "born": "1967-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2554",
+          "_label": "Contemporary Galleries: 1980\u2013Now",
+          "start": "2011-11-16T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1967"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26689",
+      "_label": "Lawrence Abu Hamdan",
+      "name": "Abu Hamdan Lawrence",
+      "born": "",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/51",
+      "_label": "Rodolfo Abularach",
+      "name": "Abularach Rodolfo",
+      "born": "1933-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 10,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/860",
+          "_label": "44 Drawings: Recent Acquisitions",
+          "start": "1965-09-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2403",
+          "_label": "Wunderkammer: A Century of Curiosities",
+          "start": "2008-07-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/718",
+          "_label": "Drawings, Watercolors, Collages: New Acquisitions",
+          "start": "1959-07-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/832",
+          "_label": "Contemporary Painters and Sculptors as Printmakers",
+          "start": "1964-09-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1000",
+          "_label": "Tamarind: Homage to Lithography",
+          "start": "1969-04-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/900",
+          "_label": "Drawings from the Museum Collection",
+          "start": "1966-10-31T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/746",
+          "_label": "100 Drawings from the Museum Collection",
+          "start": "1960-10-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/785",
+          "_label": "Fifty Drawings: Recent Acquisitions",
+          "start": "1962-04-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/819",
+          "_label": "Drawings from the Museum Collections: A Selection",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54755",
+          "_label": "Selections from the Art Lending Service",
+          "start": "1962-11-11T00:00:00Z"
+        }
+      ],
+      "gender": "Guatemalan, born 1933"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25129",
+      "_label": "Carla Accardi",
+      "name": "Accardi Carla",
+      "born": "1924-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2869",
+          "_label": "Carla Accardi: Triplice Tenda",
+          "start": "2001-05-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2841",
+          "_label": "Minimalia: An Italian Vision in 20th Century Art",
+          "start": "1999-10-10T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, born 1924"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58049",
+      "_label": "Terence Accola",
+      "name": "Accola Terence",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2834",
+          "_label": "Greater New York",
+          "start": "2000-02-27T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/52",
+      "_label": "Vito Acconci",
+      "name": "Acconci Vito",
+      "born": "1940-01-01",
+      "died": "2017-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 73,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3326",
+          "_label": "Special Projects (Fall 1979): Sound",
+          "start": "1979-09-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2521",
+          "_label": "Staging Action: Performance in Photography Since 1960",
+          "start": "2011-01-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3609",
+          "_label": "Casin\u00f2 Fantasma",
+          "start": "1990-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2223",
+          "_label": "New to Modern",
+          "start": "2001-10-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2632",
+          "_label": "A Trip from Here to There",
+          "start": "2013-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1985",
+          "_label": "Adding It Up: Print Acquisitions 1970\u20131995",
+          "start": "1995-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3280",
+          "_label": "Vito Acconci: Where We Are Now (Who Are We Anyway?), 1976",
+          "start": "2016-05-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1751",
+          "_label": "Painters for the Theater",
+          "start": "1989-07-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2203",
+          "_label": "The Path of Resistance",
+          "start": "2000-11-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2444",
+          "_label": "Looking at Music, Side 2",
+          "start": "2009-06-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1911",
+          "_label": "Contemporary Works from the Collection",
+          "start": "1993-07-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1697",
+          "_label": "Vito Acconci: Public Places",
+          "start": "1988-02-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2557",
+          "_label": "Public Spaces Changes 2012",
+          "start": "2012-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1510",
+          "_label": "Selections From the Art Lending Service",
+          "start": "1981-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54825",
+          "_label": "Selections from the ALS",
+          "start": "1981-11-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1480",
+          "_label": "Inside Spaces",
+          "start": "1981-01-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1459",
+          "_label": "Printed Art: A View of Two Decades",
+          "start": "1980-02-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2131",
+          "_label": "Sight Gags: Caricature, Grotesque, and Wit in Modern and Contemporary Drawing",
+          "start": "1999-01-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1208",
+          "_label": "Projects: Video I",
+          "start": "1974-08-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2881",
+          "_label": "Volume: Bed of Sound",
+          "start": "2000-07-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1307",
+          "_label": "Prints: Acquisitions, 1973\u20131976",
+          "start": "1976-11-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1782",
+          "_label": "Prints in Parts Since 1970",
+          "start": "1990-03-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2198",
+          "_label": "Actual Size",
+          "start": "2000-10-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1649",
+          "_label": "Painting and Sculpture: Recent Acquisitions",
+          "start": "1986-11-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2377",
+          "_label": "Public Spaces Changes",
+          "start": "2008-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2048",
+          "_label": "A Singular Vision: Prints from Landfall Press",
+          "start": "1997-02-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1326",
+          "_label": "Artists by Artists",
+          "start": "1977-04-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3360",
+          "_label": "1969",
+          "start": "2009-10-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2064",
+          "_label": "Selections from the Collection",
+          "start": "1997-05-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1520",
+          "_label": "Performance Video",
+          "start": "1982-08-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3614",
+          "_label": "Vito Acconci: Cry Baby",
+          "start": "1977-11-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2269",
+          "_label": "Painting and Sculpture: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2592",
+          "_label": "9+1 Ways of Being Political: 50 Years of Political Stances in Architecture and Urban Design",
+          "start": "2012-09-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1756",
+          "_label": "Video and Language",
+          "start": "1989-09-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2992",
+          "_label": "Rooms",
+          "start": "1976-06-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2513",
+          "_label": "Painting and Sculpture Changes 2011",
+          "start": "2011-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1738",
+          "_label": "Master Prints from the Collection",
+          "start": "1989-04-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1217",
+          "_label": "Eight Contemporary Artists",
+          "start": "1974-10-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2196",
+          "_label": "Pop and After",
+          "start": "2000-09-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2568",
+          "_label": "MoMA Media Lounge 2012",
+          "start": "2012-02-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2138",
+          "_label": "The Museum as Muse: Artists Reflect",
+          "start": "1999-03-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3498",
+          "_label": "Video Acts: Single Channel Video Works from the Collections of Pamela and Richard Kramlich and New Art Trust",
+          "start": "2002-11-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2270",
+          "_label": "Photography: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2319",
+          "_label": "Out of Time: A Contemporary View",
+          "start": "2006-08-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2026",
+          "_label": "Philip Johnson: Architecture and Design Gifts",
+          "start": "1996-06-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3374",
+          "_label": "Reopening: Installations and Projects",
+          "start": "1997-10-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2990",
+          "_label": "New York Avant-Garde/Works and Projects of the Seventies",
+          "start": "1977-10-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1241",
+          "_label": "Projects: Video IV",
+          "start": "1975-05-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2338",
+          "_label": "Live/Work: Performance into Drawing",
+          "start": "2007-01-31T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3207",
+          "_label": "A Great Big Drawing Show",
+          "start": "1979-02-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1555",
+          "_label": "Video Art: A History",
+          "start": "1983-10-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2333",
+          "_label": "Public Spaces Changes 2007",
+          "start": "2007-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2276",
+          "_label": "Drawing from the Modern, 1945\u20131975",
+          "start": "2005-03-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1289",
+          "_label": "Projects: Video IX",
+          "start": "1976-07-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1564",
+          "_label": "Selections from the Permanent Collection: Painting and Sculpture",
+          "start": "1984-05-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3559",
+          "_label": "Into Me/Out of Me",
+          "start": "2006-06-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1505",
+          "_label": "Prints: Acquisitions 1977\u20131981",
+          "start": "1981-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1694",
+          "_label": "Committed to Print",
+          "start": "1988-01-31T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2201",
+          "_label": "Counter-Monuments and Memory",
+          "start": "2000-11-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1991",
+          "_label": "Sculpture from the Collection",
+          "start": "1995-06-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2313",
+          "_label": "Transforming Chronologies: An Atlas of Drawings, Part 2",
+          "start": "2006-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2493",
+          "_label": "Contemporary Art from the Collection",
+          "start": "2010-06-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2581",
+          "_label": "Ecstatic Alphabets/Heaps of Language",
+          "start": "2012-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1617",
+          "_label": "American Prints: 1900\u20131960; Recent Acquisitions: Illustrated Books",
+          "start": "1985-12-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3743",
+          "_label": "Engaging Objects: The Participatory Art of Mirrors, Mechanisms, and Shelters",
+          "start": "1986-05-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1050",
+          "_label": "Information",
+          "start": "1970-07-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2410",
+          "_label": "Here is Every, Four Decades of Contemporary Art",
+          "start": "2008-09-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2514",
+          "_label": "Public Spaces Changes 2011; includes Paula Hayes, Nocturne of the Limax maximus",
+          "start": "2011-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1898",
+          "_label": "Reading Prints",
+          "start": "1993-03-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1836",
+          "_label": "Consumer Tools: Personal Visions",
+          "start": "1991-09-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1322",
+          "_label": "Bookworks",
+          "start": "1977-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3348",
+          "_label": "Video (Winter 1980): Anthology Film Archives",
+          "start": "1980-02-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1621",
+          "_label": "Recent Acquisitions: Contemporary Prints",
+          "start": "1986-02-07T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1940"
+    },
+    {
+      "id": "https://www.moma.org/data/person/56999",
+      "_label": "William Accorsi",
+      "name": "Accorsi William",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2991",
+          "_label": "10 Downtown: 10 Years",
+          "start": "1977-09-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27331",
+      "_label": "Felicindo Iglesias Acevedo",
+      "name": "Acevedo Felicindo Iglesias",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/305",
+          "_label": "Modern Cuban Painters",
+          "start": "1944-03-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/64748",
+      "_label": "Gilbert Acevedo",
+      "name": "Acevedo Gilbert",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/58050",
+      "_label": "Manuel Acevedo",
+      "name": "Acevedo Manuel",
+      "born": "1744-01-01",
+      "died": "1800-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2834",
+          "_label": "Greater New York",
+          "start": "2000-02-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3705",
+          "_label": "CommuNYCations: Public Mirror: Artists Against Racial Prejudice",
+          "start": "1990-09-13T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60108",
+      "_label": "Peter Acheson",
+      "name": "Acheson Peter",
+      "born": "1990-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2858",
+          "_label": "Orpheus Selection: In Search of Darkness",
+          "start": "2007-06-24T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59027",
+      "_label": "Luciana Achugar",
+      "name": "Achugar Luciana",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2872",
+          "_label": "Summer Dance Warm Up",
+          "start": "2001-07-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/30611",
+      "_label": "John Van Acker",
+      "name": "Acker John Van",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/532",
+          "_label": "Good Design",
+          "start": "1950-11-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/22358",
+      "_label": "Kathy Acker",
+      "name": "Acker Kathy",
+      "born": "1947-01-01",
+      "died": "1997-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2444",
+          "_label": "Looking at Music, Side 2",
+          "start": "2009-06-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3178",
+          "_label": "New York/New Wave",
+          "start": "1981-02-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3796",
+          "_label": "Music & Literature: Thursdays Evenings at The Clocktower",
+          "start": "1984-03-22T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1947\u20131997"
+    },
+    {
+      "id": "https://www.moma.org/data/person/30538",
+      "_label": "Frederick Ackerman",
+      "name": "Ackerman Frederick",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/16",
+          "_label": "Modern Architecture: International Exhibition",
+          "start": "1932-02-09T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/30422",
+      "_label": "Richard Ackerman",
+      "name": "Ackerman Richard",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/470",
+          "_label": "The 28th Annual Exhibition of Advertising and Editorial Art of the New York Art Directors Club",
+          "start": "1949-03-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/14447",
+      "_label": "Franz Ackermann",
+      "name": "Ackermann Franz",
+      "born": "1963-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2911",
+          "_label": "Heaven: Public View, Private View",
+          "start": "1997-10-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2436",
+          "_label": "Compass in Hand: Selections from the Judith Rothschild Foundation Contemporary Drawings Collection",
+          "start": "2009-04-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2288",
+          "_label": "Drawing from the Modern, 1975\u20132005",
+          "start": "2005-09-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2236",
+          "_label": "Drawing Now:Eight Propositions",
+          "start": "2002-10-17T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1963"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23257",
+      "_label": "Rita Ackermann",
+      "name": "Ackermann Rita",
+      "born": "1968-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2526",
+          "_label": "Looking at Music 3.0",
+          "start": "2011-02-16T00:00:00Z"
+        }
+      ],
+      "gender": "Hungarian, born 1968"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59445",
+      "_label": "Roger Ackling",
+      "name": "Ackling Roger",
+      "born": "1947-01-01",
+      "died": "2014-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3502",
+          "_label": "Signatures of the Invisible",
+          "start": "2003-06-29T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/53",
+      "_label": "Milton Ackoff",
+      "name": "Ackoff Milton",
+      "born": "1915-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/493",
+          "_label": "New Posters from 16 Countries",
+          "start": "1949-10-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/470",
+          "_label": "The 28th Annual Exhibition of Advertising and Editorial Art of the New York Art Directors Club",
+          "start": "1949-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/496",
+          "_label": "Polio Poster Competition",
+          "start": "1949-10-31T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1089",
+          "_label": "The Artist as Adversary",
+          "start": "1971-07-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1915"
+    },
+    {
+      "id": "https://www.moma.org/data/person/54",
+      "_label": "Norman Ackroyd",
+      "name": "Ackroyd Norman",
+      "born": "1938-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1999",
+          "_label": "Impressions of Nature",
+          "start": "1995-09-16T00:00:00Z"
+        }
+      ],
+      "gender": "British"
+    },
+    {
+      "id": "https://www.moma.org/data/person/66186",
+      "_label": "Niv Acosta",
+      "name": "Acosta Niv",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/67586",
+      "_label": "Dan Acostioaei",
+      "name": "Acostioaei Dan",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60551",
+      "_label": "Arlo Acton",
+      "name": "Acton Arlo",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/55",
+      "_label": "Luis Alberto Acu\u00f1a",
+      "name": "Acu\u00f1a Luis Alberto",
+      "born": "",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/273",
+          "_label": "The Latin-American Collection of the Museum of Modern Art",
+          "start": "1943-03-31T00:00:00Z"
+        }
+      ],
+      "gender": "Colombian"
+    },
+    {
+      "id": "https://www.moma.org/data/person/51183",
+      "_label": "Masao Adachi",
+      "name": "Adachi Masao",
+      "born": "1939-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Japanese, born 1939"
+    },
+    {
+      "id": "https://www.moma.org/data/person/66308",
+      "_label": "Peter Adair",
+      "name": "Adair Peter",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/56",
+      "_label": "Henri Georges Adam",
+      "name": "Adam Henri Georges",
+      "born": "1904-01-01",
+      "died": "1967-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/832",
+          "_label": "Contemporary Painters and Sculptors as Printmakers",
+          "start": "1964-09-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/479",
+          "_label": "Master Prints from the Museum Collection",
+          "start": "1949-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/454",
+          "_label": "Print Gift of Victor S. Riesenfeld and Matisse: Jazz: Gift of the Artist",
+          "start": "1948-10-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/710",
+          "_label": "Ten European Artists",
+          "start": "1958-12-31T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1904\u20131967"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28190",
+      "_label": "Jean Victor Adam",
+      "name": "Adam Jean Victor",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28245",
+      "_label": "Pierre Adam",
+      "name": "Adam Pierre",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/57",
+      "_label": "Antoine Samuel Adam-Salomon",
+      "name": "Adam-Salomon Antoine",
+      "born": "1818-01-01",
+      "died": "1881-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/951",
+          "_label": "Steichen Gallery Reinstallation",
+          "start": "1967-10-25T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1818\u20131881"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58",
+      "_label": "Valerio Adami",
+      "name": "Adami Valerio",
+      "born": "1935-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2043",
+          "_label": "The Maximal Sixties: Pop, Op, and Figuration",
+          "start": "1997-01-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2136",
+          "_label": "Pop Impressions Europe/USA: Prints and Multiples from the Museum of Modern Art",
+          "start": "1999-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/961",
+          "_label": "Dada, Surrealism and their Heritage",
+          "start": "1968-03-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1883",
+          "_label": "The Artist and the Book in Twentieth Century Italy",
+          "start": "1992-10-13T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, born 1935"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60192",
+      "_label": "David Adamo",
+      "name": "Adamo David",
+      "born": "1979-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60",
+      "_label": "Alice Adams",
+      "name": "Adams Alice",
+      "born": "1930-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3203",
+          "_label": "Special Projects (Winter 1980)",
+          "start": "1980-02-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2961",
+          "_label": "Indoor/Outdoor Sculpture Show",
+          "start": "1978-04-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54744",
+          "_label": "MoMA's Restaurant",
+          "start": "1971-01-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1569",
+          "_label": "An International Survey of Recent Painting and Sculpture",
+          "start": "1984-05-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1930"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59",
+      "_label": "Ansel Adams",
+      "name": "Adams Ansel",
+      "born": "1902-01-01",
+      "died": "1984-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 51,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/545",
+          "_label": "Abstraction in Photography",
+          "start": "1951-05-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/416",
+          "_label": "Alfred Stieglitz Exhibition: His Collection",
+          "start": "1947-06-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/210",
+          "_label": "American Photographs at $10",
+          "start": "1941-12-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/637",
+          "_label": "The Family of Man",
+          "start": "1955-01-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1442",
+          "_label": "Ansel Adams and the West",
+          "start": "1979-09-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/564",
+          "_label": "Christmas Photographs",
+          "start": "1951-11-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3393",
+          "_label": "Wide Open Spaces",
+          "start": "2004-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/354",
+          "_label": "The Museum Collection of Photographs",
+          "start": "1945-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/315",
+          "_label": "Photography",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/552",
+          "_label": "12 Photographers",
+          "start": "1951-07-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2432",
+          "_label": "Into the Sunset: Photography's Image of the American West",
+          "start": "2009-03-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2244",
+          "_label": "Ansel Adams at 100",
+          "start": "2001-07-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1468",
+          "_label": "Reinstallation of the Collection",
+          "start": "1980-10-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/514",
+          "_label": "Color Photography",
+          "start": "1950-05-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2360",
+          "_label": "Edward Steichen Photography Collection Galleries: Rotation 5",
+          "start": "2007-08-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/743",
+          "_label": "Photographs for Collectors",
+          "start": "1960-10-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/903",
+          "_label": "From the McAlpin Collection",
+          "start": "1966-12-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1453",
+          "_label": "Edward Steichen Photography Center Reinstallation",
+          "start": "1979-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2051",
+          "_label": "American Photography 1890\u20131965 from the Collection",
+          "start": "1997-02-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/275",
+          "_label": "Religious Folk Art of the Southwest",
+          "start": "1943-04-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1493",
+          "_label": "American Landscapes",
+          "start": "1981-07-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/326",
+          "_label": "Manzanar: Photographs by Ansel Adams of Loyal Japanese-American Relocation Center",
+          "start": "1944-11-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/594",
+          "_label": "Diogenes with a Camera II",
+          "start": "1952-11-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2270",
+          "_label": "Photography: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/812",
+          "_label": "The Photographer and the American Landscape",
+          "start": "1963-09-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/215",
+          "_label": "New Acquisitions: Photographs",
+          "start": "1942-01-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2181",
+          "_label": "Ideal Motif: Stieglitz, Weston, Adams, and Callahan",
+          "start": "2000-04-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/448",
+          "_label": "50 Photographs by 50 Photographers",
+          "start": "1948-07-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/130",
+          "_label": "Seven American Photographers",
+          "start": "1939-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1369",
+          "_label": "Art for Corporations",
+          "start": "1978-04-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/167",
+          "_label": "Sixty Photographs: A Survey of Camera Esthetics",
+          "start": "1940-12-31T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2309",
+          "_label": "Photography Collection: Rotation 3",
+          "start": "2006-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/951",
+          "_label": "Steichen Gallery Reinstallation",
+          "start": "1967-10-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1817",
+          "_label": "Art of the Forties",
+          "start": "1991-02-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2651",
+          "_label": "American Modern: Hopper to O'Keeffe",
+          "start": "2013-08-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1616",
+          "_label": "Variants",
+          "start": "1985-12-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/726",
+          "_label": "30th Anniversary Special Installation - Towards the \"New\" Museum",
+          "start": "1959-11-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/784",
+          "_label": "50 Photographs by 50 Photographers",
+          "start": "1962-04-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/439",
+          "_label": "In and Out of Focus: A Survey of Today's Photography",
+          "start": "1948-04-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/585",
+          "_label": "Then and Now",
+          "start": "1952-08-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2666",
+          "_label": "Informal Exhibition Fall 1943: Adams, Emerson, Stieglitz, Strand, Weston",
+          "start": "1943-11-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1271",
+          "_label": "Photography for Collectors",
+          "start": "1976-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1902\u20131984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60118",
+      "_label": "Bobby Neel Adams",
+      "name": "Adams Bobby Neel",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2858",
+          "_label": "Orpheus Selection: In Search of Darkness",
+          "start": "2007-06-24T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/61111",
+      "_label": "Bruce Adams",
+      "name": "Adams Bruce",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/61",
+      "_label": "Clinton Adams",
+      "name": "Adams Clinton",
+      "born": "1918-01-01",
+      "died": "2002-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1000",
+          "_label": "Tamarind: Homage to Lithography",
+          "start": "1969-04-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/615",
+          "_label": "Young American Printmakers",
+          "start": "1953-11-25T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1918\u20132002"
+    },
+    {
+      "id": "https://www.moma.org/data/person/63",
+      "_label": "Dennis Adams",
+      "name": "Adams Dennis",
+      "born": "1948-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 9,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1970",
+          "_label": "Semblances",
+          "start": "1995-01-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2844",
+          "_label": "The Promise of Photograhy: Selections from the DG Bank Collection",
+          "start": "1999-09-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1834",
+          "_label": "Recent Acquisitions",
+          "start": "1991-08-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3705",
+          "_label": "CommuNYCations: Public Mirror: Artists Against Racial Prejudice",
+          "start": "1990-09-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1811",
+          "_label": "Projects 25: Dennis Adams",
+          "start": "1991-01-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2197",
+          "_label": "One Thing After Another",
+          "start": "2000-09-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2000",
+          "_label": "Light Construction",
+          "start": "1995-09-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2892",
+          "_label": "Around 1984: A Look at Art in the Eighties",
+          "start": "2000-05-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3714",
+          "_label": "The Pop Project, Part II: Public Image",
+          "start": "1988-01-21T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1948"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59901",
+      "_label": "Derrik Adams",
+      "name": "Adams Derrik",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3442",
+          "_label": "Greater New York 2005",
+          "start": "2005-03-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3277",
+          "_label": "Clifford Owens: Anthology",
+          "start": "2011-11-13T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/30434",
+      "_label": "E.A. Adams",
+      "name": "Adams E.A.",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/470",
+          "_label": "The 28th Annual Exhibition of Advertising and Editorial Art of the New York Art Directors Club",
+          "start": "1949-03-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/8078",
+      "_label": "Eddie Adams / Associated Press",
+      "name": "Adams Eddie",
+      "born": "1933-01-01",
+      "died": "2004-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2028",
+          "_label": "Pictures of the Times: A Century of Photography from the New York Times",
+          "start": "1996-06-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2270",
+          "_label": "Photography: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        }
+      ],
+      "gender": "American,1933\u20132004"
+    },
+    {
+      "id": "https://www.moma.org/data/person/30237",
+      "_label": "Henry Percy Adams",
+      "name": "Adams Henry Percy",
+      "born": "1865-01-01",
+      "died": "1930-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/87",
+          "_label": "Modern Architecture in England",
+          "start": "1937-02-10T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1865\u20131930"
+    },
+    {
+      "id": "https://www.moma.org/data/person/32277",
+      "_label": "J. H. Adams",
+      "name": "Adams J. H.",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1205",
+          "_label": "Photographs from the Harvard Social Ethics Collection",
+          "start": "1974-06-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27634",
+      "_label": "Jean Crawford Adams",
+      "name": "Adams Jean Crawford",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/44",
+          "_label": "Painting and Sculpture from 16 American Cities",
+          "start": "1933-12-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/21426",
+      "_label": "John Adams",
+      "name": "Adams John",
+      "born": "1953-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1571",
+          "_label": "Video: Recent Acquisitions",
+          "start": "1984-05-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1669",
+          "_label": "Selections from the Video Study Collection: 1968\u20131987",
+          "start": "1987-06-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1648",
+          "_label": "Video: Recent Acquisitions",
+          "start": "1986-11-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2568",
+          "_label": "MoMA Media Lounge 2012",
+          "start": "2012-02-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1884",
+          "_label": "Video: Two Decades",
+          "start": "1992-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1836",
+          "_label": "Consumer Tools: Personal Visions",
+          "start": "1991-09-10T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1953"
+    },
+    {
+      "id": "https://www.moma.org/data/person/71487",
+      "_label": "Laurence Adams",
+      "name": "Adams Laurence",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/7840",
+      "_label": "Mac Adams",
+      "name": "Adams Mac",
+      "born": "1943-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 7,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3074",
+          "_label": "New York Diary: Almost Twenty-Five Different Things",
+          "start": "1991-04-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3157",
+          "_label": "The Altered Photograph",
+          "start": "1979-04-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1893",
+          "_label": "Recent Acquisitions and a New Installation of Photography from the Collection",
+          "start": "1993-02-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2499",
+          "_label": "Counter Space: Design and the Modern Kitchen",
+          "start": "2010-09-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1913",
+          "_label": "Multiple Images: Photographs Since 1965 from the Collection",
+          "start": "1993-07-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2200",
+          "_label": "Sets and Situations",
+          "start": "2000-10-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1569",
+          "_label": "An International Survey of Recent Painting and Sculpture",
+          "start": "1984-05-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1943"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24127",
+      "_label": "Olga Adams",
+      "name": "Adams Olga",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2586",
+          "_label": "Century of the Child: Growing by Design, 1900\u20132000",
+          "start": "2012-07-29T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/71297",
+      "_label": "Pat Adams",
+      "name": "Adams Pat",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/54757",
+          "_label": "Selections from the Art Lending Service",
+          "start": "1966-02-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54780",
+          "_label": "Watercolors",
+          "start": "1965-01-12T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60691",
+      "_label": "Phoebe Adams",
+      "name": "Adams Phoebe",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/65",
+      "_label": "Robert Adams",
+      "name": "Adams Robert",
+      "born": "1937-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 30,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1570",
+          "_label": "Three Americans",
+          "start": "1984-05-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2151",
+          "_label": "Seasons and Moments",
+          "start": "1999-10-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1415",
+          "_label": "Prairie: Photographs by Robert Adams",
+          "start": "1979-02-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1383",
+          "_label": "Mirrors and Windows: American Photography Since 1960",
+          "start": "1978-07-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2193",
+          "_label": "Architecture Hot and Cold",
+          "start": "2000-09-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3393",
+          "_label": "Wide Open Spaces",
+          "start": "2004-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1662",
+          "_label": "Photography: Recent Acquisitions",
+          "start": "1987-05-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2432",
+          "_label": "Into the Sunset: Photography's Image of the American West",
+          "start": "2009-03-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1468",
+          "_label": "Reinstallation of the Collection",
+          "start": "1980-10-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2317",
+          "_label": "Artist's Choice: Herzog and De Meuron, Perception Restrained",
+          "start": "2006-06-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2360",
+          "_label": "Edward Steichen Photography Collection Galleries: Rotation 5",
+          "start": "2007-08-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3360",
+          "_label": "1969",
+          "start": "2009-10-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1629",
+          "_label": "Contemporary Photography Reinstallation",
+          "start": "1986-04-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1111",
+          "_label": "Photographs by Robert Adams and Emmet Gowin",
+          "start": "1971-12-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1453",
+          "_label": "Edward Steichen Photography Center Reinstallation",
+          "start": "1979-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1041",
+          "_label": "Photography: New Acquisitions",
+          "start": "1970-04-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54748",
+          "_label": "Photographs and Sculpture",
+          "start": "1963-05-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1493",
+          "_label": "American Landscapes",
+          "start": "1981-07-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2266",
+          "_label": "Contemporary: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2270",
+          "_label": "Photography: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2695",
+          "_label": "Reinstallation of Contemporary Gallery",
+          "start": "1986-06-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2309",
+          "_label": "Photography Collection: Rotation 3",
+          "start": "2006-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1175",
+          "_label": "Photography: Recent Acquisitions",
+          "start": "1973-07-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1840",
+          "_label": "Pleasures and Terrors of Domestic Comfort",
+          "start": "1991-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2575",
+          "_label": "The Shaping of New Visions: Photograph, Film, Photobook",
+          "start": "2012-04-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1271",
+          "_label": "Photography for Collectors",
+          "start": "1976-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1937"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23840",
+      "_label": "Tarn Adams",
+      "name": "Adams Tarn",
+      "born": "1978-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1978"
+    },
+    {
+      "id": "https://www.moma.org/data/person/16859",
+      "_label": "Thomas Adams",
+      "name": "Adams Thomas",
+      "born": "1818-01-01",
+      "died": "1905-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/16",
+          "_label": "Modern Architecture: International Exhibition",
+          "start": "1932-02-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2254",
+          "_label": "Humble Masterpieces",
+          "start": "2004-04-08T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1818\u20131905"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26881",
+      "_label": "William Howard Adams",
+      "name": "Adams William Howard",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/67216",
+      "_label": "Yura Adams",
+      "name": "Adams Yura",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/20678",
+      "_label": "Adams-Teltscher, Georg",
+      "name": "Adams-Teltscher Georg",
+      "born": "1904-01-01",
+      "died": "1983-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/125",
+          "_label": "Bauhaus: 1919\u20131928",
+          "start": "1938-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "Austrian,1904\u20131983; at Bauhaus 1921\u201323"
+    },
+    {
+      "id": "https://www.moma.org/data/person/7666",
+      "_label": "Robert Adamson",
+      "name": "Adamson Robert",
+      "born": "1821-01-01",
+      "died": "1848-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 15,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/354",
+          "_label": "The Museum Collection of Photographs",
+          "start": "1945-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/315",
+          "_label": "Photography",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/959",
+          "_label": "Photography as Printmaking",
+          "start": "1968-03-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1612",
+          "_label": "Self Portrait: The Photographer's Persona, 1840\u20131985",
+          "start": "1985-11-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1429",
+          "_label": "Nineteenth-Century Photographs from the Arnold H. Crane Collection",
+          "start": "1979-05-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2678",
+          "_label": "Towards the \"New\" Museum of Modern Art: A Bid for Space IV",
+          "start": "1963-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/193",
+          "_label": "Photographs by David Octavius Hill and Robert Adamson",
+          "start": "1941-09-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/448",
+          "_label": "50 Photographs by 50 Photographers",
+          "start": "1948-07-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1972",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1995-01-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/475",
+          "_label": "Roots of Photography",
+          "start": "1949-04-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/726",
+          "_label": "30th Anniversary Special Installation - Towards the \"New\" Museum",
+          "start": "1959-11-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1271",
+          "_label": "Photography for Collectors",
+          "start": "1976-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1821\u20131848"
+    },
+    {
+      "id": "https://www.moma.org/data/person/67",
+      "_label": "Charles Addams",
+      "name": "Addams Charles",
+      "born": "1912-01-01",
+      "died": "1988-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2131",
+          "_label": "Sight Gags: Caricature, Grotesque, and Wit in Modern and Contemporary Drawing",
+          "start": "1999-01-21T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1912\u20131988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33516",
+      "_label": "Ida Adelman",
+      "name": "Adelman Ida",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/494",
+          "_label": "Photographs by Margaret Bourke-White, Helen Levitt, Dorothea Lange, Tana Hoban, Esther Bubley, and Hazel-Frieda Larsen",
+          "start": "1949-10-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/111",
+          "_label": "Subway Art",
+          "start": "1938-02-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/151",
+          "_label": "PM Competition: The Artist as Reporter",
+          "start": "1940-04-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/496",
+          "_label": "Polio Poster Competition",
+          "start": "1949-10-31T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/61114",
+      "_label": "Horst Ademeit",
+      "name": "Ademeit Horst",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/19819",
+      "_label": "Bas Jan Ader",
+      "name": "Ader Bas Jan",
+      "born": "1942-01-01",
+      "died": "1975-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2521",
+          "_label": "Staging Action: Performance in Photography Since 1960",
+          "start": "2011-01-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2452",
+          "_label": "In and Out of Amsterdam: \"Art and Project Bulletin,\" 1968\u20131989",
+          "start": "2009-07-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2381",
+          "_label": "Color Chart: Reinventing Color, 1950 to Today",
+          "start": "2008-03-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3559",
+          "_label": "Into Me/Out of Me",
+          "start": "2006-06-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2451",
+          "_label": "In and Out of Amsterdam: Travels in Conceptual Art, 1960\u20131976",
+          "start": "2009-07-19T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, 1942\u20131975"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34159",
+      "_label": "Justin Adian",
+      "name": "Adian Justin",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/7545",
+      "_label": "Terry Adkins",
+      "name": "Adkins Terry",
+      "born": "1953-01-01",
+      "died": "2014-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3741",
+          "_label": "National and International Studio Program Exhibition 1984\u20131985",
+          "start": "1985-01-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3638",
+          "_label": "National and International Studio Artists Exhibition",
+          "start": "1985-11-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3270",
+          "_label": "NeoHooDoo: Art for a Forgotten Faith",
+          "start": "2008-10-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3277",
+          "_label": "Clifford Owens: Anthology",
+          "start": "2011-11-13T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1953\u20132014"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29555",
+      "_label": "Joe Adkinson",
+      "name": "Adkinson Joe",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/607",
+          "_label": "Thonet Furniture",
+          "start": "1953-08-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/68",
+      "_label": "Allan Adler",
+      "name": "Adler Allan",
+      "born": "1916-01-01",
+      "died": "2002-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/709",
+          "_label": "20th Century Design from the Museum Collection",
+          "start": "1958-12-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/498",
+          "_label": "Design Show: Christmas 1949",
+          "start": "1949-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/610",
+          "_label": "Good Design",
+          "start": "1953-09-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2438",
+          "_label": "What was Good Design? MoMA's Message 1944\u201356",
+          "start": "2009-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/589",
+          "_label": "Good Design",
+          "start": "1952-09-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/638",
+          "_label": "Good Design: 5th Anniversary",
+          "start": "1955-02-08T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1916\u20132002"
+    },
+    {
+      "id": "https://www.moma.org/data/person/57000",
+      "_label": "Anette Adler",
+      "name": "Adler Anette",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3638",
+          "_label": "National and International Studio Artists Exhibition",
+          "start": "1985-11-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/22568",
+      "_label": "Dankmar Adler",
+      "name": "Adler Dankmar",
+      "born": "1844-01-01",
+      "died": "1900-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/444",
+          "_label": "Louis Sullivan: 1856\u20131924",
+          "start": "1948-05-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/706",
+          "_label": "Architecture Worth Saving",
+          "start": "1958-10-08T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1844\u20131900"
+    },
+    {
+      "id": "https://www.moma.org/data/person/17306",
+      "_label": "Deborah Adler",
+      "name": "Adler Deborah",
+      "born": "1975-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2290",
+          "_label": "SAFE: Design Takes on Risk",
+          "start": "2005-10-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2375",
+          "_label": "Just in: Recent Acquisitions from the Collection",
+          "start": "2007-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1975"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26882",
+      "_label": "Esther Adler",
+      "name": "Adler Esther",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2549",
+          "_label": "Gifted: Collectors and Drawings at MoMA, 1929\u20131983",
+          "start": "2011-10-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2651",
+          "_label": "American Modern: Hopper to O'Keeffe",
+          "start": "2013-08-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28472",
+      "_label": "Fred Adler",
+      "name": "Adler Fred",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/145",
+          "_label": "Four American Traveling Exhibitions",
+          "start": "1940-04-03T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/69",
+      "_label": "Jankel Adler",
+      "name": "Adler Jankel",
+      "born": "1895-01-01",
+      "died": "1949-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/635",
+          "_label": "XXVth Anniversary Exhibition: Paintings from the Museum Collection",
+          "start": "1954-10-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/320",
+          "_label": "Hayter and Studio 17: New Directions in Gravure",
+          "start": "1944-06-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/478",
+          "_label": "Recent Acquisitions",
+          "start": "1949-05-03T00:00:00Z"
+        }
+      ],
+      "gender": "Polish, 1895\u20131949"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21488",
+      "_label": "Lynn Adler",
+      "name": "Adler Lynn",
+      "born": "",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1539",
+          "_label": "Recent Documentaries, Part II",
+          "start": "1983-04-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1591",
+          "_label": "Video: Recent Nonfiction",
+          "start": "1985-02-28T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/30134",
+      "_label": "Ruth Adler",
+      "name": "Adler Ruth",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/610",
+          "_label": "Good Design",
+          "start": "1953-09-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/638",
+          "_label": "Good Design: 5th Anniversary",
+          "start": "1955-02-08T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/71488",
+      "_label": "Samuel Adler",
+      "name": "Adler Samuel",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/15443",
+      "_label": "Samuil Adlivankin",
+      "name": "Adlivankin Samuil",
+      "born": "",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2229",
+          "_label": "The Russian Avant-Garde Book 1910\u20131934",
+          "start": "2002-03-28T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/70",
+      "_label": "Virginia Admiral",
+      "name": "Admiral Virginia",
+      "born": "1915-01-01",
+      "died": "2000-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/338",
+          "_label": "Recent Acquisitions",
+          "start": "1945-02-15T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1915\u20132000"
+    },
+    {
+      "id": "https://www.moma.org/data/person/70576",
+      "_label": "Etel Adnan",
+      "name": "Adnan Etel",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/34345",
+      "_label": "Etel Adnan",
+      "name": "Adnan Etel",
+      "born": "1925-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born Lebanon, 1925"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33427",
+      "_label": "Olga Adorno",
+      "name": "Adorno Olga",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2999",
+          "_label": "A Month of Sundays",
+          "start": "1976-09-19T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/29535",
+      "_label": "Doris Adrian",
+      "name": "Adrian Doris",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/606",
+          "_label": "Postwar European Photography",
+          "start": "1953-05-26T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/65745",
+      "_label": "Marc Adrian",
+      "name": "Adrian Marc",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/32916",
+      "_label": "Robert Adrian",
+      "name": "Adrian Robert",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1569",
+          "_label": "An International Survey of Recent Painting and Sculpture",
+          "start": "1984-05-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/31535",
+      "_label": "J. Van Adrichem",
+      "name": "Adrichem J. Van",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/638",
+          "_label": "Good Design: 5th Anniversary",
+          "start": "1955-02-08T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/73",
+      "_label": "Roy (Royston Wright Adzak) Adzak",
+      "name": "Adzak Roy (Royston Wright Adzak)",
+      "born": "1927-01-01",
+      "died": "1987-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/926",
+          "_label": "The 1960s: Painting and Sculpture from the Museum Collection",
+          "start": "1967-06-28T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1927\u20131987"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58969",
+      "_label": "Georges Ad\u00e9agbo",
+      "name": "Ad\u00e9agbo Georges",
+      "born": "1942-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2891",
+          "_label": "Georges Ad\u00e9agbo: Abraham \u2013 L\u2019ami de Dieu",
+          "start": "2000-11-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3496",
+          "_label": "The Short Century: Independence and Liberation Movements in Africa, 1945\u20131994",
+          "start": "2002-02-10T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/29480",
+      "_label": "R.L. Aeck",
+      "name": "Aeck RL",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/597",
+          "_label": "Built in USA: Post-War Architecture",
+          "start": "1953-01-20T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/74",
+      "_label": "Nicholas Africano",
+      "name": "Africano Nicholas",
+      "born": "1948-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 10,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/54824",
+          "_label": "Selections from the ALS",
+          "start": "1980-10-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2993",
+          "_label": "A Painting Show",
+          "start": "1977-05-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1612",
+          "_label": "Self Portrait: The Photographer's Persona, 1840\u20131985",
+          "start": "1985-11-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2064",
+          "_label": "Selections from the Collection",
+          "start": "1997-05-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1644",
+          "_label": "Contemporary Works from the Collection",
+          "start": "1986-11-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1466",
+          "_label": "Selections from the Art Lending Service",
+          "start": "1980-10-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2768",
+          "_label": "El Arte Narrativo Y Pintura Mexicana",
+          "start": "1985-05-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1840",
+          "_label": "Pleasures and Terrors of Domestic Comfort",
+          "start": "1991-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1600",
+          "_label": "Installation of Painting and Sculpture Department",
+          "start": "1985-06-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1569",
+          "_label": "An International Survey of Recent Painting and Sculpture",
+          "start": "1984-05-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1948"
+    },
+    {
+      "id": "https://www.moma.org/data/person/75",
+      "_label": "Afro (Afro Basaldella)",
+      "name": "Afro (Afro Basaldella)",
+      "born": "1912-01-01",
+      "died": "1976-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/482",
+          "_label": "Twentieth Century Italian Art",
+          "start": "1949-06-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/647",
+          "_label": "The New Decade: 22 European Painters and Sculptors",
+          "start": "1955-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/799",
+          "_label": "Recent Acquisitions",
+          "start": "1962-11-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1883",
+          "_label": "The Artist and the Book in Twentieth Century Italy",
+          "start": "1992-10-13T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1912\u20131976"
+    },
+    {
+      "id": "https://www.moma.org/data/person/77",
+      "_label": "Agam (Yaacov Agam)",
+      "name": "Agam (Yaacov Agam)",
+      "born": "1928-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/883",
+          "_label": "Recent Acquisitions: Painting and Sculpture",
+          "start": "1966-04-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/843",
+          "_label": "The Responsive Eye",
+          "start": "1965-02-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/926",
+          "_label": "The 1960s: Painting and Sculpture from the Museum Collection",
+          "start": "1967-06-28T00:00:00Z"
+        }
+      ],
+      "gender": "Israeli, born 1928"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28204",
+      "_label": "Eileen Agar",
+      "name": "Agar Eileen",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/773",
+          "_label": "The Art of Assemblage",
+          "start": "1961-10-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60918",
+      "_label": "Ann Agee",
+      "name": "Agee Ann",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/26883",
+      "_label": "William C. Agee",
+      "name": "Agee William C.",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/61116",
+      "_label": "Yuji Agematsu",
+      "name": "Agematsu Yuji",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/78",
+      "_label": "Mehemed Fehmy Agha",
+      "name": "Agha Mehemed Fehmy",
+      "born": "1896-01-01",
+      "died": "1978-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1612",
+          "_label": "Self Portrait: The Photographer's Persona, 1840\u20131985",
+          "start": "1985-11-07T00:00:00Z"
+        }
+      ],
+      "gender": "American, born Russia. 1896\u20131978"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35822",
+      "_label": "Vincenzo Agnetti",
+      "name": "Agnetti Vincenzo",
+      "born": "1926-01-01",
+      "died": "1981-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1883",
+          "_label": "The Artist and the Book in Twentieth Century Italy",
+          "start": "1992-10-13T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/58241",
+      "_label": "Vincenzo Agnetti",
+      "name": "Agnetti Vincenzo",
+      "born": "1926-01-01",
+      "died": "1981-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2841",
+          "_label": "Minimalia: An Italian Vision in 20th Century Art",
+          "start": "1999-10-10T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/79",
+      "_label": "Kathleen Agnoli",
+      "name": "Agnoli Kathleen",
+      "born": "1945-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1537",
+          "_label": "Big Pictures by Contemporary Photographers",
+          "start": "1983-04-13T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1945"
+    },
+    {
+      "id": "https://www.moma.org/data/person/80",
+      "_label": "Peter Agostini",
+      "name": "Agostini Peter",
+      "born": "1913-01-01",
+      "died": "1993-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 8,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/810",
+          "_label": "60 Modern Drawings: Recent Acquisitions",
+          "start": "1963-08-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2682",
+          "_label": "Drawings by Sculptors: A Selection from the Collection",
+          "start": "1968-10-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3945",
+          "_label": "Contemporary Painting and Sculpture",
+          "start": "1962-04-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54753",
+          "_label": "Recent Selections from the Art Lending Service",
+          "start": "1965-03-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1152",
+          "_label": "25 Recent Acquisitions",
+          "start": "1973-01-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54754",
+          "_label": "Sculpture",
+          "start": "1962-02-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54758",
+          "_label": "Selections from the Art Lending Service",
+          "start": "1966-11-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54780",
+          "_label": "Watercolors",
+          "start": "1965-01-12T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1913\u20131993"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26524",
+      "_label": "Diana Agrest",
+      "name": "Agrest Diana",
+      "born": "1945-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3188",
+          "_label": "Architecture (Winter 1978\u20131979): Between Memory and Amnesia",
+          "start": "1978-12-03T00:00:00Z"
+        }
+      ],
+      "gender": "American, born Argentina, 1945"
+    },
+    {
+      "id": "https://www.moma.org/data/person/61117",
+      "_label": "Chuck Agro",
+      "name": "Agro Chuck",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/81",
+      "_label": "Olympe Aguado de las Marismas",
+      "name": "Aguado de las Marismas Olympe",
+      "born": "1827-01-01",
+      "died": "1894-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1827\u20131894"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35678",
+      "_label": "Francisco Aguera",
+      "name": "Aguera Francisco",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/152",
+          "_label": "Twenty Centuries of Mexican Art",
+          "start": "1940-05-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/21400",
+      "_label": "Enrique Aguerre",
+      "name": "Aguerre Enrique",
+      "born": "1964-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2568",
+          "_label": "MoMA Media Lounge 2012",
+          "start": "2012-02-29T00:00:00Z"
+        }
+      ],
+      "gender": "Uruguayan, born 1964"
+    },
+    {
+      "id": "https://www.moma.org/data/person/65555",
+      "_label": "Laura Aguilar",
+      "name": "Aguilar Laura",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/65889",
+      "_label": "Max Aguilera-Hellweg",
+      "name": "Aguilera-Hellweg Max",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27446",
+      "_label": "Ignacio Aguirre",
+      "name": "Aguirre Ignacio",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/273",
+          "_label": "The Latin-American Collection of the Museum of Modern Art",
+          "start": "1943-03-31T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/7026",
+      "_label": "George Agule",
+      "name": "Agule George",
+      "born": "1907-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2572",
+          "_label": "Shaping Modernity: Design 1880\u20131980, Part 2",
+          "start": "2012-03-28T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1907"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31704",
+      "_label": "Santiago Agurto Calvo",
+      "name": "Agurto Calvo Santiago",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/658",
+          "_label": "Latin American Architecture Since 1945",
+          "start": "1955-11-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59121",
+      "_label": "Ahbe",
+      "name": "Ahbe",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3225",
+          "_label": "The New Portrait",
+          "start": "1984-04-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/22668",
+      "_label": "Charlie Ahearn",
+      "name": "Ahearn Charlie",
+      "born": "1951-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1951"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34998",
+      "_label": "John Ahearn",
+      "name": "Ahearn John",
+      "born": "1951-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 5,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2917",
+          "_label": "Figuratively Sculpting",
+          "start": "1981-10-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2920",
+          "_label": "Out of the Studio: Art with Community",
+          "start": "1987-01-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3087",
+          "_label": "John Ahearn Sculptures",
+          "start": "1992-01-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3225",
+          "_label": "The New Portrait",
+          "start": "1984-04-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1951"
+    },
+    {
+      "id": "https://www.moma.org/data/person/61119",
+      "_label": "Judith Ahern",
+      "name": "Ahern Judith",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/32446",
+      "_label": "Magnus Ahlgren",
+      "name": "Ahlgren Magnus",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1416",
+          "_label": "Transformations in Modern Architecture",
+          "start": "1979-02-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/32449",
+      "_label": "Erik Ahlsen",
+      "name": "Ahlsen Erik",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1416",
+          "_label": "Transformations in Modern Architecture",
+          "start": "1979-02-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/32450",
+      "_label": "Tore Ahlsen",
+      "name": "Ahlsen Tore",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1416",
+          "_label": "Transformations in Modern Architecture",
+          "start": "1979-02-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59070",
+      "_label": "David Ahlstrom",
+      "name": "Ahlstrom David",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3156",
+          "_label": "Sound",
+          "start": "1979-09-30T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/73602",
+      "_label": "Richard  Ahr",
+      "name": "Ahr Richard",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/54783",
+          "_label": "[Penthouse Exhibition]",
+          "start": "1959-02-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54784",
+          "_label": "[Penthouse Exhibition]",
+          "start": "1961-02-10T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/69347",
+      "_label": "Howard J. Ahrens",
+      "name": "Ahrens Howard J.",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/57505",
+      "_label": "Nader Ahriman",
+      "name": "Ahriman Nader",
+      "born": "1962-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2915",
+          "_label": "P.S. 1 Studio Artists, 1994",
+          "start": "1994-05-08T00:00:00Z"
+        }
+      ],
+      "gender": "German, born Iran. 1962"
+    },
+    {
+      "id": "https://www.moma.org/data/person/18001",
+      "_label": "Eija-Liisa Ahtila",
+      "name": "Ahtila Eija-Liisa",
+      "born": "1959-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2324",
+          "_label": "Eija-Liisa Ahtila: \u201cThe Wind\u201d",
+          "start": "2006-10-25T00:00:00Z"
+        }
+      ],
+      "gender": "Finnish, born 1959"
+    },
+    {
+      "id": "https://www.moma.org/data/person/19397",
+      "_label": "Peggy Ahwesh",
+      "name": "Ahwesh Peggy",
+      "born": "1954-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3465",
+          "_label": "Animations",
+          "start": "2001-10-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2926",
+          "_label": "Cinema Cavern",
+          "start": "2007-06-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3723",
+          "_label": "Timebomb: A Series of Four Performative Events",
+          "start": "1996-10-15T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1954"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20897",
+      "_label": "Ai Weiwei",
+      "name": "Ai Weiwei",
+      "born": "1957-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2521",
+          "_label": "Staging Action: Performance in Photography Since 1960",
+          "start": "2011-01-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3547",
+          "_label": "Altered, Stitched and Gathered",
+          "start": "2006-12-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2592",
+          "_label": "9+1 Ways of Being Political: 50 Years of Political Stances in Architecture and Urban Design",
+          "start": "2012-09-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2565",
+          "_label": "Print/Out, in conjunction with the exhibition, Printin'",
+          "start": "2012-02-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2554",
+          "_label": "Contemporary Galleries: 1980\u2013Now",
+          "start": "2011-11-16T00:00:00Z"
+        }
+      ],
+      "gender": "Chinese, born 1957"
+    },
+    {
+      "id": "https://www.moma.org/data/person/84",
+      "_label": "Otl Aicher (also known as Otto Aicher)",
+      "name": "Aicher Otl (also known as Otto Aicher)",
+      "born": "1922-01-01",
+      "died": "1991-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 7,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/752",
+          "_label": "Recent Acquisitions",
+          "start": "1960-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2297",
+          "_label": "Architecture and Design: Rotation 2",
+          "start": "2005-12-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2635",
+          "_label": "Hand Signals: Digits, Fists, and Talons",
+          "start": "2013-04-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/956",
+          "_label": "Word and Image: Posters and Typography from the Graphic Design Collection of the Museum of Modern Art, 1879\u20131967",
+          "start": "1968-01-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2586",
+          "_label": "Century of the Child: Growing by Design, 1900\u20132000",
+          "start": "2012-07-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/603",
+          "_label": "Four Poster Artists",
+          "start": "1953-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1817",
+          "_label": "Art of the Forties",
+          "start": "1991-02-20T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1922\u20131991"
+    },
+    {
+      "id": "https://www.moma.org/data/person/32452",
+      "_label": "Takefumi Aida",
+      "name": "Aida Takefumi",
+      "born": "1937-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1416",
+          "_label": "Transformations in Modern Architecture",
+          "start": "1979-02-21T00:00:00Z"
+        }
+      ],
+      "gender": "Japanese, born 1937"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29366",
+      "_label": "Arthur Aidala",
+      "name": "Aidala Arthur",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/468",
+          "_label": "The Exact Instant",
+          "start": "1949-02-08T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/65502",
+      "_label": "Korbinian Aigner",
+      "name": "Aigner Korbinian",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/85",
+      "_label": "Lucien Aigner",
+      "name": "Aigner Lucien",
+      "born": "1901-01-01",
+      "died": "1999-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "American, born Hungary. 1901\u20131999"
+    },
+    {
+      "id": "https://www.moma.org/data/person/36246",
+      "_label": "Paul Aigner",
+      "name": "Aigner Paul",
+      "born": "1905-01-01",
+      "died": "1984-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2116",
+          "_label": "UFA Film Posters, 1918\u20131943",
+          "start": "1998-09-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/69434",
+      "_label": "Mary Hoover Aiken",
+      "name": "Aiken Mary Hoover",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/31072",
+      "_label": "William Aiken",
+      "name": "Aiken William",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/788",
+          "_label": "Recent Painting U.S.A.: The Figure",
+          "start": "1962-05-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/32453",
+      "_label": "Emile Aillaud",
+      "name": "Aillaud Emile",
+      "born": "1902-01-01",
+      "died": "1988-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1416",
+          "_label": "Transformations in Modern Architecture",
+          "start": "1979-02-21T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1902\u20131988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/86",
+      "_label": "Gregory Ain",
+      "name": "Ain Gregory",
+      "born": "1908-01-01",
+      "died": "1988-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 5,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/312",
+          "_label": "Built in the U.S.A., 1932\u201344",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2399",
+          "_label": "Home Delivery: Fabricating the Modern Dwelling",
+          "start": "2008-07-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/597",
+          "_label": "Built in USA: Post-War Architecture",
+          "start": "1953-01-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/516",
+          "_label": "Exhibition House by Gregory Ain",
+          "start": "1950-05-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/194",
+          "_label": "The Wooden House in America",
+          "start": "1941-09-09T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1908\u20131988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58242",
+      "_label": "Mario Airo",
+      "name": "Airo Mario",
+      "born": "1961-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2841",
+          "_label": "Minimalia: An Italian Vision in 20th Century Art",
+          "start": "1999-10-10T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/25498",
+      "_label": "Cathryn Aison",
+      "name": "Aison Cathryn",
+      "born": "",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2586",
+          "_label": "Century of the Child: Growing by Design, 1900\u20132000",
+          "start": "2012-07-29T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/7553",
+      "_label": "Werner Aisslinger",
+      "name": "Aisslinger Werner",
+      "born": "1964-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2297",
+          "_label": "Architecture and Design: Rotation 2",
+          "start": "2005-12-14T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1964"
+    }
+  ]
+}

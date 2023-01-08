@@ -1,0 +1,5376 @@
+{
+  "persons": [
+    {
+      "id": "https://www.moma.org/data/person/28447",
+      "_label": "Fra Angelico",
+      "name": "Angelico Fra",
+      "born": "1390-01-01",
+      "died": "1455-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Florentine, 1390\u20131455"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28167",
+      "_label": "Giovanni di Paolo di Grazia",
+      "name": "Paolo di Grazia Giovanni di",
+      "born": "1403-01-01",
+      "died": "1482-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/21894",
+      "_label": "Benozzo Gozzoli",
+      "name": "Gozzoli Benozzo",
+      "born": "1420-01-01",
+      "died": "1497-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28465",
+      "_label": "Pollaiuolo",
+      "name": "Pollaiuolo",
+      "born": "1431-01-01",
+      "died": "1498-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1431\u20131498"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28460",
+      "_label": "Andrea Mantegna",
+      "name": "Mantegna Andrea",
+      "born": "1426-01-01",
+      "died": "1506-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1426\u20131506"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28640",
+      "_label": "Giorgione",
+      "name": "Giorgione",
+      "born": "1477-01-01",
+      "died": "1510-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/192",
+          "_label": "Ancestral Sources of Modern Painting",
+          "start": "1941-08-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1477\u20131510"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28449",
+      "_label": "Sandro Botticelli",
+      "name": "Botticelli Sandro",
+      "born": "1444-01-01",
+      "died": "1510-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/192",
+          "_label": "Ancestral Sources of Modern Painting",
+          "start": "1941-08-26T00:00:00Z"
+        }
+      ],
+      "gender": "Florentine, 1444\u20131510"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28164",
+      "_label": "Hieronymus Bosch",
+      "name": "Bosch Hieronymus",
+      "born": "1440-01-01",
+      "died": "1516-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/192",
+          "_label": "Ancestral Sources of Modern Painting",
+          "start": "1941-08-26T00:00:00Z"
+        }
+      ],
+      "gender": "Netherlandish, 1440\u20131516"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28448",
+      "_label": "Giovanni Bellini",
+      "name": "Bellini Giovanni",
+      "born": "1431-01-01",
+      "died": "1516-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Venetian, 1431\u20131516"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31867",
+      "_label": "Fra Bartolommeo",
+      "name": "Bartolommeo Fra",
+      "born": "1472-01-01",
+      "died": "1517-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "Florentine, 1472\u20131517"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28174",
+      "_label": "Leonardo da Vinci",
+      "name": "Vinci Leonardo da",
+      "born": "1452-01-01",
+      "died": "1519-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/768",
+          "_label": "Roads",
+          "start": "1961-08-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/397",
+          "_label": "On Being a Cartoonist",
+          "start": "1946-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1452\u20131519"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21842",
+      "_label": "Raphael Sanzio",
+      "name": "Sanzio Raphael",
+      "born": "1483-01-01",
+      "died": "1520-12-31",
+      "nationality": "Italian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1483\u20131520"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29260",
+      "_label": "Piero di Cosimo",
+      "name": "Cosimo Piero di",
+      "born": "1462-01-01",
+      "died": "1521-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/462",
+          "_label": "Timeless Aspects of Modern Art",
+          "start": "1948-11-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3276",
+          "_label": "Mark Leckey: Containers and Their Drivers",
+          "start": "2016-10-23T00:00:00Z"
+        }
+      ],
+      "gender": "Florentine, 1462\u20131521"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21612",
+      "_label": "Albrecht D\u00fcrer",
+      "name": "D\u00fcrer Albrecht",
+      "born": "1471-01-01",
+      "died": "1528-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 5,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/183",
+          "_label": "Animals in Art; Designing a Stage Setting",
+          "start": "1941-07-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1964",
+          "_label": "A Century of Artists Books",
+          "start": "1994-10-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28452",
+      "_label": "Correggio",
+      "name": "Correggio",
+      "born": "1489-01-01",
+      "died": "1534-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1489\u20131534"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28170",
+      "_label": "Hans Holbein, the younger",
+      "name": "Holbein Hans the younger",
+      "born": "1497-01-01",
+      "died": "1543-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1497\u20131543"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28163",
+      "_label": "Hans Baldung (Grien)",
+      "name": "Baldung Hans Grien",
+      "born": "1484-01-01",
+      "died": "1545-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1484\u20131545"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28165",
+      "_label": "Oronce Fine",
+      "name": "Fine Oronce",
+      "born": "1494-01-01",
+      "died": "1555-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1494\u20131555"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27703",
+      "_label": "Sebastiano Serlio",
+      "name": "Serlio Sebastiano",
+      "born": "1475-01-01",
+      "died": "1555-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/46",
+          "_label": "International Exhibition of Theatre Art",
+          "start": "1934-01-15T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1475\u20131555"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28168",
+      "_label": "Giovanni da Udine",
+      "name": "Udine Giovanni da",
+      "born": "1487-01-01",
+      "died": "1564-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1487\u20131564"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28462",
+      "_label": "Michelangelo",
+      "name": "Michelangelo",
+      "born": "1475-01-01",
+      "died": "1564-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1475\u20131564"
+    },
+    {
+      "id": "https://www.moma.org/data/person/30287",
+      "_label": "Pieter Bruegel I",
+      "name": "Bruegel Pieter I",
+      "born": "1515-01-01",
+      "died": "1569-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/397",
+          "_label": "On Being a Cartoonist",
+          "start": "1946-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/183",
+          "_label": "Animals in Art; Designing a Stage Setting",
+          "start": "1941-07-01T00:00:00Z"
+        }
+      ],
+      "gender": "Flemish, 1515\u20131569"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29922",
+      "_label": "Philibert de l'Orme",
+      "name": "l'Orme Philibert de",
+      "born": "1510-01-01",
+      "died": "1570-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1510\u20131570"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27704",
+      "_label": "Francesco Primaticio",
+      "name": "Primaticcio Francesco",
+      "born": "1504-01-01",
+      "died": "1570-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/46",
+          "_label": "International Exhibition of Theatre Art",
+          "start": "1934-01-15T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1504\u20131570"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29926",
+      "_label": "Benvenuto Cellini",
+      "name": "Cellini Benvenuto",
+      "born": "1500-01-01",
+      "died": "1571-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        }
+      ],
+      "gender": "Florentine, 1500\u20131571"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28166",
+      "_label": "Cornelis Floris II",
+      "name": "Floris Cornelis II",
+      "born": "1514-01-01",
+      "died": "1575-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/24470",
+      "_label": "Pirro Ligorio",
+      "name": "Ligorio Pirro",
+      "born": "1513-01-01",
+      "died": "1583-12-31",
+      "nationality": "Italian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2644",
+          "_label": "Le Corbusier: An Atlas of Modern Landscapes",
+          "start": "2013-06-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28173",
+      "_label": "Wenzel Jamnitzer",
+      "name": "Jamnitzer Wenzel",
+      "born": "1507-01-01",
+      "died": "1585-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1507\u20131585"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21843",
+      "_label": "Antonius Campus",
+      "name": "Campus Antonius",
+      "born": "1524-01-01",
+      "died": "1587-12-31",
+      "nationality": "Italian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": "Italian"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29929",
+      "_label": "Paolo Veronese",
+      "name": "Veronese Paolo",
+      "born": "1528-01-01",
+      "died": "1588-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1528\u20131588"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28162",
+      "_label": "Giuseppe Arcimboldo",
+      "name": "Arcimboldo Giuseppe",
+      "born": "1520-01-01",
+      "died": "1593-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "Milanese, 1520\u20131593"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28171",
+      "_label": "Peter Huys",
+      "name": "Huys Peter",
+      "born": "1510-01-01",
+      "died": "1594-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/95",
+          "_label": "Summer Exhibition: Painting and Sculpture from the Museum Collection and on Loan",
+          "start": "1937-06-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "Flemish, 1510\u20131594"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28451",
+      "_label": "Caravaggio",
+      "name": "Caravaggio",
+      "born": "1571-01-01",
+      "died": "1610-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1571\u20131610"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27869",
+      "_label": "El Greco",
+      "name": "Greco El",
+      "born": "1541-01-01",
+      "died": "1614-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/66",
+          "_label": "Summer Exhibition: The Museum Collection and a Private Collection on Loan",
+          "start": "1935-06-04T00:00:00Z"
+        }
+      ],
+      "gender": "Greek, 1541\u20131614"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21834",
+      "_label": "Jan Brueghel",
+      "name": "Brueghel Jan",
+      "born": "1568-01-01",
+      "died": "1625-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/31871",
+      "_label": "Jacob de Gheyn II",
+      "name": "Gheyn Jacob de II",
+      "born": "1565-01-01",
+      "died": "1629-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, 1565\u20131629"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28184",
+      "_label": "Jacques Callot",
+      "name": "Callot Jacques",
+      "born": "1592-01-01",
+      "died": "1635-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/397",
+          "_label": "On Being a Cartoonist",
+          "start": "1946-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1592\u20131635"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21613",
+      "_label": "Anthony van Dyck",
+      "name": "Dyck Anthony van",
+      "born": "1599-01-01",
+      "died": "1641-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28890",
+      "_label": "Baltasar de Echave Ibia",
+      "name": "Echave Ibia Baltasar de",
+      "born": "1585-01-01",
+      "died": "1650-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/152",
+          "_label": "Twenty Centuries of Mexican Art",
+          "start": "1940-05-15T00:00:00Z"
+        }
+      ],
+      "gender": "Mexican, 1585\u20131650"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28183",
+      "_label": "Giovanni Battista Bracelli",
+      "name": "Bracelli Giovanni Battista",
+      "born": "1584-01-01",
+      "died": "1650-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27707",
+      "_label": "Inigo Jones",
+      "name": "Jones Inigo",
+      "born": "1573-01-01",
+      "died": "1652-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/46",
+          "_label": "International Exhibition of Theatre Art",
+          "start": "1934-01-15T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1573\u20131652"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24390",
+      "_label": "Experiens Sillemans",
+      "name": "Sillemans Experiens",
+      "born": "1613-01-01",
+      "died": "1653-12-31",
+      "nationality": "Dutch",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2563",
+          "_label": "Printin,' in conjunction with the exhibition, Print/Out",
+          "start": "2012-02-15T00:00:00Z"
+        }
+      ],
+      "gender": "1613\u20131653"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29259",
+      "_label": "Christoffel Jegher",
+      "name": "Jegher Christoffel",
+      "born": "1596-01-01",
+      "died": "1653-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/462",
+          "_label": "Timeless Aspects of Modern Art",
+          "start": "1948-11-16T00:00:00Z"
+        }
+      ],
+      "gender": "Flemish, 1596\u20131653"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28455",
+      "_label": "Guercino",
+      "name": "Guercino",
+      "born": "1591-01-01",
+      "died": "1666-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1591\u20131666"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28642",
+      "_label": "Frans Hals",
+      "name": "Hals Frans",
+      "born": "1576-01-01",
+      "died": "1666-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/192",
+          "_label": "Ancestral Sources of Modern Painting",
+          "start": "1941-08-26T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, 1576\u20131666"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21934",
+      "_label": "Rembrandt Harmenszoon van Rijn",
+      "name": "Rembrandt van Rijn",
+      "born": "1606-01-01",
+      "died": "1669-12-31",
+      "nationality": "Dutch",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, 1606\u20131669"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21830",
+      "_label": "Adriaen van Ostade",
+      "name": "Ostade Adriaen van",
+      "born": "1610-01-01",
+      "died": "1685-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/29930",
+      "_label": "Andrea del Pozzo",
+      "name": "Pozzo Andrea del",
+      "born": "1642-01-01",
+      "died": "1709-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1642\u20131709"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27710",
+      "_label": "Jean B\u00e9rain",
+      "name": "B\u00e9rain Jean",
+      "born": "1640-01-01",
+      "died": "1711-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/46",
+          "_label": "International Exhibition of Theatre Art",
+          "start": "1934-01-15T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1640\u20131711"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31707",
+      "_label": "Francisco Artigas",
+      "name": "Artigas Francisco",
+      "born": "1650-01-01",
+      "died": "1711-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/658",
+          "_label": "Latin American Architecture Since 1945",
+          "start": "1955-11-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27712",
+      "_label": "Filippo Iuvara",
+      "name": "Iuvara Filippo",
+      "born": "1678-01-01",
+      "died": "1736-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/46",
+          "_label": "International Exhibition of Theatre Art",
+          "start": "1934-01-15T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1678\u20131736"
+    },
+    {
+      "id": "https://www.moma.org/data/person/63296",
+      "_label": "Robert Feke",
+      "name": "Feke Robert",
+      "born": "1705-01-01",
+      "died": "1750-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, 1705-1750"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28645",
+      "_label": "Utagawa Hiroshige",
+      "name": "Hiroshige Utagawa",
+      "born": "1650-01-01",
+      "died": "1750-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/192",
+          "_label": "Ancestral Sources of Modern Painting",
+          "start": "1941-08-26T00:00:00Z"
+        }
+      ],
+      "gender": "Japanese, 1650\u20131750"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27773",
+      "_label": "Jacques de Lajoue",
+      "name": "Lajoue Jacques de",
+      "born": "1687-01-01",
+      "died": "1761-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/46",
+          "_label": "International Exhibition of Theatre Art",
+          "start": "1934-01-15T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1687\u20131761"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28186",
+      "_label": "William Hogarth",
+      "name": "Hogarth William",
+      "born": "1697-01-01",
+      "died": "1764-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/397",
+          "_label": "On Being a Cartoonist",
+          "start": "1946-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1697\u20131764"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31868",
+      "_label": "Fran\u00e7ois Boucher",
+      "name": "Boucher Fran\u00e7ois",
+      "born": "1703-01-01",
+      "died": "1770-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1703\u20131770"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27870",
+      "_label": "Giovanni-Battista Piranesi",
+      "name": "Piranesi Giovanni-Battista",
+      "born": "1720-01-01",
+      "died": "1778-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/75",
+          "_label": "Cubism and Abstract Art",
+          "start": "1936-03-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/462",
+          "_label": "Timeless Aspects of Modern Art",
+          "start": "1948-11-16T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1720\u20131778"
+    },
+    {
+      "id": "https://www.moma.org/data/person/16904",
+      "_label": "Kaspar Faber",
+      "name": "Faber Kaspar",
+      "born": "1730-01-01",
+      "died": "1784-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2254",
+          "_label": "Humble Masterpieces",
+          "start": "2004-04-08T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1730\u20131784"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24576",
+      "_label": "Benjamin Franklin",
+      "name": "Franklin Benjamin",
+      "born": "1706-01-01",
+      "died": "1790-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2563",
+          "_label": "Printin,' in conjunction with the exhibition, Print/Out",
+          "start": "2012-02-15T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27774",
+      "_label": "Fabrizio Galliari",
+      "name": "Galliari Fabrizio",
+      "born": "1709-01-01",
+      "died": "1790-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/46",
+          "_label": "International Exhibition of Theatre Art",
+          "start": "1934-01-15T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1709\u20131790"
+    },
+    {
+      "id": "https://www.moma.org/data/person/5996",
+      "_label": "Josiah Wedgwood",
+      "name": "Wedgwood Josiah",
+      "born": "1730-01-01",
+      "died": "1795-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2254",
+          "_label": "Humble Masterpieces",
+          "start": "2004-04-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/709",
+          "_label": "20th Century Design from the Museum Collection",
+          "start": "1958-12-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/138",
+          "_label": "Useful Objects of American Design under $10.00",
+          "start": "1939-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/257",
+          "_label": "Useful Objects in Wartime under $10",
+          "start": "1942-12-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2419",
+          "_label": "Artist's Choice: Vik Muniz, Rebus",
+          "start": "2008-12-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2265",
+          "_label": "Architecture and Design: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1730\u20131795"
+    },
+    {
+      "id": "https://www.moma.org/data/person/56975",
+      "_label": "Richard Newton",
+      "name": "Newton Richard",
+      "born": "1777-01-01",
+      "died": "1798-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2789",
+          "_label": "Space Invaders",
+          "start": "1982-04-04T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/24686",
+      "_label": "\u00c9tienne-Louis Boull\u00e9e",
+      "name": "Boull\u00e9e \u00c9tienne-Louis",
+      "born": "1728-01-01",
+      "died": "1799-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/975",
+          "_label": "Architecture of Museums",
+          "start": "1968-09-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2631",
+          "_label": "Henri Labrouste: Structure Brought to Light",
+          "start": "2013-03-10T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1728\u20131799"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58050",
+      "_label": "Manuel Acevedo",
+      "name": "Acevedo Manuel",
+      "born": "1744-01-01",
+      "died": "1800-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2834",
+          "_label": "Greater New York",
+          "start": "2000-02-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3705",
+          "_label": "CommuNYCations: Public Mirror: Artists Against Racial Prejudice",
+          "start": "1990-09-13T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/29647",
+      "_label": "Thomas Girtin",
+      "name": "Girtin Thomas",
+      "born": "1775-01-01",
+      "died": "1802-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1775\u20131802"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31872",
+      "_label": "Jean-Baptiste Greuze",
+      "name": "Greuze Jean-Baptiste",
+      "born": "1725-01-01",
+      "died": "1805-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1725\u20131805"
+    },
+    {
+      "id": "https://www.moma.org/data/person/30524",
+      "_label": "Jean-Honor\u00e9 Fragonard",
+      "name": "Fragonard Jean-Honor\u00e9",
+      "born": "1732-01-01",
+      "died": "1806-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1732\u20131806"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28457",
+      "_label": "Alessandro Longhi",
+      "name": "Longhi Alessandro",
+      "born": "1733-01-01",
+      "died": "1813-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/144",
+          "_label": "Italian Masters",
+          "start": "1940-01-26T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, 1733\u20131813"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31869",
+      "_label": "Clodion (Claude Michel)",
+      "name": "Clodion (Claude Michel)",
+      "born": "1738-01-01",
+      "died": "1814-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1738\u20131814"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27436",
+      "_label": "Aleijadinho (Antonio Francisco Lisboa)",
+      "name": "Aleijadinho (Antonio Francisco Lisboa)",
+      "born": "1728-01-01",
+      "died": "1814-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/273",
+          "_label": "The Latin-American Collection of the Museum of Modern Art",
+          "start": "1943-03-31T00:00:00Z"
+        }
+      ],
+      "gender": "Brazilian, 1728\u20131814"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28196",
+      "_label": "James Gillray",
+      "name": "Gillray James",
+      "born": "1757-01-01",
+      "died": "1815-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/397",
+          "_label": "On Being a Cartoonist",
+          "start": "1946-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1757\u20131815"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28337",
+      "_label": "John Singleton Copley",
+      "name": "Copley John Singleton",
+      "born": "1738-01-01",
+      "died": "1815-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/82",
+          "_label": "American Art Portfolio",
+          "start": "1936-09-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1738\u20131815"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27326",
+      "_label": "Benjamin West",
+      "name": "West Benjamin",
+      "born": "1738-01-01",
+      "died": "1820-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1738\u20131820"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29644",
+      "_label": "John Crome",
+      "name": "Crome John",
+      "born": "1768-01-01",
+      "died": "1821-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1768\u20131821"
+    },
+    {
+      "id": "https://www.moma.org/data/person/4557",
+      "_label": "Pierre-Paul Prud'hon",
+      "name": "Prud'hon Pierre-Paul",
+      "born": "1758-01-01",
+      "died": "1823-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1758\u20131823"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28617",
+      "_label": "Th\u00e9odore G\u00e9ricault",
+      "name": "G\u00e9ricault Th\u00e9odore",
+      "born": "1791-01-01",
+      "died": "1824-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/640",
+          "_label": "Fifteen Paintings by French Masters of the 19th Century from the Louvre and the Museums of Albi and Lyon",
+          "start": "1955-02-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/183",
+          "_label": "Animals in Art; Designing a Stage Setting",
+          "start": "1941-07-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/602",
+          "_label": "Edward G. Robinson Collection",
+          "start": "1953-03-03T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1791\u20131824"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27262",
+      "_label": "Raphaelle Peale",
+      "name": "Peale Raphaelle",
+      "born": "1774-01-01",
+      "died": "1825-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/266",
+          "_label": "Americans 1943: Realists and Magic-Realists",
+          "start": "1943-02-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1774\u20131825"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28193",
+      "_label": "Johann Heinrich F\u00fcssli",
+      "name": "F\u00fcssli Johann Heinrich",
+      "born": "1741-01-01",
+      "died": "1825-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "Swiss, 1741\u20131825"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28419",
+      "_label": "Thomas Jefferson",
+      "name": "Jefferson Thomas",
+      "born": "1743-01-01",
+      "died": "1826-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/126",
+          "_label": "Three Centuries of American Architecture",
+          "start": "1939-02-15T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1743\u20131826"
+    },
+    {
+      "id": "https://www.moma.org/data/person/16876",
+      "_label": "Augustin-Jean Fresnel",
+      "name": "Fresnel Augustin-Jean",
+      "born": "1788-01-01",
+      "died": "1827-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2254",
+          "_label": "Humble Masterpieces",
+          "start": "2004-04-08T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1788\u20131827"
+    },
+    {
+      "id": "https://www.moma.org/data/person/10403",
+      "_label": "William Blake",
+      "name": "Blake William",
+      "born": "1757-01-01",
+      "died": "1827-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3276",
+          "_label": "Mark Leckey: Containers and Their Drivers",
+          "start": "2016-10-23T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1757\u20131827"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29640",
+      "_label": "Richard Parkes Bonington",
+      "name": "Bonington Richard Parkes",
+      "born": "1802-01-01",
+      "died": "1828-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1802\u20131828"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59919",
+      "_label": "Anna Conway",
+      "name": "Conway Anna",
+      "born": "1749-01-01",
+      "died": "1828-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3442",
+          "_label": "Greater New York 2005",
+          "start": "2005-03-13T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/2183",
+      "_label": "Francisco de Goya",
+      "name": "Goya Francisco de",
+      "born": "1746-01-01",
+      "died": "1828-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 11,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/397",
+          "_label": "On Being a Cartoonist",
+          "start": "1946-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1263",
+          "_label": "A Museum Menagerie",
+          "start": "1975-12-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2480",
+          "_label": "The Modern Myth: Drawing Mythologies in Modern Times",
+          "start": "2010-03-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2174",
+          "_label": "War",
+          "start": "2000-03-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2325",
+          "_label": "Manet and the Execution of Maximilian",
+          "start": "2006-11-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2889",
+          "_label": "Disasters of War: Francisco de Goya, Henry Darger, Jake and Dinos Chapman",
+          "start": "2000-11-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1964",
+          "_label": "A Century of Artists Books",
+          "start": "1994-10-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/54",
+          "_label": "The War: Etchings by Otto Dix",
+          "start": "1934-07-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2017",
+          "_label": "Deformations: Apects of the Modern Grotesque",
+          "start": "1996-02-16T00:00:00Z"
+        }
+      ],
+      "gender": "Spanish, 1746\u20131828"
+    },
+    {
+      "id": "https://www.moma.org/data/person/4579",
+      "_label": "Edme Quenedey",
+      "name": "Quenedey Edme",
+      "born": "1756-01-01",
+      "died": "1830-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        }
+      ],
+      "gender": "French"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28754",
+      "_label": "James Peale",
+      "name": "Peale James",
+      "born": "1749-01-01",
+      "died": "1831-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        }
+      ],
+      "gender": "1749\u20131831"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29641",
+      "_label": "John Constable",
+      "name": "Constable John",
+      "born": "1776-01-01",
+      "died": "1837-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1776\u20131837"
+    },
+    {
+      "id": "https://www.moma.org/data/person/7870",
+      "_label": "Matilda A. Haviland",
+      "name": "Haviland Matilda",
+      "born": "1800-01-01",
+      "died": "1840-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/23",
+          "_label": "American Folk Art: The Art of the Common Man in America, 1750\u20131900",
+          "start": "1932-11-30T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1800\u20131840"
+    },
+    {
+      "id": "https://www.moma.org/data/person/32287",
+      "_label": "Jean-Nicholas Huyot",
+      "name": "Huyot Jean-Nicholas",
+      "born": "1780-01-01",
+      "died": "1840-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1256",
+          "_label": "The Architecture of the \u00c9cole des Beaux-Arts",
+          "start": "1975-10-29T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1780\u20131840"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27833",
+      "_label": "Karl Friedrich Schinkel",
+      "name": "Schinkel Karl Friedrich",
+      "born": "1781-01-01",
+      "died": "1841-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/975",
+          "_label": "Architecture of Museums",
+          "start": "1968-09-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/48",
+          "_label": "Early Museum Architecture",
+          "start": "1934-04-05T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1781\u20131841"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27440",
+      "_label": "Jose Gil de Castro",
+      "name": "Gil de Castro Jose",
+      "born": "1785-01-01",
+      "died": "1841-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/273",
+          "_label": "The Latin-American Collection of the Museum of Modern Art",
+          "start": "1943-03-31T00:00:00Z"
+        }
+      ],
+      "gender": "Peruvian, 1785\u20131841"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27280",
+      "_label": "Charles Codman",
+      "name": "Codman Charles",
+      "born": "1800-01-01",
+      "died": "1842-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1800\u20131842"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22606",
+      "_label": "Alphonse Eug\u00e8ne Hubert",
+      "name": "Hubert Alphonse Eug\u00e8ne",
+      "born": "1798-01-01",
+      "died": "1842-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1798\u20131842"
+    },
+    {
+      "id": "https://www.moma.org/data/person/32286",
+      "_label": "Auguste-Jean-Marie Guenepin",
+      "name": "Guenepin Auguste-Jean-Marie",
+      "born": "1780-01-01",
+      "died": "1842-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1256",
+          "_label": "The Architecture of the \u00c9cole des Beaux-Arts",
+          "start": "1975-10-29T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/29642",
+      "_label": "John Sell Cotman",
+      "name": "Cotman John Sell",
+      "born": "1782-01-01",
+      "died": "1842-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1782\u20131842"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27321",
+      "_label": "John Trumbull",
+      "name": "Trumbull John",
+      "born": "1756-01-01",
+      "died": "1843-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/48",
+          "_label": "Early Museum Architecture",
+          "start": "1934-04-05T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1756\u20131843"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27269",
+      "_label": "Washington Allston",
+      "name": "Allston Washington",
+      "born": "1779-01-01",
+      "died": "1843-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1779\u20131843"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28417",
+      "_label": "Charles Bulfinch",
+      "name": "Bulfinch Charles",
+      "born": "1763-01-01",
+      "died": "1844-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/126",
+          "_label": "Three Centuries of American Architecture",
+          "start": "1939-02-15T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1763\u20131844"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35762",
+      "_label": "Christiaan Andriessen",
+      "name": "Andriessen Christiaan",
+      "born": "1775-01-01",
+      "died": "1846-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27294",
+      "_label": "Henry Inman",
+      "name": "Inman Henry",
+      "born": "1801-01-01",
+      "died": "1846-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1801\u20131846"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28194",
+      "_label": "Bernard Gaillot",
+      "name": "Gaillot Bernard",
+      "born": "1780-01-01",
+      "died": "1847-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1780\u20131847"
+    },
+    {
+      "id": "https://www.moma.org/data/person/7666",
+      "_label": "Robert Adamson",
+      "name": "Adamson Robert",
+      "born": "1821-01-01",
+      "died": "1848-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 15,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/354",
+          "_label": "The Museum Collection of Photographs",
+          "start": "1945-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/315",
+          "_label": "Photography",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/959",
+          "_label": "Photography as Printmaking",
+          "start": "1968-03-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1612",
+          "_label": "Self Portrait: The Photographer's Persona, 1840\u20131985",
+          "start": "1985-11-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1429",
+          "_label": "Nineteenth-Century Photographs from the Arnold H. Crane Collection",
+          "start": "1979-05-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2678",
+          "_label": "Towards the \"New\" Museum of Modern Art: A Bid for Space IV",
+          "start": "1963-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/193",
+          "_label": "Photographs by David Octavius Hill and Robert Adamson",
+          "start": "1941-09-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/448",
+          "_label": "50 Photographs by 50 Photographers",
+          "start": "1948-07-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1972",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1995-01-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/475",
+          "_label": "Roots of Photography",
+          "start": "1949-04-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/726",
+          "_label": "30th Anniversary Special Installation - Towards the \"New\" Museum",
+          "start": "1959-11-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1271",
+          "_label": "Photography for Collectors",
+          "start": "1976-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1821\u20131848"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27255",
+      "_label": "Thomas Cole",
+      "name": "Cole Thomas",
+      "born": "1801-01-01",
+      "died": "1848-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/266",
+          "_label": "Americans 1943: Realists and Magic-Realists",
+          "start": "1943-02-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1801\u20131848"
+    },
+    {
+      "id": "https://www.moma.org/data/person/7866",
+      "_label": "Edward Hicks",
+      "name": "Hicks Edward",
+      "born": "1780-01-01",
+      "died": "1849-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 10,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/139",
+          "_label": "Paintings and Sculpture from the Museum Collection",
+          "start": "1940-01-12T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/95",
+          "_label": "Summer Exhibition: Painting and Sculpture from the Museum Collection and on Loan",
+          "start": "1937-06-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/266",
+          "_label": "Americans 1943: Realists and Magic-Realists",
+          "start": "1943-02-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/471",
+          "_label": "Pictures for Children Aged 3\u201312 Years",
+          "start": "1949-03-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/129",
+          "_label": "Painting, Sculpture, Prints",
+          "start": "1939-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/353",
+          "_label": "The Museum Collection of Painting and Sculpture",
+          "start": "1945-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/201",
+          "_label": "Modern Primitives: Artists of the People",
+          "start": "1941-10-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/384",
+          "_label": "Designed for Children",
+          "start": "1946-06-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/23",
+          "_label": "American Folk Art: The Art of the Common Man in America, 1750\u20131900",
+          "start": "1932-11-30T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1780\u20131849"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29645",
+      "_label": "Peter De Wint",
+      "name": "De Wint Peter",
+      "born": "1784-01-01",
+      "died": "1849-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1784\u20131849"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28757",
+      "_label": "T.L. Hornbrook",
+      "name": "Hornbrook TL",
+      "born": "1780-01-01",
+      "died": "1850-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1780\u20131850"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27253",
+      "_label": "John James Audubon",
+      "name": "Audubon John James",
+      "born": "1785-01-01",
+      "died": "1851-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/266",
+          "_label": "Americans 1943: Realists and Magic-Realists",
+          "start": "1943-02-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1790",
+          "_label": "Artist's Choice: Ellsworth Kelly, Fragmentation and the Single Form",
+          "start": "1990-06-15T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1785\u20131851"
+    },
+    {
+      "id": "https://www.moma.org/data/person/4609",
+      "_label": "Charles Ramelet",
+      "name": "Ramelet Charles",
+      "born": "1805-01-01",
+      "died": "1851-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1805\u20131851"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20766",
+      "_label": "Louis-Jacques-Mand\u00e9 Daguerre",
+      "name": "Daguerre Louis-Jacques-Mand\u00e9",
+      "born": "1787-01-01",
+      "died": "1851-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 5,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/339",
+          "_label": "French Photographs: Daguerre to Atget",
+          "start": "1945-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/290",
+          "_label": "Action Photography",
+          "start": "1943-08-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/585",
+          "_label": "Then and Now",
+          "start": "1952-08-05T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1787\u20131851"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29654",
+      "_label": "Joseph Mallord William Turner",
+      "name": "Turner Joseph Mallord William",
+      "born": "1775-01-01",
+      "died": "1851-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/882",
+          "_label": "Turner: Imagination and Reality",
+          "start": "1966-03-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1775\u20131851"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27323",
+      "_label": "John Vanderlyn",
+      "name": "Vanderlyn John",
+      "born": "1775-01-01",
+      "died": "1852-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1775\u20131852"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23327",
+      "_label": "Friedrich Froebel",
+      "name": "Froebel Friedrich",
+      "born": "1782-01-01",
+      "died": "1852-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2586",
+          "_label": "Century of the Child: Growing by Design, 1900\u20132000",
+          "start": "2012-07-29T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1782\u20131852"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20937",
+      "_label": "Emile Souvestre",
+      "name": "Souvestre Emile",
+      "born": "1806-01-01",
+      "died": "1854-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2409",
+          "_label": "Van Gogh and the Colors of Night",
+          "start": "2008-09-21T00:00:00Z"
+        }
+      ],
+      "gender": "French"
+    },
+    {
+      "id": "https://www.moma.org/data/person/2189",
+      "_label": "Samuel Gragg",
+      "name": "Gragg Samuel",
+      "born": "1772-01-01",
+      "died": "1855-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2390",
+          "_label": "Architecture and Design Rotation 2008",
+          "start": "2008-04-25T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1772\u20131855"
+    },
+    {
+      "id": "https://www.moma.org/data/person/11491",
+      "_label": "Heinrich Heine",
+      "name": "Heine Heinrich",
+      "born": "1797-01-01",
+      "died": "1856-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2409",
+          "_label": "Van Gogh and the Colors of Night",
+          "start": "2008-09-21T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1797\u20131856"
+    },
+    {
+      "id": "https://www.moma.org/data/person/2229",
+      "_label": "John B. Greene",
+      "name": "Greene John",
+      "born": "1832-01-01",
+      "died": "1856-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 5,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        }
+      ],
+      "gender": "American, born France. 1832\u20131856"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27286",
+      "_label": "Thomas Doughty",
+      "name": "Doughty Thomas",
+      "born": "1793-01-01",
+      "died": "1856-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1793\u20131856"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1036",
+      "_label": "Theodore Chass\u00e9riau",
+      "name": "Chass\u00e9riau Theodore",
+      "born": "1819-01-01",
+      "died": "1856-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        }
+      ],
+      "gender": "French"
+    },
+    {
+      "id": "https://www.moma.org/data/person/32787",
+      "_label": "Frederick Scott Archer",
+      "name": "Archer Frederick Scott",
+      "born": "1813-01-01",
+      "died": "1857-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1429",
+          "_label": "Nineteenth-Century Photographs from the Arnold H. Crane Collection",
+          "start": "1979-05-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/5225",
+      "_label": "Charles Simart",
+      "name": "Simart Charles",
+      "born": "1806-01-01",
+      "died": "1857-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/944",
+          "_label": "Composing with the Figure",
+          "start": "1999-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1806\u20131857"
+    },
+    {
+      "id": "https://www.moma.org/data/person/7293",
+      "_label": "Robert Howlett",
+      "name": "Howlett Robert",
+      "born": "1831-01-01",
+      "died": "1858-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 5,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2155",
+          "_label": "Rise of the Modern World",
+          "start": "1999-10-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1580",
+          "_label": "From the Gilman Collection: Photographs Preserved in Ink",
+          "start": "1984-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1972",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1995-01-19T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1831\u20131858"
+    },
+    {
+      "id": "https://www.moma.org/data/person/6669",
+      "_label": "Fallon Horne",
+      "name": "Horne Fallon",
+      "born": "",
+      "died": "1858-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1812",
+          "_label": "Recent Acquisitions",
+          "start": "1991-01-16T00:00:00Z"
+        }
+      ],
+      "gender": "British, died 1858"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21861",
+      "_label": "Achille Collas",
+      "name": "Collas Achille",
+      "born": "1794-01-01",
+      "died": "1859-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/16910",
+      "_label": "Walter Hunt",
+      "name": "Hunt Walter",
+      "born": "1795-01-01",
+      "died": "1859-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2254",
+          "_label": "Humble Masterpieces",
+          "start": "2004-04-08T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1795\u20131859"
+    },
+    {
+      "id": "https://www.moma.org/data/person/30649",
+      "_label": "Eug\u00e8ne Isabey",
+      "name": "Isabey Eug\u00e8ne",
+      "born": "1803-01-01",
+      "died": "186-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        }
+      ],
+      "gender": "1803\u2013186"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21837",
+      "_label": "Sir William Charles Ross",
+      "name": "Ross William Charles Sir",
+      "born": "1794-01-01",
+      "died": "1860-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/27835",
+      "_label": "Sir Charles Barry",
+      "name": "Barry Sir Charles",
+      "born": "1795-01-01",
+      "died": "1860-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/48",
+          "_label": "Early Museum Architecture",
+          "start": "1934-04-05T00:00:00Z"
+        }
+      ],
+      "gender": "English, 1795\u20131860"
+    },
+    {
+      "id": "https://www.moma.org/data/person/56948",
+      "_label": "Johanna Boyce",
+      "name": "Boyce Johanna",
+      "born": "1831-01-01",
+      "died": "1861-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3171",
+          "_label": "Spring Dance Series (1981): DANCETEXTFLASH Festival",
+          "start": "1981-05-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2793",
+          "_label": "Spring Dance Series (1982): Paranarrative Dance Festival",
+          "start": "1982-05-08T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/22396",
+      "_label": "Alois L\u00f6cherer",
+      "name": "L\u00f6cherer Alois",
+      "born": "1815-01-01",
+      "died": "1862-12-31",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1815\u20131862"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1407",
+      "_label": "Eug\u00e8ne Delacroix",
+      "name": "Delacroix Eug\u00e8ne",
+      "born": "1798-01-01",
+      "died": "1863-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/640",
+          "_label": "Fifteen Paintings by French Masters of the 19th Century from the Louvre and the Museums of Albi and Lyon",
+          "start": "1955-02-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/76",
+          "_label": "Modern Painters and Sculptors as Illustrators",
+          "start": "1936-04-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/49",
+          "_label": "The Lillie P. Bliss Collection, 1934",
+          "start": "1934-05-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/602",
+          "_label": "Edward G. Robinson Collection",
+          "start": "1953-03-03T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1798\u20131863"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1102",
+      "_label": "Charles Clifford",
+      "name": "Clifford Charles",
+      "born": "1819-01-01",
+      "died": "1863-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1429",
+          "_label": "Nineteenth-Century Photographs from the Arnold H. Crane Collection",
+          "start": "1979-05-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2692",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1979-05-16T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1819\u20131863"
+    },
+    {
+      "id": "https://www.moma.org/data/person/29646",
+      "_label": "William Dyce",
+      "name": "Dyce William",
+      "born": "1806-01-01",
+      "died": "1864-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/677",
+          "_label": "Masters of British Painting, 1800\u20131950",
+          "start": "1956-10-03T00:00:00Z"
+        }
+      ],
+      "gender": "Scottish, 1806\u20131864"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27830",
+      "_label": "Leo von Klenze",
+      "name": "Klenze Leo von",
+      "born": "1784-01-01",
+      "died": "1864-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/975",
+          "_label": "Architecture of Museums",
+          "start": "1968-09-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/48",
+          "_label": "Early Museum Architecture",
+          "start": "1934-04-05T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1784\u20131864"
+    },
+    {
+      "id": "https://www.moma.org/data/person/2445",
+      "_label": "Clementina, Lady Hawarden",
+      "name": "Hawarden Clementina",
+      "born": "1822-01-01",
+      "died": "1865-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2147",
+          "_label": "Posed to unposed: Encounters with the Camera",
+          "start": "1999-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1797",
+          "_label": "Lady Hawarden, Victorian Photographer",
+          "start": "1990-07-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2488",
+          "_label": "Pictures by Women: A History of Modern Photography (Part 2)",
+          "start": "2010-05-07T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1822\u20131865"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35737",
+      "_label": "Leopoldo Alinari",
+      "name": "Alinari Leopoldo",
+      "born": "1832-01-01",
+      "died": "1865-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/22484",
+      "_label": "Julien Vallou de Villeneuve",
+      "name": "Vallou de Villeneuve Julien",
+      "born": "1795-01-01",
+      "died": "1866-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1795\u20131866"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22308",
+      "_label": "Auguste Belloc",
+      "name": "Belloc Auguste",
+      "born": "1800-01-01",
+      "died": "1867-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1800\u20131867"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24711",
+      "_label": "Jean-Auguste-Dominique Ingres",
+      "name": "Ingres Jean-Auguste-Dominique",
+      "born": "1780-01-01",
+      "died": "1867-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/192",
+          "_label": "Ancestral Sources of Modern Painting",
+          "start": "1941-08-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2631",
+          "_label": "Henri Labrouste: Structure Brought to Light",
+          "start": "2013-03-10T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1780\u20131867"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21950",
+      "_label": "Lord William Parsons, 3rd Earl of Rosse",
+      "name": "Parsons William 3rd Earl of Rosse Lord",
+      "born": "1800-01-01",
+      "died": "1867-12-31",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1800\u20131867"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28753",
+      "_label": "Emanuel Leutze",
+      "name": "Leutze Emanuel",
+      "born": "1816-01-01",
+      "died": "1868-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        }
+      ],
+      "gender": "German, 1816\u20131868"
+    },
+    {
+      "id": "https://www.moma.org/data/person/63317",
+      "_label": "Sheldon Peck",
+      "name": "Peck Sheldon",
+      "born": "1797-01-01",
+      "died": "1868-12-31",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/28202",
+      "_label": "Charles Meryon",
+      "name": "Meryon Charles",
+      "born": "1821-01-01",
+      "died": "1868-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1069",
+          "_label": "Four Americans in Paris: The Collections of Gertrude Stein and her Family",
+          "start": "1970-12-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1821\u20131868"
+    },
+    {
+      "id": "https://www.moma.org/data/person/7669",
+      "_label": "Charles Thurston Thompson",
+      "name": "Thompson Charles",
+      "born": "1816-01-01",
+      "died": "1868-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2155",
+          "_label": "Rise of the Modern World",
+          "start": "1999-10-28T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1816\u20131868"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27261",
+      "_label": "William S. Mount",
+      "name": "Mount William S.",
+      "born": "1807-01-01",
+      "died": "1868-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/266",
+          "_label": "Americans 1943: Realists and Magic-Realists",
+          "start": "1943-02-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1807\u20131868"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27278",
+      "_label": "T. Chambers",
+      "name": "Chambers T.",
+      "born": "1808-01-01",
+      "died": "1869-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1808\u20131869"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24706",
+      "_label": "Jules Andr\u00e9",
+      "name": "Andr\u00e9 Jules",
+      "born": "1807-01-01",
+      "died": "1869-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2631",
+          "_label": "Henri Labrouste: Structure Brought to Light",
+          "start": "2013-03-10T00:00:00Z"
+        }
+      ],
+      "gender": "1807\u20131869"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24474",
+      "_label": "Alois Auer",
+      "name": "Auer Alois",
+      "born": "1813-01-01",
+      "died": "1869-12-31",
+      "nationality": "Austrian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2563",
+          "_label": "Printin,' in conjunction with the exhibition, Print/Out",
+          "start": "2012-02-15T00:00:00Z"
+        }
+      ],
+      "gender": "Austrian, 1813\u20131869"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1766",
+      "_label": "Roger Fenton",
+      "name": "Fenton Roger",
+      "born": "1819-01-01",
+      "died": "1869-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 17,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2147",
+          "_label": "Posed to unposed: Encounters with the Camera",
+          "start": "1999-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/315",
+          "_label": "Photography",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/826",
+          "_label": "The Photographer's Eye",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1812",
+          "_label": "Recent Acquisitions",
+          "start": "1991-01-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2155",
+          "_label": "Rise of the Modern World",
+          "start": "1999-10-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2138",
+          "_label": "The Museum as Muse: Artists Reflect",
+          "start": "1999-03-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1580",
+          "_label": "From the Gilman Collection: Photographs Preserved in Ink",
+          "start": "1984-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2692",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1979-05-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/726",
+          "_label": "30th Anniversary Special Installation - Towards the \"New\" Museum",
+          "start": "1959-11-18T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1819\u20131869"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35751",
+      "_label": "William Newton",
+      "name": "Newton William John",
+      "born": "1785-01-01",
+      "died": "1869-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/20941",
+      "_label": "Charles Augustin Sainte-Beuve",
+      "name": "Sainte-Beuve Charles Augustin",
+      "born": "1804-01-01",
+      "died": "1869-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2409",
+          "_label": "Van Gogh and the Colors of Night",
+          "start": "2008-09-21T00:00:00Z"
+        }
+      ],
+      "gender": "French"
+    },
+    {
+      "id": "https://www.moma.org/data/person/2540",
+      "_label": "David Octavius Hill",
+      "name": "Hill David Octavius",
+      "born": "1802-01-01",
+      "died": "1870-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 30,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/416",
+          "_label": "Alfred Stieglitz Exhibition: His Collection",
+          "start": "1947-06-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2147",
+          "_label": "Posed to unposed: Encounters with the Camera",
+          "start": "1999-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/354",
+          "_label": "The Museum Collection of Photographs",
+          "start": "1945-06-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/315",
+          "_label": "Photography",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/944",
+          "_label": "Composing with the Figure",
+          "start": "1999-10-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/959",
+          "_label": "Photography as Printmaking",
+          "start": "1968-03-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1468",
+          "_label": "Reinstallation of the Collection",
+          "start": "1980-10-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1612",
+          "_label": "Self Portrait: The Photographer's Persona, 1840\u20131985",
+          "start": "1985-11-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1429",
+          "_label": "Nineteenth-Century Photographs from the Arnold H. Crane Collection",
+          "start": "1979-05-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/294",
+          "_label": "Portraits",
+          "start": "1943-11-04T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2678",
+          "_label": "Towards the \"New\" Museum of Modern Art: A Bid for Space IV",
+          "start": "1963-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1453",
+          "_label": "Edward Steichen Photography Center Reinstallation",
+          "start": "1979-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/193",
+          "_label": "Photographs by David Octavius Hill and Robert Adamson",
+          "start": "1941-09-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/448",
+          "_label": "50 Photographs by 50 Photographers",
+          "start": "1948-07-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1580",
+          "_label": "From the Gilman Collection: Photographs Preserved in Ink",
+          "start": "1984-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1810",
+          "_label": "Artist's Choice: Chuck Close, Head-On/The Modern Portrait",
+          "start": "1991-01-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/167",
+          "_label": "Sixty Photographs: A Survey of Camera Esthetics",
+          "start": "1940-12-31T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1972",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1995-01-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/951",
+          "_label": "Steichen Gallery Reinstallation",
+          "start": "1967-10-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/475",
+          "_label": "Roots of Photography",
+          "start": "1949-04-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/726",
+          "_label": "30th Anniversary Special Installation - Towards the \"New\" Museum",
+          "start": "1959-11-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1007",
+          "_label": "Portrait Photographs",
+          "start": "1969-07-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1271",
+          "_label": "Photography for Collectors",
+          "start": "1976-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1802\u20131870"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22318",
+      "_label": "Jean-Charles Langlois",
+      "name": "Langlois Jean-Charles",
+      "born": "1789-01-01",
+      "died": "1870-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1789\u20131870"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27839",
+      "_label": "Jacques-Felix Duban",
+      "name": "Duban Jacques-Felix",
+      "born": "1797-01-01",
+      "died": "1870-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1256",
+          "_label": "The Architecture of the \u00c9cole des Beaux-Arts",
+          "start": "1975-10-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/48",
+          "_label": "Early Museum Architecture",
+          "start": "1934-04-05T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1797\u20131870"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31489",
+      "_label": "Fr\u00e9d\u00e9ric Bazille",
+      "name": "Bazille Fr\u00e9d\u00e9ric",
+      "born": "1841-01-01",
+      "died": "1870-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/640",
+          "_label": "Fifteen Paintings by French Masters of the 19th Century from the Louvre and the Museums of Albi and Lyon",
+          "start": "1955-02-25T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1841\u20131870"
+    },
+    {
+      "id": "https://www.moma.org/data/person/537",
+      "_label": "Robert J. Bingham",
+      "name": "Bingham Robert J.",
+      "born": "1824-01-01",
+      "died": "1870-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2325",
+          "_label": "Manet and the Execution of Maximilian",
+          "start": "2006-11-05T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1824\u20131870"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28788",
+      "_label": "Robert E. Lee",
+      "name": "Lee Robert E",
+      "born": "1807-01-01",
+      "died": "1870-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/22335",
+      "_label": "Gabriel de Rumine",
+      "name": "Rumine Gabriel de",
+      "born": "1841-01-01",
+      "died": "1871-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "Swiss, 1841\u20131871"
+    },
+    {
+      "id": "https://www.moma.org/data/person/8131",
+      "_label": "Auguste Adolphe Bertsch",
+      "name": "Bertsch Auguste Adolphe",
+      "born": "",
+      "died": "1871-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2155",
+          "_label": "Rise of the Modern World",
+          "start": "1999-10-28T00:00:00Z"
+        }
+      ],
+      "gender": "French, died 1871"
+    },
+    {
+      "id": "https://www.moma.org/data/person/215",
+      "_label": "Anna Atkins",
+      "name": "Atkins Anna",
+      "born": "1797-01-01",
+      "died": "1871-12-31",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2309",
+          "_label": "Photography Collection: Rotation 3",
+          "start": "2006-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2488",
+          "_label": "Pictures by Women: A History of Modern Photography (Part 2)",
+          "start": "2010-05-07T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1797\u20131871"
+    },
+    {
+      "id": "https://www.moma.org/data/person/5638",
+      "_label": "Michael Thonet",
+      "name": "Thonet Michael",
+      "born": "1796-01-01",
+      "died": "1871-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/131",
+          "_label": "Houses and Housing: Industrial Art",
+          "start": "1939-05-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2390",
+          "_label": "Architecture and Design Rotation 2008",
+          "start": "2008-04-25T00:00:00Z"
+        }
+      ],
+      "gender": "Austrian, 1796\u20131871"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24679",
+      "_label": "Hector Horeau",
+      "name": "Horeau Hector",
+      "born": "1801-01-01",
+      "died": "1872-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2631",
+          "_label": "Henri Labrouste: Structure Brought to Light",
+          "start": "2013-03-10T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1801\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27307",
+      "_label": "Samuel Finley Breese Morse",
+      "name": "Morse Samuel Finley Breese",
+      "born": "1791-01-01",
+      "died": "1872-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1791\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20542",
+      "_label": "Th\u00e9odule Dev\u00e9ria",
+      "name": "Dev\u00e9ria Th\u00e9odule",
+      "born": "1831-01-01",
+      "died": "1872-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1831\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27287",
+      "_label": "Robert S. Duncanson",
+      "name": "Duncanson Robert S.",
+      "born": "1821-01-01",
+      "died": "1872-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1821\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/12702",
+      "_label": "Louis D\u00e9sir\u00e9 Blanquart-Evrard",
+      "name": "Blanquart-Evrard Louis D\u00e9sir\u00e9",
+      "born": "1802-01-01",
+      "died": "1872-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/339",
+          "_label": "French Photographs: Daguerre to Atget",
+          "start": "1945-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/500",
+          "_label": "Roots of French Photography",
+          "start": "1949-11-29T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/3524",
+      "_label": "Robert Macpherson",
+      "name": "Macpherson Robert",
+      "born": "1811-01-01",
+      "died": "1872-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/959",
+          "_label": "Photography as Printmaking",
+          "start": "1968-03-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1811\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28235",
+      "_label": "A. de Brebisson",
+      "name": "Brebisson A de",
+      "born": "1798-01-01",
+      "died": "1872-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1798\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/4930",
+      "_label": "Auguste Salzmann",
+      "name": "Salzmann Auguste",
+      "born": "1824-01-01",
+      "died": "1872-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1280",
+          "_label": "Photography: Recent Acquisitions, 1974\u20131976",
+          "start": "1976-05-06T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1824\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27260",
+      "_label": "John Frederick Kensett",
+      "name": "Kensett John Frederick",
+      "born": "1816-01-01",
+      "died": "1872-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/266",
+          "_label": "Americans 1943: Realists and Magic-Realists",
+          "start": "1943-02-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1816\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27277",
+      "_label": "George Catlin",
+      "name": "Catlin George",
+      "born": "1796-01-01",
+      "died": "1872-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1796\u20131872"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20935",
+      "_label": "Jules Michelet",
+      "name": "Michelet Jules",
+      "born": "1798-01-01",
+      "died": "1874-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2409",
+          "_label": "Van Gogh and the Colors of Night",
+          "start": "2008-09-21T00:00:00Z"
+        }
+      ],
+      "gender": "French"
+    },
+    {
+      "id": "https://www.moma.org/data/person/32289",
+      "_label": "Victor Baltard",
+      "name": "Baltard Victor",
+      "born": "1805-01-01",
+      "died": "1874-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1256",
+          "_label": "The Architecture of the \u00c9cole des Beaux-Arts",
+          "start": "1975-10-29T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1805\u20131874"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22317",
+      "_label": "Louis Adolphe Humbert de Molard",
+      "name": "Molard Louis Adolphe Humbert de",
+      "born": "1800-01-01",
+      "died": "1874-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1800\u20131874"
+    },
+    {
+      "id": "https://www.moma.org/data/person/17086",
+      "_label": "Christian Sander",
+      "name": "Sander Christian Sr.",
+      "born": "1788-01-01",
+      "died": "1874-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2265",
+          "_label": "Architecture and Design: Inaugural Installation",
+          "start": "2004-11-20T00:00:00Z"
+        }
+      ],
+      "gender": "Austrian, born Germany. 1788\u20131874"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1194",
+      "_label": "Jean-Baptiste-Camille Corot",
+      "name": "Corot Jean-Baptiste-Camille",
+      "born": "1796-01-01",
+      "died": "1875-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 10,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/640",
+          "_label": "Fifteen Paintings by French Masters of the 19th Century from the Louvre and the Museums of Albi and Lyon",
+          "start": "1955-02-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/765",
+          "_label": "The Mrs. Adele R. Levy Collection: A Memorial Exhibition",
+          "start": "1961-06-09T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/702",
+          "_label": "50 Selections from the Collection of Mr. and Mrs. Walter Bareiss",
+          "start": "1958-04-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/583",
+          "_label": "French Paintings from the Molyneux Collection",
+          "start": "1952-06-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/389",
+          "_label": "Paintings from New York Private Collections",
+          "start": "1946-07-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/19",
+          "_label": "A Brief Survey of Modern Painting",
+          "start": "1932-07-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/602",
+          "_label": "Edward G. Robinson Collection",
+          "start": "1953-03-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/9",
+          "_label": "Corot, Daumier",
+          "start": "1930-10-15T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1796\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22743",
+      "_label": "Adolphe Bilordeaux",
+      "name": "Bilordeaux Adolphe",
+      "born": "1807-01-01",
+      "died": "1875-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1807\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24673",
+      "_label": "Henri Labrouste",
+      "name": "Labrouste Henri",
+      "born": "1801-01-01",
+      "died": "1875-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1256",
+          "_label": "The Architecture of the \u00c9cole des Beaux-Arts",
+          "start": "1975-10-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2631",
+          "_label": "Henri Labrouste: Structure Brought to Light",
+          "start": "2013-03-10T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1801\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/5831",
+      "_label": "Julius Vannerson",
+      "name": "Vannerson Julius",
+      "born": "1827-01-01",
+      "died": "1875-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1827\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/4671",
+      "_label": "Oscar G. Rejlander",
+      "name": "Rejlander Oscar G.",
+      "born": "1813-01-01",
+      "died": "1875-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/290",
+          "_label": "Action Photography",
+          "start": "1943-08-18T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1813\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/12128",
+      "_label": "Hans Christian Andersen",
+      "name": "Andersen Hans Christian",
+      "born": "1805-01-01",
+      "died": "1875-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2409",
+          "_label": "Van Gogh and the Colors of Night",
+          "start": "2008-09-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35758",
+      "_label": "Thomas Sutton",
+      "name": "Sutton Thomas",
+      "born": "1819-01-01",
+      "died": "1875-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/21853",
+      "_label": "Bruno Braquehais",
+      "name": "Braquehais Bruno",
+      "born": "1823-01-01",
+      "died": "1875-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1823\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/28776",
+      "_label": "Seth Eastman",
+      "name": "Eastman Seth",
+      "born": "1808-01-01",
+      "died": "1875-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1808\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1562",
+      "_label": "Guillaume-Benjamin-Armand Duchenne de Boulogne",
+      "name": "Duchenne de Boulogne Guillaume-Benjamin-Armand",
+      "born": "1806-01-01",
+      "died": "1875-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2155",
+          "_label": "Rise of the Modern World",
+          "start": "1999-10-28T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1806\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/19722",
+      "_label": "Jean-Fran\u00e7ois Millet",
+      "name": "Millet Jean-Fran\u00e7ois",
+      "born": "1814-01-01",
+      "died": "1875-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1263",
+          "_label": "A Museum Menagerie",
+          "start": "1975-12-09T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1814\u20131875"
+    },
+    {
+      "id": "https://www.moma.org/data/person/552",
+      "_label": "Louis-Auguste Bisson",
+      "name": "Bisson Louis-Auguste",
+      "born": "1814-01-01",
+      "died": "1876-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 7,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/500",
+          "_label": "Roots of French Photography",
+          "start": "1949-11-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1580",
+          "_label": "From the Gilman Collection: Photographs Preserved in Ink",
+          "start": "1984-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2631",
+          "_label": "Henri Labrouste: Structure Brought to Light",
+          "start": "2013-03-10T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1814\u20131876"
+    },
+    {
+      "id": "https://www.moma.org/data/person/5565",
+      "_label": "William Henry Fox Talbot",
+      "name": "Talbot William Henry Fox",
+      "born": "1800-01-01",
+      "died": "1877-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 21,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/708",
+          "_label": "Photographs from the Museum Collection",
+          "start": "1958-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/821",
+          "_label": "Edward Steichen Photography Center",
+          "start": "1964-05-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/315",
+          "_label": "Photography",
+          "start": "1944-05-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1468",
+          "_label": "Reinstallation of the Collection",
+          "start": "1980-10-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1429",
+          "_label": "Nineteenth-Century Photographs from the Arnold H. Crane Collection",
+          "start": "1979-05-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2678",
+          "_label": "Towards the \"New\" Museum of Modern Art: A Bid for Space IV",
+          "start": "1963-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1280",
+          "_label": "Photography: Recent Acquisitions, 1974\u20131976",
+          "start": "1976-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1453",
+          "_label": "Edward Steichen Photography Center Reinstallation",
+          "start": "1979-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2159",
+          "_label": "Modern Starts: Things",
+          "start": "1999-11-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2533",
+          "_label": "Photography Collection: Rotation",
+          "start": "2011-05-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1580",
+          "_label": "From the Gilman Collection: Photographs Preserved in Ink",
+          "start": "1984-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/290",
+          "_label": "Action Photography",
+          "start": "1943-08-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2309",
+          "_label": "Photography Collection: Rotation 3",
+          "start": "2006-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/475",
+          "_label": "Roots of Photography",
+          "start": "1949-04-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2411",
+          "_label": "The Printed Picture",
+          "start": "2008-10-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/726",
+          "_label": "30th Anniversary Special Installation - Towards the \"New\" Museum",
+          "start": "1959-11-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/585",
+          "_label": "Then and Now",
+          "start": "1952-08-05T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1800\u20131877"
+    },
+    {
+      "id": "https://www.moma.org/data/person/152",
+      "_label": "James Anderson",
+      "name": "Anderson James",
+      "born": "1813-01-01",
+      "died": "1877-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1813\u20131877"
+    },
+    {
+      "id": "https://www.moma.org/data/person/718",
+      "_label": "Adolphe Braun",
+      "name": "Braun Adolphe",
+      "born": "1812-01-01",
+      "died": "1877-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 5,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/857",
+          "_label": "Glamour Portraits",
+          "start": "1965-08-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1972",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1995-01-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1271",
+          "_label": "Photography for Collectors",
+          "start": "1976-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1812\u20131877"
+    },
+    {
+      "id": "https://www.moma.org/data/person/31490",
+      "_label": "Gustave Courbet",
+      "name": "Courbet Gustave",
+      "born": "1819-01-01",
+      "died": "1877-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/640",
+          "_label": "Fifteen Paintings by French Masters of the 19th Century from the Louvre and the Museums of Albi and Lyon",
+          "start": "1955-02-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/702",
+          "_label": "50 Selections from the Collection of Mr. and Mrs. Walter Bareiss",
+          "start": "1958-04-23T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1819\u20131877"
+    },
+    {
+      "id": "https://www.moma.org/data/person/223",
+      "_label": "Charles Aubry",
+      "name": "Aubry Charles",
+      "born": "1811-01-01",
+      "died": "1877-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 6,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/1468",
+          "_label": "Reinstallation of the Collection",
+          "start": "1980-10-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1453",
+          "_label": "Edward Steichen Photography Center Reinstallation",
+          "start": "1979-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1972",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1995-01-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2309",
+          "_label": "Photography Collection: Rotation 3",
+          "start": "2006-03-15T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1811\u20131877"
+    },
+    {
+      "id": "https://www.moma.org/data/person/7523",
+      "_label": "Henri-Victor Regnault",
+      "name": "Regnault Henri-Victor",
+      "born": "1810-01-01",
+      "died": "1878-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1810\u20131878"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1255",
+      "_label": "George Cruikshank",
+      "name": "Cruikshank George",
+      "born": "1792-01-01",
+      "died": "1878-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        }
+      ],
+      "gender": "British, 1792\u20131878"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24680",
+      "_label": "Eug\u00e9ne Millet",
+      "name": "Millet Eug\u00e9ne",
+      "born": "1819-01-01",
+      "died": "1879-12-31",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2631",
+          "_label": "Henri Labrouste: Structure Brought to Light",
+          "start": "2013-03-10T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1819\u20131879"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27254",
+      "_label": "George Caleb Bingham",
+      "name": "Bingham George Caleb",
+      "born": "1811-01-01",
+      "died": "1879-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 7,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/82",
+          "_label": "American Art Portfolio",
+          "start": "1936-09-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/266",
+          "_label": "Americans 1943: Realists and Magic-Realists",
+          "start": "1943-02-10T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1298",
+          "_label": "The Natural Paradise: Painting in America 1800\u20131950",
+          "start": "1976-09-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/63",
+          "_label": "George Caleb Bingham, the Missouri Artist, 1811\u20131879",
+          "start": "1935-01-28T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1811\u20131879"
+    },
+    {
+      "id": "https://www.moma.org/data/person/63297",
+      "_label": "William Rimmer",
+      "name": "Rimmer William",
+      "born": "1816-01-01",
+      "died": "1879-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American (born England) 1816-18799"
+    },
+    {
+      "id": "https://www.moma.org/data/person/1330",
+      "_label": "Honor\u00e9 Daumier",
+      "name": "Daumier Honor\u00e9",
+      "born": "1808-01-01",
+      "died": "1879-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 18,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/640",
+          "_label": "Fifteen Paintings by French Masters of the 19th Century from the Louvre and the Museums of Albi and Lyon",
+          "start": "1955-02-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1069",
+          "_label": "Four Americans in Paris: The Collections of Gertrude Stein and her Family",
+          "start": "1970-12-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/76",
+          "_label": "Modern Painters and Sculptors as Illustrators",
+          "start": "1936-04-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/905",
+          "_label": "The Taste of a Connoisseur: The Paul J. Sachs Collection",
+          "start": "1966-12-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/397",
+          "_label": "On Being a Cartoonist",
+          "start": "1946-10-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/148",
+          "_label": "New Acquisitions: A Gift of Modern Sculpture",
+          "start": "1940-03-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2803",
+          "_label": "Timeline: The Chronicle of US Intervention in Central and Latin America",
+          "start": "1984-01-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/84",
+          "_label": "Fantastic Art, Dada, Surrealism",
+          "start": "1936-12-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/166",
+          "_label": "We Like Modern Art",
+          "start": "1940-12-27T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/500",
+          "_label": "Roots of French Photography",
+          "start": "1949-11-29T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/49",
+          "_label": "The Lillie P. Bliss Collection, 1934",
+          "start": "1934-05-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/13",
+          "_label": "Memorial Exhibition: The Collection of the Late Lillie P. Bliss",
+          "start": "1931-05-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/389",
+          "_label": "Paintings from New York Private Collections",
+          "start": "1946-07-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/183",
+          "_label": "Animals in Art; Designing a Stage Setting",
+          "start": "1941-07-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/245",
+          "_label": "How Modern Artists Paint People",
+          "start": "1942-09-22T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/80",
+          "_label": "Summer Exhibition: The Museum Collection and a Private Collection on Loan",
+          "start": "1936-07-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/19",
+          "_label": "A Brief Survey of Modern Painting",
+          "start": "1932-07-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/9",
+          "_label": "Corot, Daumier",
+          "start": "1930-10-15T00:00:00Z"
+        }
+      ],
+      "gender": "French"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27456",
+      "_label": "Pancho Fierro",
+      "name": "Fierro Pancho",
+      "born": "1810-01-01",
+      "died": "1879-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/273",
+          "_label": "The Latin-American Collection of the Museum of Modern Art",
+          "start": "1943-03-31T00:00:00Z"
+        }
+      ],
+      "gender": "Peruvian, 1810\u20131879"
+    },
+    {
+      "id": "https://www.moma.org/data/person/27293",
+      "_label": "William Morris Hunt",
+      "name": "Hunt William Morris",
+      "born": "1824-01-01",
+      "died": "1879-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/322",
+          "_label": "American Battle Painting 1776\u20131918",
+          "start": "1944-09-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/296",
+          "_label": "Romantic Painting in America",
+          "start": "1943-11-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/117",
+          "_label": "Three Centuries of American Art",
+          "start": "1938-05-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, 1824\u20131879"
+    },
+    {
+      "id": "https://www.moma.org/data/person/3657",
+      "_label": "Charles Marville",
+      "name": "Marville Charles",
+      "born": "1816-01-01",
+      "died": "1879-12-31",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 11,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2330",
+          "_label": "Photography Collection: Rotation 4",
+          "start": "2006-12-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/339",
+          "_label": "French Photographs: Daguerre to Atget",
+          "start": "1945-02-21T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1487",
+          "_label": "Before Photography: Painting and the Invention of Photography",
+          "start": "1981-05-06T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1777",
+          "_label": "Photography Until Now",
+          "start": "1990-02-18T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2455",
+          "_label": "Photography Collection: Rotation 6",
+          "start": "2009-08-07T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1812",
+          "_label": "Recent Acquisitions",
+          "start": "1991-01-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/90",
+          "_label": "Photography 1839\u20131937",
+          "start": "1937-03-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1580",
+          "_label": "From the Gilman Collection: Photographs Preserved in Ink",
+          "start": "1984-11-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1972",
+          "_label": "Recent Acquisitions: Photography",
+          "start": "1995-01-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2309",
+          "_label": "Photography Collection: Rotation 3",
+          "start": "2006-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2152",
+          "_label": "Changing Visions: French Landscape",
+          "start": "1999-10-28T00:00:00Z"
+        }
+      ],
+      "gender": "French, 1816\u20131879"
+    }
+  ]
+}

@@ -1,0 +1,4110 @@
+{
+  "persons": [
+    {
+      "id": "https://www.moma.org/data/person/29921",
+      "_label": "Callicrates",
+      "name": "Callicrates",
+      "born": "470-01-01",
+      "died": "420-12-31",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/488",
+          "_label": "Painting and Sculpture in Architecture",
+          "start": "1949-08-03T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/50456",
+      "_label": "CHTO DELAT",
+      "name": "CHTO DELAT",
+      "born": "2003-01-01",
+      "died": "",
+      "nationality": "Russian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Russian, born 2003"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59191",
+      "_label": "Yuri Albert",
+      "name": "Albert Yuri",
+      "born": "2001-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3698",
+          "_label": "Perspectives of Conceptualism",
+          "start": "1991-03-14T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59369",
+      "_label": "Jose Davila",
+      "name": "Davila Jose",
+      "born": "2000-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3451",
+          "_label": "Mexico City: An Exhibition about the Exchange Rates of Bodies and Values",
+          "start": "2002-06-30T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60402",
+      "_label": "Leah Singer",
+      "name": "Singer Leah",
+      "born": "2000-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2913",
+          "_label": "The Winter of Love (L'Hiver de l'Amour)",
+          "start": "1994-10-09T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/58390",
+      "_label": "Beth Coleman",
+      "name": "Coleman Beth",
+      "born": "2000-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2881",
+          "_label": "Volume: Bed of Sound",
+          "start": "2000-07-02T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60428",
+      "_label": "Oliver Kochta-Kalleinen",
+      "name": "Kochta-Kalleinen Oliver",
+      "born": "2000-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3515",
+          "_label": "Arctic Hysteria: New Art from Finland",
+          "start": "2008-06-01T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/57456",
+      "_label": "Theodora Skipitares",
+      "name": "Skipitares Theodora",
+      "born": "2000-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2798",
+          "_label": "Performance (Spring 1982): Performance Rites: the Word, the Flesh, the Fracas, and the Light",
+          "start": "1982-04-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2917",
+          "_label": "Figuratively Sculpting",
+          "start": "1981-10-18T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/59908",
+      "_label": "Gil Blank",
+      "name": "Blank Gil",
+      "born": "1997-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3442",
+          "_label": "Greater New York 2005",
+          "start": "2005-03-13T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/26841",
+      "_label": "The Radek Community",
+      "name": "The Radek Community",
+      "born": "1997-01-01",
+      "died": "",
+      "nationality": "Russian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3241",
+          "_label": "Zero Tolerance",
+          "start": "2014-10-26T00:00:00Z"
+        }
+      ],
+      "gender": "Russian, founded 1997"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58210",
+      "_label": "Markus Hansen",
+      "name": "Hansen Markus",
+      "born": "1992-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2913",
+          "_label": "The Winter of Love (L'Hiver de l'Amour)",
+          "start": "1994-10-09T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23580",
+      "_label": "Max Weisel",
+      "name": "Weisel Max",
+      "born": "1991-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1991"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60475",
+      "_label": "Pharmakon",
+      "name": "Pharmakon",
+      "born": "1990-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60445",
+      "_label": "Harry Burke",
+      "name": "Burke Harry",
+      "born": "1990-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60108",
+      "_label": "Peter Acheson",
+      "name": "Acheson Peter",
+      "born": "1990-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2858",
+          "_label": "Orpheus Selection: In Search of Darkness",
+          "start": "2007-06-24T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60489",
+      "_label": "Abdullah Al-Mutairi",
+      "name": "Al-Mutairi Abdullah",
+      "born": "1990-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60457",
+      "_label": "Sophia Le fraga",
+      "name": "Le Fraga Sophia",
+      "born": "1990-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60477",
+      "_label": "Bunny Rogers",
+      "name": "Rogers Bunny",
+      "born": "1990-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60446",
+      "_label": "Andrew Durbin",
+      "name": "Durbin Andrew",
+      "born": "1989-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60447",
+      "_label": "Diego Echeverr\u00eda",
+      "name": "Echeverria Diego",
+      "born": "1989-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/58701",
+      "_label": "Michael Brewster",
+      "name": "Brewster Michael",
+      "born": "1989-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3326",
+          "_label": "Special Projects (Fall 1979): Sound",
+          "start": "1979-09-30T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/51860",
+      "_label": "Martine Syms",
+      "name": "Syms Martine",
+      "born": "1988-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, 1988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26766",
+      "_label": "James Ferraro",
+      "name": "Ferraro James",
+      "born": "1988-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3245",
+          "_label": "James Ferraro: 100%",
+          "start": "2014-03-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3588",
+          "_label": "MoMA PS1 Long-Term Installations",
+          "start": "1976-01-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23587",
+      "_label": "Konstantin Datz",
+      "name": "Datz Konstantin",
+      "born": "1988-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35203",
+      "_label": "Calvin Marcus",
+      "name": "Marcus Calvin",
+      "born": "1988-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35022",
+      "_label": "Elizabeth Jaeger",
+      "name": "Jaeger Elizabeth",
+      "born": "1988-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34991",
+      "_label": "Cameron Rowland",
+      "name": "Rowland Cameron",
+      "born": "1988-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1988"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60440",
+      "_label": "Meriem Bennani",
+      "name": "Bennani Meriem",
+      "born": "1988-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3548",
+          "_label": "Meriem Bennani: FLY",
+          "start": "2016-06-19T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35044",
+      "_label": "Eric Mack",
+      "name": "Mack Eric",
+      "born": "1987-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1987"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35035",
+      "_label": "Jamian Juliano-Villani",
+      "name": "Juliano-Villani Jamian",
+      "born": "1987-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1987"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60464",
+      "_label": "Morgan Parker",
+      "name": "Parker Morgan",
+      "born": "1987-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35624",
+      "_label": "Avery Singer",
+      "name": "Singer Avery",
+      "born": "1987-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1987"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60486",
+      "_label": "Nanu Al-Hamad",
+      "name": "Al-Hamad Nanu",
+      "born": "1987-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35037",
+      "_label": "Devin Kenny",
+      "name": "Kenny Devin",
+      "born": "1987-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1987"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60271",
+      "_label": "Kelly Chang",
+      "name": "Chang Kelly",
+      "born": "1987-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2834",
+          "_label": "Greater New York",
+          "start": "2000-02-27T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23575",
+      "_label": "Dan Collier",
+      "name": "Collier Dan",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35049",
+      "_label": "Hayley Silverman",
+      "name": "Silverman Hayley",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23790",
+      "_label": "Jennifer Kay",
+      "name": "Kay Jennifer",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Scottish, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23513",
+      "_label": "Mayo Nissen",
+      "name": "Nissen Mayo",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34203",
+      "_label": "Marina Pinsky",
+      "name": "Pinsky Marina",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "Russian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Russian, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35063",
+      "_label": "Sondra Perry",
+      "name": "Perry Sondra",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26659",
+      "_label": "Korakrit Arunanondchai",
+      "name": "Arunanondchai Korakrit",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3249",
+          "_label": "Korakrit Arunanondchai",
+          "start": "2014-03-09T00:00:00Z"
+        }
+      ],
+      "gender": "Thai, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24165",
+      "_label": "Roger Pujol",
+      "name": "Pujol Roger",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "Spanish",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Spanish, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35607",
+      "_label": "Jacolby Satterwhite",
+      "name": "Satterwhite Jacolby",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3277",
+          "_label": "Clifford Owens: Anthology",
+          "start": "2011-11-13T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23988",
+      "_label": "Marguerite Humeau",
+      "name": "Humeau Marguerite",
+      "born": "1986-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "French, born 1986"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58606",
+      "_label": "David Godbold",
+      "name": "Godbold David",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3725",
+          "_label": "Clockwork 2000: P.S. 1 National and International Studio Program 1999\u20132000",
+          "start": "2000-05-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/26330",
+      "_label": "Helen Marten",
+      "name": "Marten Helen",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3571",
+          "_label": "New Pictures of Common Objects",
+          "start": "2012-10-21T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23579",
+      "_label": "Katrin Baumgarten",
+      "name": "Baumgarten Katrin",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35028",
+      "_label": "Stewart Uoo",
+      "name": "Uoo Stewart",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23552",
+      "_label": "Pedro Miguel Cruz",
+      "name": "Cruz Pedro Miguel",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "Portuguese",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Portuguese, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33904",
+      "_label": "Kevin Beasley",
+      "name": "Beasley Kevin",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/56916",
+      "_label": "Caroline Simmons",
+      "name": "Simmons Caroline",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3174",
+          "_label": "Special Projects (Winter 1981)",
+          "start": "1981-02-17T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/24191",
+      "_label": "Sara Cwynar",
+      "name": "Cwynar Sara",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "Canadian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "Canadian, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60492",
+      "_label": "Barrak Alzaid",
+      "name": "Alzaid Barrak",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23619",
+      "_label": "Alex Kalman",
+      "name": "Kalman Alex",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23296",
+      "_label": "Sputniko!",
+      "name": "Sputniko!",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British and Japanese, born Japan 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23804",
+      "_label": "Jeroen Beekmans",
+      "name": "Beekmans Jeroen",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "Dutch",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60226",
+      "_label": "Trisha Baga",
+      "name": "Baga Trisha",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3571",
+          "_label": "New Pictures of Common Objects",
+          "start": "2012-10-21T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23490",
+      "_label": "Tim Holley",
+      "name": "Holley Tim",
+      "born": "1985-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1985"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35025",
+      "_label": "Ajay Kurian",
+      "name": "Kurian Ajay",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23348",
+      "_label": "Adam Pendleton",
+      "name": "Pendleton Adam",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2581",
+          "_label": "Ecstatic Alphabets/Heaps of Language",
+          "start": "2012-05-06T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26449",
+      "_label": "Jacob Kassay",
+      "name": "Kassay Jacob",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20210",
+      "_label": "Bailey Stevens",
+      "name": "Stevens Bailey",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24203",
+      "_label": "David Lee",
+      "name": "Lee David",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/54765",
+          "_label": "Selections from the Art Lending Service",
+          "start": "1964-06-16T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35054",
+      "_label": "Park McArthur",
+      "name": "McArthur Park",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23495",
+      "_label": "Gerard Rallo",
+      "name": "Rallo Gerard",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "Spanish",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Spanish, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35599",
+      "_label": "Ian CHENG",
+      "name": "CHENG Ian",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3567",
+          "_label": "Ian Cheng: Emissaries",
+          "start": "2017-04-09T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35627",
+      "_label": "Park McArthur",
+      "name": "McArthur Park",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60470",
+      "_label": "Jillian Mayer",
+      "name": "Mayer Jillian",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3595",
+          "_label": "Past Skin",
+          "start": "2017-04-09T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/56057",
+      "_label": "Geo Wyeth",
+      "name": "Wyeth Geo",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/57145",
+      "_label": "Andrew Keating",
+      "name": "Keating Andrew",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2788",
+          "_label": "Special Projects (Spring 1982)",
+          "start": "1982-04-04T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/26698",
+      "_label": "Zak Kitnick",
+      "name": "Kitnick Zak",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3361",
+          "_label": "Between Spaces",
+          "start": "2009-10-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3246",
+          "_label": "Taster's Choice",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23560",
+      "_label": "Camille Scherrer",
+      "name": "Scherrer Camille",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "Swiss",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Swiss, born 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60456",
+      "_label": "M. Lamar",
+      "name": "Lamar M.",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60483",
+      "_label": "Geo Wyeth",
+      "name": "Wyeth Geo",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23625",
+      "_label": "Keiichi Matsuda",
+      "name": "Matsuda Keiichi",
+      "born": "1984-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British and Japanese, born Hong Kong 1984"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25183",
+      "_label": "Dirk Vander Kooij",
+      "name": "Vander Kooij Dirk",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60462",
+      "_label": "Silas Riener",
+      "name": "Riener Silas",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60474",
+      "_label": "Rebecca Patek",
+      "name": "Patek Rebecca",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60478",
+      "_label": "Jen Rosenblit",
+      "name": "Rosenblit Jen",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60454",
+      "_label": "Eli Keszler",
+      "name": "Keszler Eli",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60395",
+      "_label": "Daniel Davidson",
+      "name": "Davidson Daniel",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2915",
+          "_label": "P.S. 1 Studio Artists, 1994",
+          "start": "1994-05-08T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/34992",
+      "_label": "Ben Thorp Brown",
+      "name": "Brown Ben Thorp",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33773",
+      "_label": "James Richards",
+      "name": "Richards James",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "British, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60491",
+      "_label": "Monira Al Qadiri",
+      "name": "Al Qadiri Monira",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60262",
+      "_label": "Zackary Drucker",
+      "name": "Drucker Zackary",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3524",
+          "_label": "Zackary Drucker: At Least You Know You Exist",
+          "start": "2012-07-07T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/34995",
+      "_label": "Raul de Nieves",
+      "name": "de Nieves Raul",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Mexican",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "Mexican, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25541",
+      "_label": "Markus Kayser",
+      "name": "Kayser Markus",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/56062",
+      "_label": "Sophia Al Maria",
+      "name": "Al Maria Sophia",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23442",
+      "_label": "James Chambers",
+      "name": "Chambers James",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35596",
+      "_label": "Basel Abbas",
+      "name": "ABBAS Basel",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Greek",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Greek, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60488",
+      "_label": "Sophia Al Maria",
+      "name": "Al Maria Sophia",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35597",
+      "_label": "Rouanne Abou-Rahm",
+      "name": "Abou-Rahm Rouanne",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23506",
+      "_label": "Benjamin Dennel",
+      "name": "Dennel Benjamin",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "French, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26456",
+      "_label": "Ryan Sullivan",
+      "name": "Sullivan Ryan",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3581",
+          "_label": "GNY: Rotating Gallery 4",
+          "start": "2010-09-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26694",
+      "_label": "Nancy Lupo",
+      "name": "Lupo Nancy",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3246",
+          "_label": "Taster's Choice",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26362",
+      "_label": "Njideka Akunyili",
+      "name": "Akunyili Njideka",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Nigerian, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23475",
+      "_label": "Kacie Kinzer",
+      "name": "Kinzer Kacie",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25178",
+      "_label": "Massoud Hassani",
+      "name": "Hassani Massoud",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, born Afghanistan 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/51059",
+      "_label": "Sascha Braunig",
+      "name": "Braunig Sascha",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "Canadian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3278",
+          "_label": "Sascha Braunig: Shivers",
+          "start": "2016-10-23T00:00:00Z"
+        }
+      ],
+      "gender": "Canadian, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23624",
+      "_label": "Johan Halin",
+      "name": "Halin Johan",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Finnish, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/58582",
+      "_label": "Daniel Bozhkov",
+      "name": "Bozhkov Daniel",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3473",
+          "_label": "Listening to New Voices: P.S. 1 2001\u20132002 National and International Studio Program Exhibition",
+          "start": "2002-05-19T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3440",
+          "_label": "Day Labor",
+          "start": "2005-10-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/20013",
+      "_label": "Mikael Metthey",
+      "name": "Metthey Mikael",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "French, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20117",
+      "_label": "Synn\u00f8ve Fredericks",
+      "name": "Fredericks Synn\u00f8ve",
+      "born": "1983-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1983"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26146",
+      "_label": "Ed Atkins",
+      "name": "Atkins Ed",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3566",
+          "_label": "Ed Atkins",
+          "start": "2013-01-20T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3276",
+          "_label": "Mark Leckey: Containers and Their Drivers",
+          "start": "2016-10-23T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23562",
+      "_label": "Joon Moon",
+      "name": "Moon Joon",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "South Korean, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20067",
+      "_label": "Aaron Koblin",
+      "name": "Koblin Aaron",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2475",
+          "_label": "Action! Design over Time",
+          "start": "2010-02-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24475",
+      "_label": "Simon Fujiwara",
+      "name": "Fujiwara Simon",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2563",
+          "_label": "Printin,' in conjunction with the exhibition, Print/Out",
+          "start": "2012-02-15T00:00:00Z"
+        }
+      ],
+      "gender": "born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23488",
+      "_label": "Ayah Bdeir",
+      "name": "Bdeir Ayah",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Lebanese, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23559",
+      "_label": "Bernhard Hopfengartner",
+      "name": "Hopfengartner Bernhard",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22684",
+      "_label": "Freddie Yauner",
+      "name": "Yauner Freddie",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2527",
+          "_label": "Standard Deviations: Types and Families in Contemporary Design",
+          "start": "2011-03-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2475",
+          "_label": "Action! Design over Time",
+          "start": "2010-02-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2567",
+          "_label": "Born out of Necessity",
+          "start": "2012-03-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33484",
+      "_label": "Eva Kot\u00e1tkov\u00e1",
+      "name": "Kotatkova Eva",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Czech, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33636",
+      "_label": "Simon Denny",
+      "name": "Denny Simon",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3362",
+          "_label": "Simon Denny: The Innovator's Dilemma",
+          "start": "2015-04-03T00:00:00Z"
+        }
+      ],
+      "gender": "New Zealander, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33899",
+      "_label": "Carina Brandes",
+      "name": "Brandes Carina",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3275",
+          "_label": "The Little Things Could Be Dearer",
+          "start": "2014-10-26T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25613",
+      "_label": "Adam Saltsman",
+      "name": "Saltsman Adam",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60448",
+      "_label": "Ben Fama",
+      "name": "Fama Ben",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/35002",
+      "_label": "Sam Anderson",
+      "name": "Anderson Sam",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26767",
+      "_label": "Zhao Zhao",
+      "name": "Zhao Zhao",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Chinese",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3241",
+          "_label": "Zero Tolerance",
+          "start": "2014-10-26T00:00:00Z"
+        }
+      ],
+      "gender": "Chinese, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23565",
+      "_label": "Louise O'Connor",
+      "name": "O'Connor Louise",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60493",
+      "_label": "Amal Khalaf",
+      "name": "Khalaf Amal",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/34149",
+      "_label": "Wu Tsang",
+      "name": "Tsang Wu",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/19990",
+      "_label": "Samuel Cabot Cochran",
+      "name": "Cochran Samuel Cabot",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2475",
+          "_label": "Action! Design over Time",
+          "start": "2010-02-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/19894",
+      "_label": "Toby Hadden",
+      "name": "Hadden Toby",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25596",
+      "_label": "Tristan Perich",
+      "name": "Perich Tristan",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2650",
+          "_label": "Soundings: A Contemporary Score",
+          "start": "2013-08-10T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/51157",
+      "_label": "Andy Holden",
+      "name": "Holden Andy",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3276",
+          "_label": "Mark Leckey: Containers and Their Drivers",
+          "start": "2016-10-23T00:00:00Z"
+        }
+      ],
+      "gender": "British, b. 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23547",
+      "_label": "Emily Read",
+      "name": "Read Emily",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23567",
+      "_label": "Marc Owens",
+      "name": "Owens Marc",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2919",
+          "_label": "The Wild Art Show",
+          "start": "1982-01-17T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60017",
+      "_label": "Johannes Vanderbeek",
+      "name": "Vanderbeek Johannes",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3435",
+          "_label": "National Projects Fall 2005: Dianna Frid, Kira Lynn Harris, Mike Cloud, Jay Heikes, and Johannes VanDerBeek",
+          "start": "2005-10-30T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/60460",
+      "_label": "Ieva Misevi\u010di\u016bt\u0117",
+      "name": "Miseviciute Ieva",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/20012",
+      "_label": "James King",
+      "name": "King James",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2770",
+          "_label": "Synesthetics: Writers and Artists",
+          "start": "1985-01-13T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2567",
+          "_label": "Born out of Necessity",
+          "start": "2012-03-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26466",
+      "_label": "Jonathas de Andrade",
+      "name": "de Andrade Jonathas",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Brazilian, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/18037",
+      "_label": "Sighild Blanc",
+      "name": "Blanc Sighild",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "French",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2290",
+          "_label": "SAFE: Design Takes on Risk",
+          "start": "2005-10-16T00:00:00Z"
+        }
+      ],
+      "gender": "French, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34103",
+      "_label": "LaToya Ruby Frazier",
+      "name": "Frazier LaToya Ruby",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33500",
+      "_label": "David Horvitz",
+      "name": "Horvitz David",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34990",
+      "_label": "Stefanie Victor",
+      "name": "Victor Stefanie",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20195",
+      "_label": "Damien Lopez",
+      "name": "Lopez Damien",
+      "born": "1982-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1982"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24100",
+      "_label": "Tauba Auerbach",
+      "name": "Auerbach Tauba",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2633",
+          "_label": "Abstract Generation: Now in Print",
+          "start": "2013-03-15T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2554",
+          "_label": "Contemporary Galleries: 1980\u2013Now",
+          "start": "2011-11-16T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2581",
+          "_label": "Ecstatic Alphabets/Heaps of Language",
+          "start": "2012-05-06T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34803",
+      "_label": "Tala Madani",
+      "name": "Madani Tala",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": "Iranian, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20227",
+      "_label": "Adrian Holovaty",
+      "name": "Holovaty Adrian",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23471",
+      "_label": "Mike Thompson",
+      "name": "Thompson Mike",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/34224",
+      "_label": "Math Bass",
+      "name": "Bass Math",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3285",
+          "_label": "Math Bass: Off the Clock",
+          "start": "2015-05-03T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23806",
+      "_label": "Christian Z\u00f6llner",
+      "name": "Z\u00f6llner Christian",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/18605",
+      "_label": "Mikhael Subotzky",
+      "name": "Subotzky Mikhael",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2408",
+          "_label": "New Photography 2008: Josephine Meckseper and Mikhael Subotzky",
+          "start": "2008-09-14T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2529",
+          "_label": "Impressions from South Africa, 1965 to Now",
+          "start": "2011-03-23T00:00:00Z"
+        }
+      ],
+      "gender": "South African, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25614",
+      "_label": "Jenova (Xinghan) Chen",
+      "name": "Chen Jenova",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "Chinese, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60487",
+      "_label": "Khalid Al Gharaballi",
+      "name": "Al Gharaballi Khalid",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/26696",
+      "_label": "Chris Wiley",
+      "name": "Wiley Chris",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3246",
+          "_label": "Taster's Choice",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25645",
+      "_label": "Loretta Fahrenholz",
+      "name": "Fahrenholz Loretta",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23498",
+      "_label": "Jonas Loh",
+      "name": "Loh Jonas",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60490",
+      "_label": "Fatima Al Qadiri",
+      "name": "Al Qadiri Fatima",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3244",
+          "_label": "GCC: Achievements in Retrospective",
+          "start": "2014-03-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/25934",
+      "_label": "Ryan Trecartin",
+      "name": "Trecartin Ryan",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3505",
+          "_label": "Ryan Trecartin: Any Ever",
+          "start": "2011-06-19T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23337",
+      "_label": "Revital Cohen",
+      "name": "Cohen Revital",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2567",
+          "_label": "Born out of Necessity",
+          "start": "2012-03-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "Israeli, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23028",
+      "_label": "Kudzanai Chiurai",
+      "name": "Chiurai Kudzanai",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2529",
+          "_label": "Impressions from South Africa, 1965 to Now",
+          "start": "2011-03-23T00:00:00Z"
+        }
+      ],
+      "gender": "Zimbabwean, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60221",
+      "_label": "David Benjamin Sherry",
+      "name": "Sherry David Benjamin",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/26142",
+      "_label": "Lizzie Fitch",
+      "name": "Fitch Lizzie",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3505",
+          "_label": "Ryan Trecartin: Any Ever",
+          "start": "2011-06-19T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/57650",
+      "_label": "Matthew Nash",
+      "name": "Nash Matthew",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2755",
+          "_label": "Spring Dance Series (1985): Dance and Popular Culture",
+          "start": "1985-05-05T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/34144",
+      "_label": "Steffani Jemison",
+      "name": "Jemison Steffani",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3277",
+          "_label": "Clifford Owens: Anthology",
+          "start": "2011-11-13T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21254",
+      "_label": "Yui Kugimiya",
+      "name": "Kugimiya Yui",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2472",
+          "_label": "Public Spaces Changes",
+          "start": "2010-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2377",
+          "_label": "Public Spaces Changes",
+          "start": "2008-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2422",
+          "_label": "Public Spaces Changes 2009",
+          "start": "2009-01-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2568",
+          "_label": "MoMA Media Lounge 2012",
+          "start": "2012-02-29T00:00:00Z"
+        }
+      ],
+      "gender": "Japanese, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25889",
+      "_label": "Sergei Tcherepnin",
+      "name": "Tcherepnin Sergei",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2650",
+          "_label": "Soundings: A Contemporary Score",
+          "start": "2013-08-10T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/19933",
+      "_label": "Erik Demaine",
+      "name": "Demaine Erik",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2415",
+          "_label": "Rough Cut: Design Takes a Sharp Edge",
+          "start": "2008-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "American, born Canada 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/33940",
+      "_label": "Sam Lewitt",
+      "name": "Lewitt Sam",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23628",
+      "_label": "Kate Hartman",
+      "name": "Hartman Kate",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60067",
+      "_label": "Devendra Banhart",
+      "name": "Banhart Devendra",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3553",
+          "_label": "Music is a Better Noise",
+          "start": "2006-10-29T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/20209",
+      "_label": "Ian Spiro",
+      "name": "Spiro Ian",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60210",
+      "_label": "Nico Muhly",
+      "name": "Muhly Nico",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23691",
+      "_label": "Kamil Jerzykowski",
+      "name": "Jerzykowski Kamil",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "Polish",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Polish, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24085",
+      "_label": "Chris O'Shea",
+      "name": "O'Shea Chris",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35047",
+      "_label": "Katherine Hubbard",
+      "name": "Hubbard Katherine",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35051",
+      "_label": "Gregory Edwards",
+      "name": "Edwards Gregory",
+      "born": "1981-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1981"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23684",
+      "_label": "Clara Gaggero",
+      "name": "Gaggero Clara",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Italian",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Italian, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23515",
+      "_label": "Soner Ozenc",
+      "name": "Ozenc Soner",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Turkish, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22715",
+      "_label": "Cyprien Gaillard",
+      "name": "Gaillard Cyprien",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2497",
+          "_label": "The Original Copy: Photography of Sculpture, 1839 to Today",
+          "start": "2010-08-01T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3568",
+          "_label": "Cyprien Gaillard: The Crystal World",
+          "start": "2013-01-20T00:00:00Z"
+        }
+      ],
+      "gender": "French, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23558",
+      "_label": "Alex Metcalf",
+      "name": "Metcalf Alex",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "British",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25789",
+      "_label": "Christine Sun Kim",
+      "name": "Sun Kim Christine",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2650",
+          "_label": "Soundings: A Contemporary Score",
+          "start": "2013-08-10T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/17752",
+      "_label": "Nick Mauss",
+      "name": "Mauss Nick",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2436",
+          "_label": "Compass in Hand: Selections from the Judith Rothschild Foundation Contemporary Drawings Collection",
+          "start": "2009-04-22T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22689",
+      "_label": "Christien Meindertsma",
+      "name": "Meindertsma Christien",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2475",
+          "_label": "Action! Design over Time",
+          "start": "2010-02-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23867",
+      "_label": "Stephen Spyropoulos",
+      "name": "Spyropoulos Stephen",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "Greek and American, born USA 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/59903",
+      "_label": "Daniel Arsham",
+      "name": "Arsham Daniel",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3442",
+          "_label": "Greater New York 2005",
+          "start": "2005-03-13T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/23871",
+      "_label": "Brian Crabtree",
+      "name": "Crabtree Brian",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/52085",
+      "_label": "Pia Camil",
+      "name": "Camil Pia",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Mexican, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/26700",
+      "_label": "Gavin Kenyon",
+      "name": "Kenyon Gavin",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3247",
+          "_label": "Gavin Kenyon: Reliquary Void",
+          "start": "2014-03-16T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20011",
+      "_label": "Christopher Woebken",
+      "name": "Woebken Christopher",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20470",
+      "_label": "Geoffrey Mann",
+      "name": "Mann Geoffrey",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 4,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2475",
+          "_label": "Action! Design over Time",
+          "start": "2010-02-03T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2627",
+          "_label": "Applied Design",
+          "start": "2013-03-01T00:00:00Z"
+        }
+      ],
+      "gender": "British, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/19910",
+      "_label": "Dan Phiffer",
+      "name": "Phiffer Dan",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "American",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/35015",
+      "_label": "Liene Bosque",
+      "name": "Bosque Liene",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": null,
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "Brazilian, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22968",
+      "_label": "Alexandre Singh",
+      "name": "Singh Alexandre",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3201",
+          "_label": "The Logic of Association",
+          "start": "2010-12-12T00:00:00Z"
+        }
+      ],
+      "gender": "French, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60473",
+      "_label": "Jordan Wolfson",
+      "name": "Wolfson Jordan",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3276",
+          "_label": "Mark Leckey: Containers and Their Drivers",
+          "start": "2016-10-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/19907",
+      "_label": "Tomoaki Yanagisawa",
+      "name": "Yanagisawa Tomoaki",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "Japanese, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/22354",
+      "_label": "Daniel Gordon",
+      "name": "Gordon Daniel",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2458",
+          "_label": "New Photography 2009: Walead Beshty, Daniel Gordon, Leslie Hewitt, Carter Mull, Sterling Ruby, and Sara Vanderbeek",
+          "start": "2009-09-30T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/1535",
+          "_label": "Recent Documentaries",
+          "start": "1983-03-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25410",
+      "_label": "J.P. Sniadecki",
+      "name": "Sniadecki J.P.",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3283",
+          "_label": "Greater New York",
+          "start": "2015-10-11T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/18712",
+      "_label": "Thiago Rocha Pitta",
+      "name": "Pitta Thiago Rocha",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3557",
+          "_label": "Time Frame",
+          "start": "2006-06-25T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2568",
+          "_label": "MoMA Media Lounge 2012",
+          "start": "2012-02-29T00:00:00Z"
+        }
+      ],
+      "gender": "Brazilian, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/24368",
+      "_label": "Haris Epaminonda",
+      "name": "Epaminonda Haris",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2552",
+          "_label": "Projects 96: Haris Epaminonda",
+          "start": "2011-11-17T00:00:00Z"
+        }
+      ],
+      "gender": "Cypriot, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/25610",
+      "_label": "Adri\u00e1n Villar Rojas",
+      "name": "Villar Rojas Adri\u00e1n",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 0,
+      "exhibitions": [],
+      "gender": "Argentine, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/21669",
+      "_label": "Jorre van Ast",
+      "name": "Ast Jorre van",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 3,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2415",
+          "_label": "Rough Cut: Design Takes a Sharp Edge",
+          "start": "2008-11-26T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2527",
+          "_label": "Standard Deviations: Types and Families in Contemporary Design",
+          "start": "2011-03-02T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/2499",
+          "_label": "Counter Space: Design and the Modern Kitchen",
+          "start": "2010-09-15T00:00:00Z"
+        }
+      ],
+      "gender": "Dutch, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60220",
+      "_label": "Aki Sasamoto",
+      "name": "Sasamoto Aki",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 2,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3592",
+          "_label": "Extended Installations from Greater New York\n",
+          "start": "2010-11-08T00:00:00Z"
+        },
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/24611",
+      "_label": "Adele R\u00f6der",
+      "name": "R\u00f6der Adele",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": "Swiss, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/19909",
+      "_label": "Eriko Matsumura",
+      "name": "Matsumura Eriko",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Female",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "Japanese, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/20229",
+      "_label": "David McNamara",
+      "name": "McNamara David",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Irish",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2380",
+          "_label": "Design and the Elastic Mind",
+          "start": "2008-02-24T00:00:00Z"
+        }
+      ],
+      "gender": "Irish, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/23848",
+      "_label": "Linda Kostowski",
+      "name": "Kostowski Linda",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "German",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/2543",
+          "_label": "Talk to Me: Design and the Communication Between People and Objects",
+          "start": "2011-07-24T00:00:00Z"
+        }
+      ],
+      "gender": "German, born 1980"
+    },
+    {
+      "id": "https://www.moma.org/data/person/60178",
+      "_label": "Alex Da Corte",
+      "name": "Da Corte Alex",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3361",
+          "_label": "Between Spaces",
+          "start": "2009-10-25T00:00:00Z"
+        }
+      ],
+      "gender": ""
+    },
+    {
+      "id": "https://www.moma.org/data/person/25155",
+      "_label": "Tommy Hartung",
+      "name": "Hartung Tommy",
+      "born": "1980-01-01",
+      "died": "",
+      "nationality": "Male",
+      "identified_by": [],
+      "referred_to_by": [],
+      "equivalent": [],
+      "total_exhibitions": 1,
+      "exhibitions": [
+        {
+          "id": "https://www.moma.org/data/Activity/3208",
+          "_label": "Greater New York 2010",
+          "start": "2010-05-23T00:00:00Z"
+        }
+      ],
+      "gender": "American, born 1980"
+    }
+  ]
+}
